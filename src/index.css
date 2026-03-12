@@ -95,6 +95,10 @@
     --input: 260 10% 18%;
     --ring: 270 50% 55%;
 
+    --brand-primary: 270 50% 55%;
+    --brand-secondary: 265 15% 15%;
+    --brand-accent: 265 15% 15%;
+
     --sidebar-background: 260 12% 8%;
     --sidebar-foreground: 260 10% 90%;
     --sidebar-primary: 270 50% 55%;
