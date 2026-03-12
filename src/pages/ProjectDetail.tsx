@@ -1,7 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import {
-  ArrowLeft, MapPin, User, DollarSign, Sparkles,
+  ArrowLeft, MapPin, User, DollarSign, Sparkles, ExternalLink,
   TreesIcon, Users, Salad, Leaf, Zap, Sun, GraduationCap,
   Trash2, Recycle, Award, Sprout, Heart, Building, Thermometer,
   Bug, Flower, Bird, BarChart3, Droplet, Monitor, Database,
@@ -18,28 +18,11 @@ import type { Project } from "@/data/types";
 const projects = projectsData as Project[];
 
 const ICON_MAP: Record<string, React.ElementType> = {
-  trees: TreesIcon,
-  users: Users,
-  salad: Salad,
-  leaf: Leaf,
-  zap: Zap,
-  dollar: DollarSign,
-  sun: Sun,
-  graduationCap: GraduationCap,
-  trash: Trash2,
-  recycle: Recycle,
-  award: Award,
-  sprout: Sprout,
-  heart: Heart,
-  mapPin: MapPin,
-  building: Building,
-  thermometer: Thermometer,
-  bug: Bug,
-  flower: Flower,
-  bird: Bird,
-  barChart: BarChart3,
-  droplet: Droplet,
-  monitor: Monitor,
+  trees: TreesIcon, users: Users, salad: Salad, leaf: Leaf, zap: Zap,
+  dollar: DollarSign, sun: Sun, graduationCap: GraduationCap, trash: Trash2,
+  recycle: Recycle, award: Award, sprout: Sprout, heart: Heart, mapPin: MapPin,
+  building: Building, thermometer: Thermometer, bug: Bug, flower: Flower,
+  bird: Bird, barChart: BarChart3, droplet: Droplet, monitor: Monitor,
   database: Database,
 };
 
@@ -70,7 +53,7 @@ const ProjectDetail = () => {
 
       <main className="flex-1">
         {/* Back */}
-        <div className="container mx-auto px-4 pt-6 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-5xl px-4 pt-6 sm:px-6 lg:px-8">
           <Button variant="ghost" size="sm" asChild className="gap-1.5 text-muted-foreground hover:text-foreground">
             <Link to="/">
               <ArrowLeft className="h-4 w-4" aria-hidden="true" />
@@ -80,7 +63,7 @@ const ProjectDetail = () => {
         </div>
 
         {/* Header */}
-        <header className="container mx-auto px-4 py-8 sm:px-6 lg:px-8">
+        <header className="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
           <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
             <img
               src={project.collegeLogoUrl}
@@ -104,7 +87,7 @@ const ProjectDetail = () => {
           </div>
         </header>
 
-        <div className="container mx-auto px-4 pb-12 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-5xl px-4 pb-12 sm:px-6 lg:px-8">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main content */}
             <div className="lg:col-span-2 space-y-10">
@@ -122,7 +105,7 @@ const ProjectDetail = () => {
                   {data.highlights.map((h, i) => {
                     const Icon = ICON_MAP[h.icon] ?? Sparkles;
                     return (
-                      <Card key={i} className="text-center">
+                      <Card key={i} className="text-center border-primary/10 bg-primary/[0.03]">
                         <CardContent className="p-4">
                           <Icon className="mx-auto mb-2 h-6 w-6 text-primary" aria-hidden="true" />
                           <p className="text-xl font-extrabold text-foreground">{h.value}</p>
@@ -195,6 +178,15 @@ const ProjectDetail = () => {
                       {data.collegeName}
                     </p>
                   </div>
+
+                  {project.externalUrl && (
+                    <Button variant="outline" size="sm" asChild className="w-full gap-2 mt-2">
+                      <a href={project.externalUrl} target="_blank" rel="noopener noreferrer">
+                        <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                        {t("detail.visitWebsite")}
+                      </a>
+                    </Button>
+                  )}
                 </CardContent>
               </Card>
 

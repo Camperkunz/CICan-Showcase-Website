@@ -12,14 +12,8 @@ import {
 import type { ThemeKey } from "@/data/types";
 
 const THEMES: ThemeKey[] = [
-  "food",
-  "management",
-  "indigenous",
-  "greenBuildings",
-  "landManagement",
-  "energy",
-  "biodiversity",
-  "waste",
+  "food", "management", "indigenous", "greenBuildings",
+  "landManagement", "energy", "biodiversity", "waste",
 ];
 
 const PROVINCES = [
@@ -37,16 +31,10 @@ interface FilterBarProps {
 }
 
 const FilterBar = ({
-  theme,
-  province,
-  search,
-  onThemeChange,
-  onProvinceChange,
-  onSearchChange,
-  resultCount,
+  theme, province, search,
+  onThemeChange, onProvinceChange, onSearchChange, resultCount,
 }: FilterBarProps) => {
   const { t } = useTranslation();
-
   const hasFilters = theme !== "all" || province !== "all" || search !== "";
 
   const clearFilters = () => {
@@ -57,47 +45,34 @@ const FilterBar = ({
 
   return (
     <section className="border-b bg-background py-4" aria-label="Project filters">
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
           <Select value={theme} onValueChange={onThemeChange}>
-            <SelectTrigger
-              className="w-full sm:w-48"
-              aria-label={t("filters.allThemes")}
-            >
+            <SelectTrigger className="w-full sm:w-48" aria-label={t("filters.allThemes")}>
               <SelectValue placeholder={t("filters.allThemes")} />
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">{t("filters.allThemes")}</SelectItem>
               {THEMES.map((th) => (
-                <SelectItem key={th} value={th}>
-                  {t(`themes.${th}`)}
-                </SelectItem>
+                <SelectItem key={th} value={th}>{t(`themes.${th}`)}</SelectItem>
               ))}
             </SelectContent>
           </Select>
 
           <Select value={province} onValueChange={onProvinceChange}>
-            <SelectTrigger
-              className="w-full sm:w-44"
-              aria-label={t("filters.allProvinces")}
-            >
+            <SelectTrigger className="w-full sm:w-44" aria-label={t("filters.allProvinces")}>
               <SelectValue placeholder={t("filters.allProvinces")} />
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">{t("filters.allProvinces")}</SelectItem>
               {PROVINCES.map((prov) => (
-                <SelectItem key={prov} value={prov}>
-                  {prov}
-                </SelectItem>
+                <SelectItem key={prov} value={prov}>{prov}</SelectItem>
               ))}
             </SelectContent>
           </Select>
 
           <div className="relative flex-1">
-            <Search
-              className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground"
-              aria-hidden="true"
-            />
+            <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
             <Input
               type="search"
               placeholder={t("filters.searchPlaceholder")}
@@ -109,13 +84,7 @@ const FilterBar = ({
           </div>
 
           {hasFilters && (
-            <Button
-              variant="ghost"
-              size="sm"
-              onClick={clearFilters}
-              className="gap-1 text-muted-foreground"
-              aria-label={t("filters.clearFilters")}
-            >
+            <Button variant="ghost" size="sm" onClick={clearFilters} className="gap-1 text-muted-foreground" aria-label={t("filters.clearFilters")}>
               <X className="h-3.5 w-3.5" aria-hidden="true" />
               {t("filters.clearFilters")}
             </Button>
