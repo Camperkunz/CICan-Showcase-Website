@@ -6,7 +6,9 @@
   },
   "hero": {
     "title": "ImpAct-Climate Micro-Grants",
-    "description": "Empowering colleges and institutes across Canada to lead climate action through innovative, community-driven projects. Explore the impact of micro-grant funded initiatives tackling waste, energy, biodiversity, and more."
+    "description": "Empowering colleges and institutes across Canada to lead climate action through innovative, community-driven projects. Explore the impact of micro-grant funded initiatives tackling waste, energy, biodiversity, and more.",
+    "cta": "Learn More",
+    "imageAlt": "Aerial view of lush Canadian forest representing climate action"
   },
   "filters": {
     "allThemes": "All Themes",
@@ -17,7 +19,8 @@
     "clearFilters": "Clear Filters"
   },
   "card": {
-    "viewProject": "View Project"
+    "viewProject": "View Project",
+    "readReport": "Read Report"
   },
   "detail": {
     "back": "Back to Gallery",
@@ -28,7 +31,8 @@
     "futureOutlook": "Future Outlook",
     "theme": "Theme",
     "province": "Province",
-    "college": "College"
+    "college": "College",
+    "visitWebsite": "Visit Project Website"
   },
   "footer": {
     "copyright": "© 2026 Colleges and Institutes Canada (CICan). All rights reserved.",
