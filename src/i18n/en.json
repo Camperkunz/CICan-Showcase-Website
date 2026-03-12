@@ -2,13 +2,23 @@
   "nav": {
     "title": "ImpAct-Climate",
     "subtitle": "Micro-Grants",
-    "lang": "FR"
+    "lang": "FR",
+    "home": "Home",
+    "about": "About"
   },
   "hero": {
     "title": "ImpAct-Climate Micro-Grants",
     "description": "Empowering colleges and institutes across Canada to lead climate action through innovative, community-driven projects. Explore the impact of micro-grant funded initiatives tackling waste, energy, biodiversity, and more.",
     "cta": "Learn More",
     "imageAlt": "Aerial view of lush Canadian forest representing climate action"
+  },
+  "storytelling": {
+    "headline": "Driving Change Across Canada",
+    "paragraph1": "Through the ImpAct-Climate Micro-Grants program, colleges and institutes across Canada are transforming how their communities respond to the climate crisis. From innovative waste reduction strategies to groundbreaking biodiversity projects, these initiatives are creating real, measurable change.",
+    "paragraph2": "Each funded project represents a unique partnership between students, faculty, and community members working together to build a more sustainable future. The results speak for themselves — reduced emissions, restored ecosystems, and empowered communities.",
+    "paragraph3": "This program demonstrates that meaningful climate action starts at the local level, with institutions that are deeply connected to the communities they serve.",
+    "quote": "\"These micro-grants have been a catalyst for change — empowering our students to become the climate leaders of tomorrow.\"",
+    "quoteAuthor": "— College Faculty Member, ImpAct-Climate Participant"
   },
   "filters": {
     "allThemes": "All Themes",
@@ -34,9 +44,31 @@
     "college": "College",
     "visitWebsite": "Visit Project Website"
   },
+  "about": {
+    "heroTitle": "About the Initiative",
+    "heroSubtitle": "Learn more about CICan and the ImpAct-Climate Micro-Grants program.",
+    "missionTitle": "Our Mission",
+    "missionP1": "Colleges and Institutes Canada (CICan) is the national voice of Canada's publicly supported colleges, institutes, CEGEPs, and polytechnics. Through the ImpAct-Climate initiative, CICan empowers member institutions to lead meaningful climate action in their communities.",
+    "missionP2": "The ImpAct-Climate Micro-Grants program provides targeted funding to colleges and institutes, enabling them to launch innovative projects that address pressing environmental challenges — from waste management and energy efficiency to biodiversity conservation and indigenous land stewardship.",
+    "missionP3": "By investing in grassroots, community-driven projects, the program cultivates the next generation of environmental leaders while delivering tangible benefits to local ecosystems and communities across Canada.",
+    "partnersTitle": "Our Partners",
+    "partnersSubtitle": "The ImpAct-Climate initiative is made possible through the generous support of our partners and sponsors."
+  },
   "footer": {
     "copyright": "© 2026 Colleges and Institutes Canada (CICan). All rights reserved.",
-    "initiative": "An initiative of Colleges and Institutes Canada"
+    "initiative": "An initiative of Colleges and Institutes Canada",
+    "aboutSnippet": "CICan is the national voice of Canada's publicly supported colleges, institutes, CEGEPs, and polytechnics.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "connect": "Connect",
+    "contactUs": "Contact Us",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "bilingual": "EN / FR"
   },
   "themes": {
     "food": "Food",

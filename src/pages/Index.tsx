@@ -2,6 +2,7 @@ import { useState, useMemo } from "react";
 import { useTranslation } from "react-i18next";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import Storytelling from "@/components/Storytelling";
 import FilterBar from "@/components/FilterBar";
 import ProjectCard from "@/components/ProjectCard";
 import Footer from "@/components/Footer";
@@ -34,6 +35,7 @@ const Index = () => {
     <div className="flex min-h-screen flex-col">
       <Navbar />
       <Hero />
+      <Storytelling />
       <FilterBar
         theme={theme}
         province={province}
