@@ -1,5 +1,6 @@
 import { useState, useMemo } from "react";
 import { useTranslation } from "react-i18next";
+import { motion } from "framer-motion";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Storytelling from "@/components/Storytelling";
@@ -11,8 +12,13 @@ import type { Project } from "@/data/types";
 
 const projects = projectsData as Project[];
 
+const fadeUp = {
+  hidden: { opacity: 0, y: 30 },
+  visible: { opacity: 1, y: 0, transition: { duration: 0.5, ease: "easeOut" } },
+};
+
 const Index = () => {
-  const { i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
   const lang = i18n.language as "en" | "fr";
 
   const [theme, setTheme] = useState("all");
@@ -48,15 +54,35 @@ const Index = () => {
 
       <main id="project-grid" className="flex-1 py-8 sm:py-12">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
+          <motion.h2
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, margin: "-50px" }}
+            variants={fadeUp}
+            className="mb-8 text-2xl font-extrabold tracking-tight text-foreground sm:text-3xl"
+          >
+            {t("projects.heading")}
+          </motion.h2>
           {filtered.length > 0 ? (
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {filtered.map((project) => (
-                <ProjectCard key={project.id} project={project} />
+              {filtered.map((project, i) => (
+                <motion.div
+                  key={project.id}
+                  initial="hidden"
+                  whileInView="visible"
+                  viewport={{ once: true, margin: "-40px" }}
+                  variants={{
+                    hidden: { opacity: 0, y: 30 },
+                    visible: { opacity: 1, y: 0, transition: { duration: 0.4, delay: i * 0.08, ease: "easeOut" } },
+                  }}
+                >
+                  <ProjectCard project={project} />
+                </motion.div>
               ))}
             </div>
           ) : (
             <p className="py-20 text-center text-muted-foreground" role="status">
-              No projects match your current filters.
+              {t("filters.noResults")}
             </p>
           )}
         </div>
