@@ -2,13 +2,23 @@
   "nav": {
     "title": "ImpAct-Climat",
     "subtitle": "Micro-subventions",
-    "lang": "EN"
+    "lang": "EN",
+    "home": "Accueil",
+    "about": "À propos"
   },
   "hero": {
     "title": "Micro-subventions ImpAct-Climat",
     "description": "Donner aux collèges et instituts du Canada les moyens de mener l'action climatique grâce à des projets novateurs et communautaires. Découvrez l'impact des initiatives financées par des micro-subventions en matière de déchets, d'énergie, de biodiversité et plus encore.",
     "cta": "En savoir plus",
     "imageAlt": "Vue aérienne d'une forêt canadienne luxuriante représentant l'action climatique"
+  },
+  "storytelling": {
+    "headline": "Un moteur de changement à travers le Canada",
+    "paragraph1": "Grâce au programme de micro-subventions ImpAct-Climat, les collèges et instituts à travers le Canada transforment la façon dont leurs communautés répondent à la crise climatique. Des stratégies novatrices de réduction des déchets aux projets pionniers en biodiversité, ces initiatives créent un changement réel et mesurable.",
+    "paragraph2": "Chaque projet financé représente un partenariat unique entre étudiants, professeurs et membres de la communauté travaillant ensemble pour bâtir un avenir plus durable. Les résultats parlent d'eux-mêmes — des émissions réduites, des écosystèmes restaurés et des communautés renforcées.",
+    "paragraph3": "Ce programme démontre que l'action climatique significative commence au niveau local, avec des établissements profondément connectés aux communautés qu'ils desservent.",
+    "quote": "\"Ces micro-subventions ont été un catalyseur de changement — elles permettent à nos étudiants de devenir les leaders climatiques de demain.\"",
+    "quoteAuthor": "— Membre du corps professoral, participant ImpAct-Climat"
   },
   "filters": {
     "allThemes": "Tous les thèmes",
@@ -34,9 +44,31 @@
     "college": "Collège",
     "visitWebsite": "Visiter le site du projet"
   },
+  "about": {
+    "heroTitle": "À propos de l'initiative",
+    "heroSubtitle": "En savoir plus sur CICan et le programme de micro-subventions ImpAct-Climat.",
+    "missionTitle": "Notre mission",
+    "missionP1": "Collèges et instituts Canada (CICan) est la voix nationale des collèges, instituts, cégeps et polytechniques publics du Canada. Par l'initiative ImpAct-Climat, CICan permet à ses établissements membres de mener une action climatique significative dans leurs communautés.",
+    "missionP2": "Le programme de micro-subventions ImpAct-Climat offre un financement ciblé aux collèges et instituts, leur permettant de lancer des projets novateurs qui répondent à des défis environnementaux urgents — de la gestion des déchets et l'efficacité énergétique à la conservation de la biodiversité et la gestion autochtone des terres.",
+    "missionP3": "En investissant dans des projets communautaires, le programme forme la prochaine génération de leaders environnementaux tout en apportant des bénéfices tangibles aux écosystèmes locaux et aux communautés à travers le Canada.",
+    "partnersTitle": "Nos partenaires",
+    "partnersSubtitle": "L'initiative ImpAct-Climat est rendue possible grâce au soutien généreux de nos partenaires et commanditaires."
+  },
   "footer": {
     "copyright": "© 2026 Collèges et instituts Canada (CICan). Tous droits réservés.",
-    "initiative": "Une initiative de Collèges et instituts Canada"
+    "initiative": "Une initiative de Collèges et instituts Canada",
+    "aboutSnippet": "CICan est la voix nationale des collèges, instituts, cégeps et polytechniques publics du Canada.",
+    "quickLinks": "Liens rapides",
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À propos",
+    "connect": "Nous joindre",
+    "contactUs": "Nous contacter",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfUse": "Conditions d'utilisation",
+    "bilingual": "EN / FR"
   },
   "themes": {
     "food": "Alimentation",
