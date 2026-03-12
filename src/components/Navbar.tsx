@@ -25,18 +25,15 @@ const Navbar = () => {
       aria-label={i18n.language === "en" ? "Main navigation" : "Navigation principale"}
     >
       <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4 sm:px-6 lg:px-8">
-        <Link to="/" className="flex items-center gap-2" aria-label="CICan ImpAct-Climate Home">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-brand-primary">
-            <span className="text-sm font-bold text-primary-foreground">CI</span>
-          </div>
-          <div className="hidden sm:flex flex-col leading-tight">
-            <span className="text-base font-bold tracking-tight text-foreground">
-              {t(branding.nav.titleKey)}
-            </span>
-            <span className="text-xs font-medium text-muted-foreground">
-              {t(branding.nav.subtitleKey)}
-            </span>
-          </div>
+        <Link to="/" className="flex items-center gap-3" aria-label="CICan ImpAct-Climate Home">
+          <img
+            src={branding.logos.cican}
+            alt="CICan"
+            className="h-10 w-auto object-contain"
+          />
+          <span className="text-xs font-medium text-muted-foreground">
+            {t(branding.nav.subtitleKey)}
+          </span>
         </Link>
 
         <div className="flex items-center gap-1">

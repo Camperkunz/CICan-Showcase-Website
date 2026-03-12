@@ -11,12 +11,16 @@ const Footer = () => {
         <div className="flex flex-col items-center gap-8 sm:flex-row sm:justify-between">
           {/* Logos from branding config */}
           <div className="flex items-center gap-6">
-            <div className="flex h-10 w-24 items-center justify-center rounded border border-[hsl(var(--footer-muted)/0.3)] bg-[hsl(var(--footer-muted)/0.1)]">
-              <span className="text-xs font-bold text-[hsl(var(--footer-foreground))]">CICan</span>
-            </div>
-            <div className="flex h-10 w-24 items-center justify-center rounded border border-[hsl(var(--footer-muted)/0.3)] bg-[hsl(var(--footer-muted)/0.1)]">
-              <span className="text-xs font-bold text-[hsl(var(--footer-foreground))]">Your Logo</span>
-            </div>
+            <img
+              src={branding.logos.cican}
+              alt="CICan"
+              className="h-10 w-auto object-contain brightness-0 invert"
+            />
+            <img
+              src={branding.logos.partner}
+              alt="Partner"
+              className="h-10 w-auto object-contain brightness-0 invert"
+            />
           </div>
 
           {/* Navigation links from branding config */}
