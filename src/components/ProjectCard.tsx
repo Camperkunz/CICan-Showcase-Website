@@ -1,5 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
+import { ArrowRight } from "lucide-react";
 import type { Project } from "@/data/types";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
@@ -20,7 +21,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
       className="group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-lg"
       aria-label={`${t("card.viewProject")}: ${data.title}`}
     >
-      <Card className="h-full overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1 group-focus-visible:shadow-lg">
+      <Card className="h-full overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1.5 hover:shadow-primary/10 group-focus-visible:shadow-lg">
         <div className="relative aspect-[4/3] overflow-hidden">
           <img
             src={project.previewImageUrl}
@@ -34,8 +35,8 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
             {t(`themes.${project.theme}`)}
           </Badge>
         </div>
-        <CardContent className="p-4">
-          <div className="mb-2 flex items-center gap-2">
+        <CardContent className="flex flex-col gap-3 p-4">
+          <div className="flex items-center gap-2">
             <img
               src={project.collegeLogoUrl}
               alt={`${data.collegeName} logo`}
@@ -49,6 +50,13 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
           <h3 className="text-sm font-bold leading-snug text-foreground line-clamp-2 sm:text-base">
             {data.title}
           </h3>
+          <p className="text-xs leading-relaxed text-muted-foreground line-clamp-2">
+            {data.previewDescription}
+          </p>
+          <span className="mt-auto inline-flex items-center gap-1 text-xs font-semibold text-primary transition-colors group-hover:text-primary/80">
+            {t("card.readReport")}
+            <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
+          </span>
         </CardContent>
       </Card>
     </Link>

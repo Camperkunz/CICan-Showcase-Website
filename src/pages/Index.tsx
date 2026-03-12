@@ -44,8 +44,8 @@ const Index = () => {
         resultCount={filtered.length}
       />
 
-      <main className="flex-1 py-8 sm:py-12">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+      <main id="project-grid" className="flex-1 py-8 sm:py-12">
+        <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           {filtered.length > 0 ? (
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
               {filtered.map((project) => (
@@ -54,7 +54,6 @@ const Index = () => {
             </div>
           ) : (
             <p className="py-20 text-center text-muted-foreground" role="status">
-              {/* noResults handled in FilterBar aria-live */}
               No projects match your current filters.
             </p>
           )}
