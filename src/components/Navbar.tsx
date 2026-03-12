@@ -28,9 +28,14 @@ const Navbar = () => {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
             <span className="text-sm font-bold text-primary-foreground">CI</span>
           </div>
-          <span className="hidden sm:block text-base font-bold tracking-tight text-foreground">
-            {t("nav.title")}
-          </span>
+          <div className="hidden sm:flex flex-col leading-tight">
+            <span className="text-base font-bold tracking-tight text-foreground">
+              {t("nav.title")}
+            </span>
+            <span className="text-xs font-medium text-muted-foreground">
+              {t("nav.subtitle")}
+            </span>
+          </div>
         </Link>
 
         <div className="flex items-center gap-1">
