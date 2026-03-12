@@ -38,14 +38,14 @@
   "detail": {
     "back": "Back to Gallery",
     "projectLead": "Project Lead",
-    "grantAmount": "Grant Amount",
     "highlights": "Key Highlights",
     "gallery": "Project Gallery",
     "futureOutlook": "Future Outlook",
     "theme": "Theme",
     "province": "Province",
     "college": "College",
-    "visitWebsite": "Visit Project Website"
+    "visitWebsite": "Visit Project Website",
+    "downloadReport": "Download PDF Report"
   },
   "about": {
     "heroTitle": "About the Initiative",
@@ -59,19 +59,9 @@
   },
   "footer": {
     "copyright": "© 2026 Colleges and Institutes Canada (CICan). All rights reserved.",
-    "initiative": "An initiative of Colleges and Institutes Canada",
-    "aboutSnippet": "CICan is the national voice of Canada's publicly supported colleges, institutes, CEGEPs, and polytechnics.",
-    "quickLinks": "Quick Links",
     "home": "Home",
     "projects": "Projects",
-    "about": "About",
-    "connect": "Connect",
-    "contactUs": "Contact Us",
-    "twitter": "Twitter",
-    "linkedin": "LinkedIn",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfUse": "Terms of Use",
-    "bilingual": "EN / FR"
+    "about": "About"
   },
   "themes": {
     "food": "Food",

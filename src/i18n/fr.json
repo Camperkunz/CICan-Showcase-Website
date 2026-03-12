@@ -38,14 +38,14 @@
   "detail": {
     "back": "Retour à la galerie",
     "projectLead": "Responsable du projet",
-    "grantAmount": "Montant de la subvention",
     "highlights": "Faits saillants",
     "gallery": "Galerie du projet",
     "futureOutlook": "Perspectives d'avenir",
     "theme": "Thème",
     "province": "Province",
     "college": "Collège",
-    "visitWebsite": "Visiter le site du projet"
+    "visitWebsite": "Visiter le site du projet",
+    "downloadReport": "Télécharger le rapport PDF"
   },
   "about": {
     "heroTitle": "À propos de l'initiative",
@@ -59,19 +59,9 @@
   },
   "footer": {
     "copyright": "© 2026 Collèges et instituts Canada (CICan). Tous droits réservés.",
-    "initiative": "Une initiative de Collèges et instituts Canada",
-    "aboutSnippet": "CICan est la voix nationale des collèges, instituts, cégeps et polytechniques publics du Canada.",
-    "quickLinks": "Liens rapides",
     "home": "Accueil",
     "projects": "Projets",
-    "about": "À propos",
-    "connect": "Nous joindre",
-    "contactUs": "Nous contacter",
-    "twitter": "Twitter",
-    "linkedin": "LinkedIn",
-    "privacyPolicy": "Politique de confidentialité",
-    "termsOfUse": "Conditions d'utilisation",
-    "bilingual": "EN / FR"
+    "about": "À propos"
   },
   "themes": {
     "food": "Alimentation",

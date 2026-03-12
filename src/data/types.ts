@@ -24,7 +24,6 @@ export interface ProjectLocale {
   title: string;
   address: string;
   projectLead: string;
-  grantAmount: string;
   description: string;
   previewDescription: string;
   highlights: ProjectHighlight[];
@@ -39,6 +38,7 @@ export interface Project {
   collegeLogoUrl: string;
   previewImageUrl: string;
   externalUrl?: string;
+  reportUrl?: string;
   en: ProjectLocale;
   fr: ProjectLocale;
 }

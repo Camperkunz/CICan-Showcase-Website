@@ -1,10 +1,10 @@
 import { useParams, Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import {
-  ArrowLeft, MapPin, User, DollarSign, Sparkles, ExternalLink,
+  ArrowLeft, MapPin, User, Sparkles, ExternalLink, Download,
   TreesIcon, Users, Salad, Leaf, Zap, Sun, GraduationCap,
   Trash2, Recycle, Award, Sprout, Heart, Building, Thermometer,
-  Bug, Flower, Bird, BarChart3, Droplet, Monitor, Database,
+  Bug, Flower, Bird, BarChart3, Droplet, Monitor, Database, DollarSign,
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -12,6 +12,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { getThemeClasses } from "@/lib/themeColors";
+import { THEME_ICON_MAP } from "@/lib/themeIcons";
 import projectsData from "@/data/projects.json";
 import type { Project } from "@/data/types";
 
@@ -46,6 +47,7 @@ const ProjectDetail = () => {
   }
 
   const data = project[lang] ?? project.en;
+  const ThemeIcon = THEME_ICON_MAP[project.theme];
 
   return (
     <div className="flex min-h-screen flex-col">
@@ -71,7 +73,8 @@ const ProjectDetail = () => {
               className="h-16 w-16 rounded-xl border bg-muted object-cover"
             />
             <div className="flex-1">
-              <Badge className={`mb-3 ${getThemeClasses(project.theme)} border-0 text-xs font-semibold`}>
+              <Badge className={`mb-3 ${getThemeClasses(project.theme)} border-0 text-xs font-semibold gap-1`}>
+                {ThemeIcon && <ThemeIcon className="h-3 w-3" aria-hidden="true" />}
                 {t(`themes.${project.theme}`)}
               </Badge>
               <h1 className="mb-2 text-2xl font-extrabold tracking-tight text-foreground sm:text-3xl lg:text-4xl">
@@ -83,6 +86,16 @@ const ProjectDetail = () => {
                   {data.address}
                 </span>
               </div>
+
+              {/* Download PDF button */}
+              {project.reportUrl && (
+                <Button asChild className="mt-4 gap-2" size="sm">
+                  <a href={project.reportUrl} target="_blank" rel="noopener noreferrer">
+                    <Download className="h-4 w-4" aria-hidden="true" />
+                    {t("detail.downloadReport")}
+                  </a>
+                </Button>
+              )}
             </div>
           </div>
         </header>
@@ -151,15 +164,6 @@ const ProjectDetail = () => {
                     <p className="mt-1 flex items-center gap-2 text-sm font-medium text-foreground">
                       <User className="h-4 w-4 text-primary" aria-hidden="true" />
                       {data.projectLead}
-                    </p>
-                  </div>
-                  <div>
-                    <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
-                      {t("detail.grantAmount")}
-                    </p>
-                    <p className="mt-1 flex items-center gap-2 text-sm font-medium text-foreground">
-                      <DollarSign className="h-4 w-4 text-primary" aria-hidden="true" />
-                      {data.grantAmount}
                     </p>
                   </div>
                   <div>
