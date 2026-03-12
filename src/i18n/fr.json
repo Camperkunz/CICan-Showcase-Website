@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "title": "ImpAct-Climat",
+    "subtitle": "Micro-subventions",
+    "lang": "EN"
+  },
+  "hero": {
+    "title": "Micro-subventions ImpAct-Climat",
+    "description": "Donner aux collèges et instituts du Canada les moyens de mener l'action climatique grâce à des projets novateurs et communautaires. Découvrez l'impact des initiatives financées par des micro-subventions en matière de déchets, d'énergie, de biodiversité et plus encore."
+  },
+  "filters": {
+    "allThemes": "Tous les thèmes",
+    "allProvinces": "Toutes les provinces",
+    "searchPlaceholder": "Rechercher par nom de collège...",
+    "resultsCount": "{{count}} projet(s) trouvé(s)",
+    "noResults": "Aucun projet ne correspond à vos filtres.",
+    "clearFilters": "Effacer les filtres"
+  },
+  "card": {
+    "viewProject": "Voir le projet"
+  },
+  "detail": {
+    "back": "Retour à la galerie",
+    "projectLead": "Responsable du projet",
+    "grantAmount": "Montant de la subvention",
+    "highlights": "Faits saillants",
+    "gallery": "Galerie du projet",
+    "futureOutlook": "Perspectives d'avenir",
+    "theme": "Thème",
+    "province": "Province",
+    "college": "Collège"
+  },
+  "footer": {
+    "copyright": "© 2026 Collèges et instituts Canada (CICan). Tous droits réservés.",
+    "initiative": "Une initiative de Collèges et instituts Canada"
+  },
+  "themes": {
+    "food": "Alimentation",
+    "management": "Gestion",
+    "indigenous": "Savoirs autochtones",
+    "greenBuildings": "Bâtiments verts",
+    "landManagement": "Gestion des terres",
+    "energy": "Énergie",
+    "biodiversity": "Biodiversité",
+    "waste": "Déchets"
+  }
+}
