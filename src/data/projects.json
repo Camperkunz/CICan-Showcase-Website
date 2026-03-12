@@ -198,14 +198,14 @@
   {
     "id": "zero-waste-campus",
     "theme": "waste",
-    "province": "QC",
+    "province": "ON",
     "collegeLogoUrl": "/logos/logo-boreal.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
     "en": {
       "collegeName": "Collège Boréal",
-      "title": "Zero-Waste Campus Challenge",
-      "address": "3040 Sherbrooke St W, Montréal, QC H3Z 1A4",
-      "projectLead": "Marie-Claire Bouchard",
+      "title": "Innovative Fertilization and Respect for Traditions: Cultivation of Indigenous Medicinal Plants",
+      "address": "Collège Boréal, Sudbury, ON",
+      "projectLead": "Olivia Baudet",
       "previewDescription": "A comprehensive waste audit and reduction program that engaged the entire campus community, resulting in a 40% reduction in landfill waste.",
       "description": "A comprehensive waste audit and reduction program that engaged the entire campus community in rethinking consumption habits, resulting in a 40% reduction in landfill waste.",
       "highlights": [
@@ -295,15 +295,15 @@
   {
     "id": "indigenous-land-stewardship",
     "theme": "indigenous",
-    "province": "MB",
+    "province": "ON",
     "collegeLogoUrl": "/logos/logo-lacite.png",
     "previewImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
     "externalUrl": "https://rrc.ca",
     "en": {
-      "collegeName": "Red River College Polytechnic",
-      "title": "Indigenous Land Stewardship Program",
-      "address": "2055 Notre Dame Ave, Winnipeg, MB R3H 0J9",
-      "projectLead": "Elder Margaret Chicken",
+      "collegeName": "Collège La Cité",
+      "title": "Creation of an Urban Mini-Forest (Miyawaki Method)",
+      "address": "Collège La Cité, Ottawa, ON",
+      "projectLead": "Ms. Lan Chi Nguyen Weekes",
       "previewDescription": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland, guided by Elders and knowledge keepers.",
       "description": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland adjacent to campus, guided by Elders and community knowledge keepers.",
       "highlights": [
@@ -490,15 +490,15 @@
   },
   {
     "id": "campus-biodiversity-audit",
-    "theme": "biodiversity",
-    "province": "NS",
-    "collegeLogoUrl": "./logos/logo-barret.svg",
+    "theme": "indigenous",
+    "province": "ON",
+    "collegeLogoUrl": "/logos/logo-barret.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&h=400&fit=crop",
     "en": {
-      "collegeName": "NSCC Kingstec Campus",
-      "title": "Campus Biodiversity Audit & Pollinator Corridor",
-      "address": "236 Belcher St, Kentville, NS B4N 0A6",
-      "projectLead": "Dr. Anna Leblanc",
+      "collegeName": "Durham College",
+      "title": "Field-to-fork climate action: Strengthening Circular Food Systems through Indigenous Collaboration",
+      "address": "Durham College, Oshawa, ON",
+      "projectLead": "Kelly O’Brien",
       "previewDescription": "Environmental science students conducted the first comprehensive biodiversity audit and designed a pollinator corridor connecting campus green spaces.",
       "description": "Environmental science students conducted the first comprehensive biodiversity audit of the campus and surrounding areas, then designed and planted a pollinator corridor connecting campus green spaces.",
       "highlights": [

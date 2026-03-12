@@ -38,7 +38,6 @@ export const branding = {
   /** Footer navigation (i18n keys) */
   footerLinks: [
     { to: "/", labelKey: "footer.home" },
-    { to: "/#project-grid", labelKey: "footer.projects" },
     { to: "/about", labelKey: "footer.about" },
   ],
 } as const;

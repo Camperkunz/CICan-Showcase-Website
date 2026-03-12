@@ -13,7 +13,7 @@ import type { ThemeKey } from "@/data/types";
 
 const THEMES: ThemeKey[] = [
   "food", "management", "indigenous", "greenBuildings",
-  "landManagement", "energy", "biodiversity", "waste",
+  "landManagement",
 ];
 
 const PROVINCES = [
