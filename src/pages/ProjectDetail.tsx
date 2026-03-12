@@ -1,7 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import {
-  ArrowLeft, MapPin, User, Sparkles, ExternalLink, Download,
+  ArrowLeft, MapPin, User, Sparkles, ExternalLink,
   TreesIcon, Users, Salad, Leaf, Zap, Sun, GraduationCap,
   Trash2, Recycle, Award, Sprout, Heart, Building, Thermometer,
   Bug, Flower, Bird, BarChart3, Droplet, Monitor, Database, DollarSign,
