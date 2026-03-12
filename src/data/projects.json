@@ -6,12 +6,12 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
     "externalUrl": "https://camosun.ca",
+    "reportUrl": "/reports/campus-food-forest.pdf",
     "en": {
       "collegeName": "Camosun College",
       "title": "Campus Food Forest Initiative",
       "address": "3100 Foul Bay Rd, Victoria, BC V8P 5J2",
       "projectLead": "Dr. Sarah Mitchell",
-      "grantAmount": "$15,000",
       "previewDescription": "Transforming underutilized campus land into a productive food forest, providing fresh produce to the cafeteria while serving as a living laboratory.",
       "description": "Transforming underutilized campus land into a productive food forest that provides fresh produce to the college cafeteria while serving as a living laboratory for horticulture students.",
       "highlights": [
@@ -32,7 +32,6 @@
       "title": "Initiative de forêt nourricière du campus",
       "address": "3100 Foul Bay Rd, Victoria, C.-B. V8P 5J2",
       "projectLead": "Dre Sarah Mitchell",
-      "grantAmount": "15 000 $",
       "previewDescription": "Transformer des terrains sous-utilisés en une forêt nourricière productive, fournissant des produits frais à la cafétéria tout en servant de laboratoire vivant.",
       "description": "Transformer des terrains sous-utilisés du campus en une forêt nourricière productive qui fournit des produits frais à la cafétéria du collège tout en servant de laboratoire vivant pour les étudiants en horticulture.",
       "highlights": [
@@ -56,12 +55,12 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=400&fit=crop",
     "externalUrl": "https://mohawkcollege.ca",
+    "reportUrl": "/reports/solar-micro-grid.pdf",
     "en": {
       "collegeName": "Mohawk College",
       "title": "Student-Led Solar Micro-Grid",
       "address": "135 Fennell Ave W, Hamilton, ON L9C 0E5",
       "projectLead": "James Whitfield",
-      "grantAmount": "$20,000",
       "previewDescription": "Engineering students designed and installed a solar micro-grid powering the campus greenhouse, creating a replicable model for other institutions.",
       "description": "Engineering students designed and installed a solar micro-grid powering the campus greenhouse, reducing energy costs and creating a replicable model for other institutions.",
       "highlights": [
@@ -82,7 +81,6 @@
       "title": "Micro-réseau solaire dirigé par les étudiants",
       "address": "135 Fennell Ave W, Hamilton, ON L9C 0E5",
       "projectLead": "James Whitfield",
-      "grantAmount": "20 000 $",
       "previewDescription": "Des étudiants en génie ont conçu et installé un micro-réseau solaire alimentant la serre du campus, créant un modèle reproductible.",
       "description": "Des étudiants en génie ont conçu et installé un micro-réseau solaire alimentant la serre du campus, réduisant les coûts énergétiques et créant un modèle reproductible pour d'autres établissements.",
       "highlights": [
@@ -105,12 +103,12 @@
     "province": "QC",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
+    "reportUrl": "/reports/zero-waste-campus.pdf",
     "en": {
       "collegeName": "Dawson College",
       "title": "Zero-Waste Campus Challenge",
       "address": "3040 Sherbrooke St W, Montréal, QC H3Z 1A4",
       "projectLead": "Marie-Claire Bouchard",
-      "grantAmount": "$12,000",
       "previewDescription": "A comprehensive waste audit and reduction program that engaged the entire campus community, resulting in a 40% reduction in landfill waste.",
       "description": "A comprehensive waste audit and reduction program that engaged the entire campus community in rethinking consumption habits, resulting in a 40% reduction in landfill waste.",
       "highlights": [
@@ -131,7 +129,6 @@
       "title": "Défi campus zéro déchet",
       "address": "3040 Sherbrooke St W, Montréal, QC H3Z 1A4",
       "projectLead": "Marie-Claire Bouchard",
-      "grantAmount": "12 000 $",
       "previewDescription": "Un programme complet d'audit et de réduction des déchets qui a mobilisé toute la communauté du campus, réduisant de 40 % les déchets envoyés à l'enfouissement.",
       "description": "Un programme complet d'audit et de réduction des déchets qui a mobilisé toute la communauté du campus pour repenser les habitudes de consommation, réduisant de 40 % les déchets envoyés à l'enfouissement.",
       "highlights": [
@@ -155,12 +152,12 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
     "externalUrl": "https://rrc.ca",
+    "reportUrl": "/reports/indigenous-land-stewardship.pdf",
     "en": {
       "collegeName": "Red River College Polytechnic",
       "title": "Indigenous Land Stewardship Program",
       "address": "2055 Notre Dame Ave, Winnipeg, MB R3H 0J9",
       "projectLead": "Elder Margaret Chicken",
-      "grantAmount": "$18,000",
       "previewDescription": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland, guided by Elders and knowledge keepers.",
       "description": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland adjacent to campus, guided by Elders and community knowledge keepers.",
       "highlights": [
@@ -181,7 +178,6 @@
       "title": "Programme d'intendance autochtone des terres",
       "address": "2055 Notre Dame Ave, Winnipeg, MB R3H 0J9",
       "projectLead": "Aînée Margaret Chicken",
-      "grantAmount": "18 000 $",
       "previewDescription": "Intégrer les connaissances écologiques autochtones à la science environnementale moderne pour restaurer une zone humide, guidée par des Aînés et gardiens du savoir.",
       "description": "Intégrer les connaissances écologiques autochtones à la science environnementale moderne pour restaurer une zone humide dégradée adjacente au campus, guidée par des Aînés et des gardiens du savoir.",
       "highlights": [
@@ -205,12 +201,12 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
     "externalUrl": "https://nait.ca",
+    "reportUrl": "/reports/green-building-retrofit.pdf",
     "en": {
       "collegeName": "NAIT",
       "title": "Heritage Building Green Retrofit",
       "address": "11762 106 St NW, Edmonton, AB T5G 2R1",
       "projectLead": "Prof. Kevin Tran",
-      "grantAmount": "$22,000",
       "previewDescription": "Architecture students collaborated to retrofit a 1960s campus building with green technologies, including smart HVAC and a living wall system.",
       "description": "Architecture and building science students collaborated to retrofit a 1960s campus building with green technologies, including smart HVAC controls, improved insulation, and a living wall system.",
       "highlights": [
@@ -231,7 +227,6 @@
       "title": "Rénovation verte d'un bâtiment patrimonial",
       "address": "11762 106 St NW, Edmonton, AB T5G 2R1",
       "projectLead": "Prof. Kevin Tran",
-      "grantAmount": "22 000 $",
       "previewDescription": "Des étudiants en architecture ont collaboré pour rénover un bâtiment des années 1960 avec des technologies vertes, incluant des contrôles CVC intelligents et un mur végétal.",
       "description": "Des étudiants en architecture et en sciences du bâtiment ont collaboré pour rénover un bâtiment du campus des années 1960 avec des technologies vertes, incluant des contrôles CVC intelligents et un mur végétal.",
       "highlights": [
@@ -254,12 +249,12 @@
     "province": "NS",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&h=400&fit=crop",
+    "reportUrl": "/reports/campus-biodiversity-audit.pdf",
     "en": {
       "collegeName": "NSCC Kingstec Campus",
       "title": "Campus Biodiversity Audit & Pollinator Corridor",
       "address": "236 Belcher St, Kentville, NS B4N 0A6",
       "projectLead": "Dr. Anna Leblanc",
-      "grantAmount": "$14,000",
       "previewDescription": "Environmental science students conducted the first comprehensive biodiversity audit and designed a pollinator corridor connecting campus green spaces.",
       "description": "Environmental science students conducted the first comprehensive biodiversity audit of the campus and surrounding areas, then designed and planted a pollinator corridor connecting campus green spaces.",
       "highlights": [
@@ -280,7 +275,6 @@
       "title": "Audit de biodiversité et corridor de pollinisateurs",
       "address": "236 Belcher St, Kentville, N.-É. B4N 0A6",
       "projectLead": "Dre Anna Leblanc",
-      "grantAmount": "14 000 $",
       "previewDescription": "Des étudiants en sciences de l'environnement ont réalisé le premier audit complet de biodiversité et conçu un corridor de pollinisateurs reliant les espaces verts.",
       "description": "Des étudiants en sciences de l'environnement ont réalisé le premier audit complet de biodiversité du campus et des environs, puis conçu et planté un corridor de pollinisateurs reliant les espaces verts.",
       "highlights": [
@@ -304,12 +298,12 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
     "externalUrl": "https://saskpolytech.ca",
+    "reportUrl": "/reports/sustainable-land-management.pdf",
     "en": {
       "collegeName": "Saskatchewan Polytechnic",
       "title": "Sustainable Prairie Land Management",
       "address": "1130 Idylwyld Dr N, Saskatoon, SK S7L 4K2",
       "projectLead": "Mark Olsen",
-      "grantAmount": "$16,500",
       "previewDescription": "A collaborative project restoring native prairie grasslands while developing drone-based monitoring tools for soil health and vegetation assessment.",
       "description": "A collaborative project restoring native prairie grasslands on campus while developing drone-based monitoring tools for soil health and vegetation assessment across agricultural landscapes.",
       "highlights": [
@@ -330,7 +324,6 @@
       "title": "Gestion durable des terres des Prairies",
       "address": "1130 Idylwyld Dr N, Saskatoon, SK S7L 4K2",
       "projectLead": "Mark Olsen",
-      "grantAmount": "16 500 $",
       "previewDescription": "Un projet collaboratif restaurant les prairies indigènes tout en développant des outils de surveillance par drone pour la santé des sols.",
       "description": "Un projet collaboratif restaurant les prairies indigènes sur le campus tout en développant des outils de surveillance par drone pour la santé des sols et l'évaluation de la végétation.",
       "highlights": [
@@ -353,12 +346,12 @@
     "province": "NB",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&h=400&fit=crop",
+    "reportUrl": "/reports/waste-to-energy-innovation.pdf",
     "en": {
       "collegeName": "NBCC Moncton",
       "title": "Campus Environmental Management System",
       "address": "1234 Mountain Rd, Moncton, NB E1C 8H9",
       "projectLead": "Prof. Diane Cormier",
-      "grantAmount": "$13,500",
       "previewDescription": "Developing an integrated environmental management system with energy tracking dashboards, waste metrics, and real-time student-facing displays.",
       "description": "Developing an integrated environmental management system for campus operations, including energy tracking dashboards, waste metrics, and water usage monitoring with real-time student-facing displays.",
       "highlights": [
@@ -379,7 +372,6 @@
       "title": "Système de gestion environnementale du campus",
       "address": "1234 Mountain Rd, Moncton, N.-B. E1C 8H9",
       "projectLead": "Prof. Diane Cormier",
-      "grantAmount": "13 500 $",
       "previewDescription": "Développement d'un système intégré de gestion environnementale avec tableaux de bord de suivi énergétique, métriques de déchets et affichage en temps réel.",
       "description": "Développement d'un système intégré de gestion environnementale pour les opérations du campus, incluant des tableaux de bord de suivi énergétique, des métriques de déchets et un suivi de la consommation d'eau.",
       "highlights": [
