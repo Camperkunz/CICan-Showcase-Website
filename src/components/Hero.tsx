@@ -1,6 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { ArrowDown, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { branding } from "@/config/branding";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -39,7 +40,7 @@ const Hero = () => {
                 <ArrowDown className="h-4 w-4" aria-hidden="true" />
               </Button>
               <Button size="lg" variant="outline" asChild className="gap-2">
-                <a href="/reports/impact-climate-report.pdf" target="_blank" rel="noopener noreferrer" download>
+                <a href={branding.reportUrl} target="_blank" rel="noopener noreferrer" download>
                   <Download className="h-4 w-4" aria-hidden="true" />
                   {t("hero.downloadReport")}
                 </a>
