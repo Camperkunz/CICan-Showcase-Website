@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "title": "ImpAct-Climate",
+    "subtitle": "Micro-Grants",
+    "lang": "FR"
+  },
+  "hero": {
+    "title": "ImpAct-Climate Micro-Grants",
+    "description": "Empowering colleges and institutes across Canada to lead climate action through innovative, community-driven projects. Explore the impact of micro-grant funded initiatives tackling waste, energy, biodiversity, and more."
+  },
+  "filters": {
+    "allThemes": "All Themes",
+    "allProvinces": "All Provinces",
+    "searchPlaceholder": "Search by college name...",
+    "resultsCount": "{{count}} project(s) found",
+    "noResults": "No projects match your filters.",
+    "clearFilters": "Clear Filters"
+  },
+  "card": {
+    "viewProject": "View Project"
+  },
+  "detail": {
+    "back": "Back to Gallery",
+    "projectLead": "Project Lead",
+    "grantAmount": "Grant Amount",
+    "highlights": "Key Highlights",
+    "gallery": "Project Gallery",
+    "futureOutlook": "Future Outlook",
+    "theme": "Theme",
+    "province": "Province",
+    "college": "College"
+  },
+  "footer": {
+    "copyright": "© 2026 Colleges and Institutes Canada (CICan). All rights reserved.",
+    "initiative": "An initiative of Colleges and Institutes Canada"
+  },
+  "themes": {
+    "food": "Food",
+    "management": "Management",
+    "indigenous": "Indigenous Knowledges",
+    "greenBuildings": "Green Buildings",
+    "landManagement": "Land Management",
+    "energy": "Energy",
+    "biodiversity": "Biodiversity",
+    "waste": "Waste"
+  }
+}
