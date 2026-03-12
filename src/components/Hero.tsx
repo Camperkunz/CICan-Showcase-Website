@@ -33,10 +33,18 @@ const Hero = () => {
             <p className="mb-8 max-w-lg text-base leading-relaxed text-muted-foreground sm:text-lg">
               {t("hero.description")}
             </p>
-            <Button size="lg" onClick={scrollToProjects} className="gap-2">
-              {t("hero.cta")}
-              <ArrowDown className="h-4 w-4" aria-hidden="true" />
-            </Button>
+            <div className="flex flex-wrap gap-3">
+              <Button size="lg" onClick={scrollToProjects} className="gap-2">
+                {t("hero.cta")}
+                <ArrowDown className="h-4 w-4" aria-hidden="true" />
+              </Button>
+              <Button size="lg" variant="outline" asChild className="gap-2">
+                <a href="/reports/impact-climate-report.pdf" target="_blank" rel="noopener noreferrer" download>
+                  <Download className="h-4 w-4" aria-hidden="true" />
+                  {t("hero.downloadReport")}
+                </a>
+              </Button>
+            </div>
           </div>
 
           {/* Right — Image */}
