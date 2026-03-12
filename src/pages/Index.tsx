@@ -73,7 +73,7 @@ const Index = () => {
                   viewport={{ once: true, margin: "-40px" }}
                   variants={{
                     hidden: { opacity: 0, y: 30 },
-                    visible: { opacity: 1, y: 0, transition: { duration: 0.4, delay: i * 0.08, ease: "easeOut" } },
+                    visible: { opacity: 1, y: 0, transition: { duration: 0.4, delay: i * 0.08, ease: "easeOut" as const } },
                   }}
                 >
                   <ProjectCard project={project} />
