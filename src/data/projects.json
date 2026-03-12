@@ -14,15 +14,40 @@
       "previewDescription": "Transforming underutilized campus land into a productive food forest, providing fresh produce to the cafeteria while serving as a living laboratory.",
       "description": "Transforming underutilized campus land into a productive food forest that provides fresh produce to the college cafeteria while serving as a living laboratory for horticulture students.",
       "highlights": [
-        { "icon": "trees", "label": "Trees Planted", "value": "120+" },
-        { "icon": "users", "label": "Students Involved", "value": "85" },
-        { "icon": "salad", "label": "Produce Harvested", "value": "450 kg" },
-        { "icon": "leaf", "label": "CO₂ Offset", "value": "2.4 tonnes" }
+        {
+          "icon": "trees",
+          "label": "Trees Planted",
+          "value": "120+"
+        },
+        {
+          "icon": "users",
+          "label": "Students Involved",
+          "value": "85"
+        },
+        {
+          "icon": "salad",
+          "label": "Produce Harvested",
+          "value": "450 kg"
+        },
+        {
+          "icon": "leaf",
+          "label": "CO₂ Offset",
+          "value": "2.4 tonnes"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop", "caption": "Students planting fruit trees on campus grounds" },
-        { "url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=800&h=600&fit=crop", "caption": "The food forest after six months of growth" },
-        { "url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=600&fit=crop", "caption": "Harvesting vegetables from the garden beds" }
+        {
+          "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+          "caption": "Students planting fruit trees on campus grounds"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=800&h=600&fit=crop",
+          "caption": "The food forest after six months of growth"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=600&fit=crop",
+          "caption": "Harvesting vegetables from the garden beds"
+        }
       ],
       "futureOutlook": "The food forest will expand to include a pollinator garden and Indigenous medicinal plants section, developed in partnership with local First Nations communities. Plans include integrating the space into culinary arts programming."
     },
@@ -34,15 +59,40 @@
       "previewDescription": "Transformer des terrains sous-utilisés en une forêt nourricière productive, fournissant des produits frais à la cafétéria tout en servant de laboratoire vivant.",
       "description": "Transformer des terrains sous-utilisés du campus en une forêt nourricière productive qui fournit des produits frais à la cafétéria du collège tout en servant de laboratoire vivant pour les étudiants en horticulture.",
       "highlights": [
-        { "icon": "trees", "label": "Arbres plantés", "value": "120+" },
-        { "icon": "users", "label": "Étudiants impliqués", "value": "85" },
-        { "icon": "salad", "label": "Produits récoltés", "value": "450 kg" },
-        { "icon": "leaf", "label": "CO₂ compensé", "value": "2,4 tonnes" }
+        {
+          "icon": "trees",
+          "label": "Arbres plantés",
+          "value": "120+"
+        },
+        {
+          "icon": "users",
+          "label": "Étudiants impliqués",
+          "value": "85"
+        },
+        {
+          "icon": "salad",
+          "label": "Produits récoltés",
+          "value": "450 kg"
+        },
+        {
+          "icon": "leaf",
+          "label": "CO₂ compensé",
+          "value": "2,4 tonnes"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop", "caption": "Étudiants plantant des arbres fruitiers sur le campus" },
-        { "url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=800&h=600&fit=crop", "caption": "La forêt nourricière après six mois de croissance" },
-        { "url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=600&fit=crop", "caption": "Récolte de légumes des plates-bandes" }
+        {
+          "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+          "caption": "Étudiants plantant des arbres fruitiers sur le campus"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=800&h=600&fit=crop",
+          "caption": "La forêt nourricière après six mois de croissance"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=600&fit=crop",
+          "caption": "Récolte de légumes des plates-bandes"
+        }
       ],
       "futureOutlook": "La forêt nourricière s'agrandira pour inclure un jardin de pollinisateurs et une section de plantes médicinales autochtones, développée en partenariat avec les communautés des Premières Nations locales."
     }
@@ -51,26 +101,51 @@
     "id": "solar-micro-grid",
     "theme": "energy",
     "province": "ON",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "/logos/logo-britishColumbia.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=400&fit=crop",
     "externalUrl": "https://mohawkcollege.ca",
     "en": {
-      "collegeName": "Mohawk College",
+      "collegeName": "British Columbia Institute of Technology",
       "title": "Student-Led Solar Micro-Grid",
       "address": "135 Fennell Ave W, Hamilton, ON L9C 0E5",
       "projectLead": "James Whitfield",
       "previewDescription": "Engineering students designed and installed a solar micro-grid powering the campus greenhouse, creating a replicable model for other institutions.",
       "description": "Engineering students designed and installed a solar micro-grid powering the campus greenhouse, reducing energy costs and creating a replicable model for other institutions.",
       "highlights": [
-        { "icon": "zap", "label": "Energy Generated", "value": "12 MWh/yr" },
-        { "icon": "dollar", "label": "Annual Savings", "value": "$3,200" },
-        { "icon": "sun", "label": "Solar Panels", "value": "24" },
-        { "icon": "graduationCap", "label": "Capstone Projects", "value": "6" }
+        {
+          "icon": "zap",
+          "label": "Energy Generated",
+          "value": "12 MWh/yr"
+        },
+        {
+          "icon": "dollar",
+          "label": "Annual Savings",
+          "value": "$3,200"
+        },
+        {
+          "icon": "sun",
+          "label": "Solar Panels",
+          "value": "24"
+        },
+        {
+          "icon": "graduationCap",
+          "label": "Capstone Projects",
+          "value": "6"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop", "caption": "Solar panel array installed on the greenhouse roof" },
-        { "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&h=600&fit=crop", "caption": "Students monitoring the micro-grid control system" },
-        { "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop", "caption": "The powered greenhouse growing year-round produce" }
+        {
+          "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop",
+          "caption": "Solar panel array installed on the greenhouse roof"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&h=600&fit=crop",
+          "caption": "Students monitoring the micro-grid control system"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop",
+          "caption": "The powered greenhouse growing year-round produce"
+        }
       ],
       "futureOutlook": "Phase 2 will add battery storage and extend the micro-grid to power additional campus buildings. The project model is being shared with 5 partner colleges across Ontario."
     },
@@ -82,15 +157,40 @@
       "previewDescription": "Des étudiants en génie ont conçu et installé un micro-réseau solaire alimentant la serre du campus, créant un modèle reproductible.",
       "description": "Des étudiants en génie ont conçu et installé un micro-réseau solaire alimentant la serre du campus, réduisant les coûts énergétiques et créant un modèle reproductible pour d'autres établissements.",
       "highlights": [
-        { "icon": "zap", "label": "Énergie produite", "value": "12 MWh/an" },
-        { "icon": "dollar", "label": "Économies annuelles", "value": "3 200 $" },
-        { "icon": "sun", "label": "Panneaux solaires", "value": "24" },
-        { "icon": "graduationCap", "label": "Projets de fin d'études", "value": "6" }
+        {
+          "icon": "zap",
+          "label": "Énergie produite",
+          "value": "12 MWh/an"
+        },
+        {
+          "icon": "dollar",
+          "label": "Économies annuelles",
+          "value": "3 200 $"
+        },
+        {
+          "icon": "sun",
+          "label": "Panneaux solaires",
+          "value": "24"
+        },
+        {
+          "icon": "graduationCap",
+          "label": "Projets de fin d'études",
+          "value": "6"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop", "caption": "Panneaux solaires installés sur le toit de la serre" },
-        { "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&h=600&fit=crop", "caption": "Étudiants surveillant le système de contrôle" },
-        { "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop", "caption": "La serre alimentée cultivant des produits toute l'année" }
+        {
+          "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop",
+          "caption": "Panneaux solaires installés sur le toit de la serre"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&h=600&fit=crop",
+          "caption": "Étudiants surveillant le système de contrôle"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop",
+          "caption": "La serre alimentée cultivant des produits toute l'année"
+        }
       ],
       "futureOutlook": "La phase 2 ajoutera du stockage par batteries et étendra le micro-réseau à d'autres bâtiments du campus. Le modèle est partagé avec 5 collèges partenaires en Ontario."
     }
@@ -101,7 +201,6 @@
     "province": "QC",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
-    
     "en": {
       "collegeName": "Dawson College",
       "title": "Zero-Waste Campus Challenge",
@@ -110,15 +209,40 @@
       "previewDescription": "A comprehensive waste audit and reduction program that engaged the entire campus community, resulting in a 40% reduction in landfill waste.",
       "description": "A comprehensive waste audit and reduction program that engaged the entire campus community in rethinking consumption habits, resulting in a 40% reduction in landfill waste.",
       "highlights": [
-        { "icon": "trash", "label": "Waste Diverted", "value": "40%" },
-        { "icon": "recycle", "label": "New Bins Installed", "value": "150" },
-        { "icon": "users", "label": "Participants", "value": "2,300" },
-        { "icon": "award", "label": "Recognition", "value": "Provincial Award" }
+        {
+          "icon": "trash",
+          "label": "Waste Diverted",
+          "value": "40%"
+        },
+        {
+          "icon": "recycle",
+          "label": "New Bins Installed",
+          "value": "150"
+        },
+        {
+          "icon": "users",
+          "label": "Participants",
+          "value": "2,300"
+        },
+        {
+          "icon": "award",
+          "label": "Recognition",
+          "value": "Provincial Award"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop", "caption": "New sorting stations installed across campus" },
-        { "url": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=800&h=600&fit=crop", "caption": "Student volunteers leading waste audit workshops" },
-        { "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&h=600&fit=crop", "caption": "The campus compost system in action" }
+        {
+          "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop",
+          "caption": "New sorting stations installed across campus"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=800&h=600&fit=crop",
+          "caption": "Student volunteers leading waste audit workshops"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&h=600&fit=crop",
+          "caption": "The campus compost system in action"
+        }
       ],
       "futureOutlook": "Dawson College aims to achieve zero-waste certification by 2027. Plans include partnering with local businesses for circular economy initiatives and expanding the composting program to nearby community centres."
     },
@@ -130,15 +254,40 @@
       "previewDescription": "Un programme complet d'audit et de réduction des déchets qui a mobilisé toute la communauté du campus, réduisant de 40 % les déchets envoyés à l'enfouissement.",
       "description": "Un programme complet d'audit et de réduction des déchets qui a mobilisé toute la communauté du campus pour repenser les habitudes de consommation, réduisant de 40 % les déchets envoyés à l'enfouissement.",
       "highlights": [
-        { "icon": "trash", "label": "Déchets détournés", "value": "40 %" },
-        { "icon": "recycle", "label": "Nouvelles poubelles", "value": "150" },
-        { "icon": "users", "label": "Participants", "value": "2 300" },
-        { "icon": "award", "label": "Reconnaissance", "value": "Prix provincial" }
+        {
+          "icon": "trash",
+          "label": "Déchets détournés",
+          "value": "40 %"
+        },
+        {
+          "icon": "recycle",
+          "label": "Nouvelles poubelles",
+          "value": "150"
+        },
+        {
+          "icon": "users",
+          "label": "Participants",
+          "value": "2 300"
+        },
+        {
+          "icon": "award",
+          "label": "Reconnaissance",
+          "value": "Prix provincial"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop", "caption": "Nouvelles stations de tri installées sur le campus" },
-        { "url": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=800&h=600&fit=crop", "caption": "Bénévoles étudiants animant des ateliers d'audit" },
-        { "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&h=600&fit=crop", "caption": "Le système de compostage du campus en action" }
+        {
+          "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop",
+          "caption": "Nouvelles stations de tri installées sur le campus"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=800&h=600&fit=crop",
+          "caption": "Bénévoles étudiants animant des ateliers d'audit"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&h=600&fit=crop",
+          "caption": "Le système de compostage du campus en action"
+        }
       ],
       "futureOutlook": "Le Collège Dawson vise la certification zéro déchet d'ici 2027. Les plans incluent des partenariats avec des entreprises locales pour des initiatives d'économie circulaire."
     }
@@ -158,15 +307,40 @@
       "previewDescription": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland, guided by Elders and knowledge keepers.",
       "description": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland adjacent to campus, guided by Elders and community knowledge keepers.",
       "highlights": [
-        { "icon": "sprout", "label": "Native Species Restored", "value": "35" },
-        { "icon": "users", "label": "Knowledge Keepers", "value": "8" },
-        { "icon": "mapPin", "label": "Area Restored", "value": "2.5 hectares" },
-        { "icon": "heart", "label": "Community Events", "value": "12" }
+        {
+          "icon": "sprout",
+          "label": "Native Species Restored",
+          "value": "35"
+        },
+        {
+          "icon": "users",
+          "label": "Knowledge Keepers",
+          "value": "8"
+        },
+        {
+          "icon": "mapPin",
+          "label": "Area Restored",
+          "value": "2.5 hectares"
+        },
+        {
+          "icon": "heart",
+          "label": "Community Events",
+          "value": "12"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop", "caption": "The restored wetland area with native plantings" },
-        { "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop", "caption": "Elder-led teaching circle on land stewardship" },
-        { "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop", "caption": "Students learning traditional ecological practices" }
+        {
+          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop",
+          "caption": "The restored wetland area with native plantings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop",
+          "caption": "Elder-led teaching circle on land stewardship"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop",
+          "caption": "Students learning traditional ecological practices"
+        }
       ],
       "futureOutlook": "The program will establish a permanent Indigenous Learning Garden and develop curriculum modules that integrate Two-Eyed Seeing approaches into environmental technology programs across Manitoba."
     },
@@ -178,15 +352,40 @@
       "previewDescription": "Intégrer les connaissances écologiques autochtones à la science environnementale moderne pour restaurer une zone humide, guidée par des Aînés et gardiens du savoir.",
       "description": "Intégrer les connaissances écologiques autochtones à la science environnementale moderne pour restaurer une zone humide dégradée adjacente au campus, guidée par des Aînés et des gardiens du savoir.",
       "highlights": [
-        { "icon": "sprout", "label": "Espèces indigènes restaurées", "value": "35" },
-        { "icon": "users", "label": "Gardiens du savoir", "value": "8" },
-        { "icon": "mapPin", "label": "Superficie restaurée", "value": "2,5 hectares" },
-        { "icon": "heart", "label": "Événements communautaires", "value": "12" }
+        {
+          "icon": "sprout",
+          "label": "Espèces indigènes restaurées",
+          "value": "35"
+        },
+        {
+          "icon": "users",
+          "label": "Gardiens du savoir",
+          "value": "8"
+        },
+        {
+          "icon": "mapPin",
+          "label": "Superficie restaurée",
+          "value": "2,5 hectares"
+        },
+        {
+          "icon": "heart",
+          "label": "Événements communautaires",
+          "value": "12"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop", "caption": "La zone humide restaurée avec des plantations indigènes" },
-        { "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop", "caption": "Cercle d'enseignement dirigé par des Aînés" },
-        { "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop", "caption": "Étudiants apprenant les pratiques écologiques traditionnelles" }
+        {
+          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop",
+          "caption": "La zone humide restaurée avec des plantations indigènes"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop",
+          "caption": "Cercle d'enseignement dirigé par des Aînés"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop",
+          "caption": "Étudiants apprenant les pratiques écologiques traditionnelles"
+        }
       ],
       "futureOutlook": "Le programme établira un jardin d'apprentissage autochtone permanent et développera des modules de programme intégrant les approches à double perspective dans les programmes de technologie environnementale."
     }
@@ -206,15 +405,40 @@
       "previewDescription": "Architecture students collaborated to retrofit a 1960s campus building with green technologies, including smart HVAC and a living wall system.",
       "description": "Architecture and building science students collaborated to retrofit a 1960s campus building with green technologies, including smart HVAC controls, improved insulation, and a living wall system.",
       "highlights": [
-        { "icon": "building", "label": "Energy Reduction", "value": "35%" },
-        { "icon": "thermometer", "label": "Heating Savings", "value": "$8,500/yr" },
-        { "icon": "leaf", "label": "Living Wall Area", "value": "40 m²" },
-        { "icon": "graduationCap", "label": "Students Trained", "value": "42" }
+        {
+          "icon": "building",
+          "label": "Energy Reduction",
+          "value": "35%"
+        },
+        {
+          "icon": "thermometer",
+          "label": "Heating Savings",
+          "value": "$8,500/yr"
+        },
+        {
+          "icon": "leaf",
+          "label": "Living Wall Area",
+          "value": "40 m²"
+        },
+        {
+          "icon": "graduationCap",
+          "label": "Students Trained",
+          "value": "42"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop", "caption": "The retrofitted building exterior with new insulation" },
-        { "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop", "caption": "Interior living wall providing natural air filtration" },
-        { "url": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop", "caption": "Students installing smart HVAC control systems" }
+        {
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+          "caption": "The retrofitted building exterior with new insulation"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
+          "caption": "Interior living wall providing natural air filtration"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
+          "caption": "Students installing smart HVAC control systems"
+        }
       ],
       "futureOutlook": "The retrofit model is being documented as an open-source guide for other institutions with aging building stock. NAIT plans to apply the same approach to three additional buildings by 2028."
     },
@@ -226,15 +450,40 @@
       "previewDescription": "Des étudiants en architecture ont collaboré pour rénover un bâtiment des années 1960 avec des technologies vertes, incluant des contrôles CVC intelligents et un mur végétal.",
       "description": "Des étudiants en architecture et en sciences du bâtiment ont collaboré pour rénover un bâtiment du campus des années 1960 avec des technologies vertes, incluant des contrôles CVC intelligents et un mur végétal.",
       "highlights": [
-        { "icon": "building", "label": "Réduction énergétique", "value": "35 %" },
-        { "icon": "thermometer", "label": "Économies de chauffage", "value": "8 500 $/an" },
-        { "icon": "leaf", "label": "Surface du mur végétal", "value": "40 m²" },
-        { "icon": "graduationCap", "label": "Étudiants formés", "value": "42" }
+        {
+          "icon": "building",
+          "label": "Réduction énergétique",
+          "value": "35 %"
+        },
+        {
+          "icon": "thermometer",
+          "label": "Économies de chauffage",
+          "value": "8 500 $/an"
+        },
+        {
+          "icon": "leaf",
+          "label": "Surface du mur végétal",
+          "value": "40 m²"
+        },
+        {
+          "icon": "graduationCap",
+          "label": "Étudiants formés",
+          "value": "42"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop", "caption": "L'extérieur du bâtiment rénové avec nouvelle isolation" },
-        { "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop", "caption": "Mur végétal intérieur pour la filtration naturelle de l'air" },
-        { "url": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop", "caption": "Étudiants installant des systèmes CVC intelligents" }
+        {
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+          "caption": "L'extérieur du bâtiment rénové avec nouvelle isolation"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
+          "caption": "Mur végétal intérieur pour la filtration naturelle de l'air"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
+          "caption": "Étudiants installant des systèmes CVC intelligents"
+        }
       ],
       "futureOutlook": "Le modèle de rénovation est documenté comme guide en libre accès pour d'autres établissements. Le NAIT prévoit appliquer la même approche à trois bâtiments supplémentaires d'ici 2028."
     }
@@ -245,7 +494,6 @@
     "province": "NS",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&h=400&fit=crop",
-    
     "en": {
       "collegeName": "NSCC Kingstec Campus",
       "title": "Campus Biodiversity Audit & Pollinator Corridor",
@@ -254,15 +502,40 @@
       "previewDescription": "Environmental science students conducted the first comprehensive biodiversity audit and designed a pollinator corridor connecting campus green spaces.",
       "description": "Environmental science students conducted the first comprehensive biodiversity audit of the campus and surrounding areas, then designed and planted a pollinator corridor connecting campus green spaces.",
       "highlights": [
-        { "icon": "bug", "label": "Species Catalogued", "value": "210" },
-        { "icon": "flower", "label": "Pollinator Plants", "value": "1,800" },
-        { "icon": "mapPin", "label": "Corridor Length", "value": "1.2 km" },
-        { "icon": "bird", "label": "Bird Species Found", "value": "47" }
+        {
+          "icon": "bug",
+          "label": "Species Catalogued",
+          "value": "210"
+        },
+        {
+          "icon": "flower",
+          "label": "Pollinator Plants",
+          "value": "1,800"
+        },
+        {
+          "icon": "mapPin",
+          "label": "Corridor Length",
+          "value": "1.2 km"
+        },
+        {
+          "icon": "bird",
+          "label": "Bird Species Found",
+          "value": "47"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=600&fit=crop", "caption": "Wildflower meadow section of the pollinator corridor" },
-        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=600&fit=crop", "caption": "Students conducting biodiversity field surveys" },
-        { "url": "https://images.unsplash.com/photo-1462275646964-a0e3c11f18a6?w=800&h=600&fit=crop", "caption": "Native bee species documented during the audit" }
+        {
+          "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=600&fit=crop",
+          "caption": "Wildflower meadow section of the pollinator corridor"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=600&fit=crop",
+          "caption": "Students conducting biodiversity field surveys"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1462275646964-a0e3c11f18a6?w=800&h=600&fit=crop",
+          "caption": "Native bee species documented during the audit"
+        }
       ],
       "futureOutlook": "The biodiversity data will be published as an open-access dataset. The pollinator corridor will be expanded to connect with the adjacent community park, creating a continuous green corridor through Kentville."
     },
@@ -274,15 +547,40 @@
       "previewDescription": "Des étudiants en sciences de l'environnement ont réalisé le premier audit complet de biodiversité et conçu un corridor de pollinisateurs reliant les espaces verts.",
       "description": "Des étudiants en sciences de l'environnement ont réalisé le premier audit complet de biodiversité du campus et des environs, puis conçu et planté un corridor de pollinisateurs reliant les espaces verts.",
       "highlights": [
-        { "icon": "bug", "label": "Espèces cataloguées", "value": "210" },
-        { "icon": "flower", "label": "Plantes pour pollinisateurs", "value": "1 800" },
-        { "icon": "mapPin", "label": "Longueur du corridor", "value": "1,2 km" },
-        { "icon": "bird", "label": "Espèces d'oiseaux", "value": "47" }
+        {
+          "icon": "bug",
+          "label": "Espèces cataloguées",
+          "value": "210"
+        },
+        {
+          "icon": "flower",
+          "label": "Plantes pour pollinisateurs",
+          "value": "1 800"
+        },
+        {
+          "icon": "mapPin",
+          "label": "Longueur du corridor",
+          "value": "1,2 km"
+        },
+        {
+          "icon": "bird",
+          "label": "Espèces d'oiseaux",
+          "value": "47"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=600&fit=crop", "caption": "Section de prairie fleurie du corridor de pollinisateurs" },
-        { "url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=600&fit=crop", "caption": "Étudiants menant des enquêtes de terrain" },
-        { "url": "https://images.unsplash.com/photo-1462275646964-a0e3c11f18a6?w=800&h=600&fit=crop", "caption": "Espèces d'abeilles indigènes documentées" }
+        {
+          "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=600&fit=crop",
+          "caption": "Section de prairie fleurie du corridor de pollinisateurs"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=600&fit=crop",
+          "caption": "Étudiants menant des enquêtes de terrain"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1462275646964-a0e3c11f18a6?w=800&h=600&fit=crop",
+          "caption": "Espèces d'abeilles indigènes documentées"
+        }
       ],
       "futureOutlook": "Les données de biodiversité seront publiées en libre accès. Le corridor de pollinisateurs sera étendu pour se connecter au parc communautaire adjacent, créant un corridor vert continu."
     }
@@ -302,15 +600,40 @@
       "previewDescription": "A collaborative project restoring native prairie grasslands while developing drone-based monitoring tools for soil health and vegetation assessment.",
       "description": "A collaborative project restoring native prairie grasslands on campus while developing drone-based monitoring tools for soil health and vegetation assessment across agricultural landscapes.",
       "highlights": [
-        { "icon": "mapPin", "label": "Prairie Restored", "value": "5 hectares" },
-        { "icon": "sprout", "label": "Native Grasses", "value": "22 species" },
-        { "icon": "monitor", "label": "Drone Flights", "value": "48" },
-        { "icon": "database", "label": "Data Points", "value": "15,000+" }
+        {
+          "icon": "mapPin",
+          "label": "Prairie Restored",
+          "value": "5 hectares"
+        },
+        {
+          "icon": "sprout",
+          "label": "Native Grasses",
+          "value": "22 species"
+        },
+        {
+          "icon": "monitor",
+          "label": "Drone Flights",
+          "value": "48"
+        },
+        {
+          "icon": "database",
+          "label": "Data Points",
+          "value": "15,000+"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&h=600&fit=crop", "caption": "Restored native prairie grassland on campus" },
-        { "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=600&fit=crop", "caption": "Drone survey of vegetation patterns" },
-        { "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=600&fit=crop", "caption": "Soil health analysis in the field lab" }
+        {
+          "url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&h=600&fit=crop",
+          "caption": "Restored native prairie grassland on campus"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=600&fit=crop",
+          "caption": "Drone survey of vegetation patterns"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=600&fit=crop",
+          "caption": "Soil health analysis in the field lab"
+        }
       ],
       "futureOutlook": "The drone monitoring toolkit will be made available to regional farmers and conservation groups. Plans include establishing a Prairie Restoration Centre of Excellence on campus."
     },
@@ -322,15 +645,40 @@
       "previewDescription": "Un projet collaboratif restaurant les prairies indigènes tout en développant des outils de surveillance par drone pour la santé des sols.",
       "description": "Un projet collaboratif restaurant les prairies indigènes sur le campus tout en développant des outils de surveillance par drone pour la santé des sols et l'évaluation de la végétation.",
       "highlights": [
-        { "icon": "mapPin", "label": "Prairie restaurée", "value": "5 hectares" },
-        { "icon": "sprout", "label": "Graminées indigènes", "value": "22 espèces" },
-        { "icon": "monitor", "label": "Vols de drones", "value": "48" },
-        { "icon": "database", "label": "Points de données", "value": "15 000+" }
+        {
+          "icon": "mapPin",
+          "label": "Prairie restaurée",
+          "value": "5 hectares"
+        },
+        {
+          "icon": "sprout",
+          "label": "Graminées indigènes",
+          "value": "22 espèces"
+        },
+        {
+          "icon": "monitor",
+          "label": "Vols de drones",
+          "value": "48"
+        },
+        {
+          "icon": "database",
+          "label": "Points de données",
+          "value": "15 000+"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&h=600&fit=crop", "caption": "Prairie indigène restaurée sur le campus" },
-        { "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=600&fit=crop", "caption": "Survol par drone des patterns de végétation" },
-        { "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=600&fit=crop", "caption": "Analyse de la santé des sols au laboratoire de terrain" }
+        {
+          "url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&h=600&fit=crop",
+          "caption": "Prairie indigène restaurée sur le campus"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=600&fit=crop",
+          "caption": "Survol par drone des patterns de végétation"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=600&fit=crop",
+          "caption": "Analyse de la santé des sols au laboratoire de terrain"
+        }
       ],
       "futureOutlook": "La boîte à outils de surveillance par drone sera mise à la disposition des agriculteurs régionaux et des groupes de conservation. Des plans incluent l'établissement d'un Centre d'excellence en restauration des prairies."
     }
@@ -341,7 +689,6 @@
     "province": "NB",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&h=400&fit=crop",
-    
     "en": {
       "collegeName": "NBCC Moncton",
       "title": "Campus Environmental Management System",
@@ -350,15 +697,40 @@
       "previewDescription": "Developing an integrated environmental management system with energy tracking dashboards, waste metrics, and real-time student-facing displays.",
       "description": "Developing an integrated environmental management system for campus operations, including energy tracking dashboards, waste metrics, and water usage monitoring with real-time student-facing displays.",
       "highlights": [
-        { "icon": "barChart", "label": "Metrics Tracked", "value": "24" },
-        { "icon": "droplet", "label": "Water Saved", "value": "180,000 L" },
-        { "icon": "monitor", "label": "Live Dashboards", "value": "6" },
-        { "icon": "award", "label": "Best Practice Guide", "value": "Published" }
+        {
+          "icon": "barChart",
+          "label": "Metrics Tracked",
+          "value": "24"
+        },
+        {
+          "icon": "droplet",
+          "label": "Water Saved",
+          "value": "180,000 L"
+        },
+        {
+          "icon": "monitor",
+          "label": "Live Dashboards",
+          "value": "6"
+        },
+        {
+          "icon": "award",
+          "label": "Best Practice Guide",
+          "value": "Published"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&h=600&fit=crop", "caption": "Real-time energy dashboard in the campus lobby" },
-        { "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop", "caption": "Students analyzing environmental data trends" },
-        { "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=600&fit=crop", "caption": "Water monitoring sensors installed across campus" }
+        {
+          "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&h=600&fit=crop",
+          "caption": "Real-time energy dashboard in the campus lobby"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+          "caption": "Students analyzing environmental data trends"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=600&fit=crop",
+          "caption": "Water monitoring sensors installed across campus"
+        }
       ],
       "futureOutlook": "NBCC plans to expand the system to all campuses province-wide and develop an open-source version for other Canadian colleges. The best practice guide has already been downloaded by 30+ institutions."
     },
@@ -370,15 +742,40 @@
       "previewDescription": "Développement d'un système intégré de gestion environnementale avec tableaux de bord de suivi énergétique, métriques de déchets et affichage en temps réel.",
       "description": "Développement d'un système intégré de gestion environnementale pour les opérations du campus, incluant des tableaux de bord de suivi énergétique, des métriques de déchets et un suivi de la consommation d'eau.",
       "highlights": [
-        { "icon": "barChart", "label": "Métriques suivies", "value": "24" },
-        { "icon": "droplet", "label": "Eau économisée", "value": "180 000 L" },
-        { "icon": "monitor", "label": "Tableaux de bord", "value": "6" },
-        { "icon": "award", "label": "Guide de bonnes pratiques", "value": "Publié" }
+        {
+          "icon": "barChart",
+          "label": "Métriques suivies",
+          "value": "24"
+        },
+        {
+          "icon": "droplet",
+          "label": "Eau économisée",
+          "value": "180 000 L"
+        },
+        {
+          "icon": "monitor",
+          "label": "Tableaux de bord",
+          "value": "6"
+        },
+        {
+          "icon": "award",
+          "label": "Guide de bonnes pratiques",
+          "value": "Publié"
+        }
       ],
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&h=600&fit=crop", "caption": "Tableau de bord énergétique en temps réel dans le hall" },
-        { "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop", "caption": "Étudiants analysant les tendances des données" },
-        { "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=600&fit=crop", "caption": "Capteurs de suivi d'eau installés sur le campus" }
+        {
+          "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&h=600&fit=crop",
+          "caption": "Tableau de bord énergétique en temps réel dans le hall"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+          "caption": "Étudiants analysant les tendances des données"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=600&fit=crop",
+          "caption": "Capteurs de suivi d'eau installés sur le campus"
+        }
       ],
       "futureOutlook": "Le CCNB prévoit d'étendre le système à tous les campus de la province et de développer une version en libre accès pour d'autres collèges canadiens."
     }

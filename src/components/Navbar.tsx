@@ -24,16 +24,16 @@ const Navbar = () => {
       role="navigation"
       aria-label={i18n.language === "en" ? "Main navigation" : "Navigation principale"}
     >
-      <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto flex h-20 max-w-5xl items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link to="/" className="flex items-center gap-3" aria-label="CICan ImpAct-Climate Home">
           <img
             src={branding.logos.cican}
             alt="CICan"
-            className="h-10 w-auto object-contain"
+            className="h-14 w-auto object-contain"
           />
-          <span className="text-xs font-medium text-muted-foreground">
+          {/* <span className="text-xs font-medium text-muted-foreground ml-2">
             {t(branding.nav.subtitleKey)}
-          </span>
+          </span> */}
         </Link>
 
         <div className="flex items-center gap-1">

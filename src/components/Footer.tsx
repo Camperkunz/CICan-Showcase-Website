@@ -7,19 +7,19 @@ const Footer = () => {
 
   return (
     <footer className="bg-[hsl(var(--footer-bg))] text-[hsl(var(--footer-foreground))]" role="contentinfo">
-      <div className="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-5xl px-4 py-14 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center gap-8 sm:flex-row sm:justify-between">
           {/* Logos from branding config */}
           <div className="flex items-center gap-6">
             <img
               src={branding.logos.cican}
               alt="CICan"
-              className="h-10 w-auto object-contain brightness-0 invert"
+              className="h-14 w-auto object-contain brightness-0 invert"
             />
             <img
               src={branding.logos.partner}
               alt="Partner"
-              className="h-10 w-auto object-contain brightness-0 invert"
+              className="h-12 w-auto object-contain brightness-0 invert"
             />
           </div>
 

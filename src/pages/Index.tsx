@@ -52,7 +52,7 @@ const Index = () => {
         resultCount={filtered.length}
       />
 
-      <main id="project-grid" className="flex-1 py-8 sm:py-12">
+      <main id="project-grid" className="flex-1 py-8 sm:py-12 mb-10">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           <motion.h2
             initial="hidden"

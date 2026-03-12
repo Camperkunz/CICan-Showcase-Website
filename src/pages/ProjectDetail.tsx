@@ -67,11 +67,6 @@ const ProjectDetail = () => {
         {/* Header */}
         <header className="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
           <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
-            <img
-              src={project.collegeLogoUrl}
-              alt={`${data.collegeName} logo`}
-              className="h-16 w-16 rounded-xl border bg-muted object-cover"
-            />
             <div className="flex-1">
               <Badge className={`mb-3 ${getThemeClasses(project.theme)} border-0 text-xs font-semibold gap-1`}>
                 {ThemeIcon && <ThemeIcon className="h-3 w-3" aria-hidden="true" />}
@@ -148,6 +143,11 @@ const ProjectDetail = () => {
             <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
               <Card>
                 <CardContent className="p-5 space-y-4">
+                  <img
+                    src={project.collegeLogoUrl}
+                    alt={`${data.collegeName} logo`}
+                    className="h-full"
+                  />
                   <div>
                     <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
                       {t("detail.projectLead")}

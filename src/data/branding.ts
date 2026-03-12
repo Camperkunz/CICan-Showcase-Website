@@ -12,7 +12,7 @@ export const branding = {
     /** CICan logo displayed in the navbar and footer */
     cican: "/logos/logo-cican.webp",
     /** Partner / company logo */
-    partner: "/logos/logo-spend.svg",
+    partner: "/logos/logo-slide.svg",
   },
 
   /** Navigation-bar labels (i18n keys) */

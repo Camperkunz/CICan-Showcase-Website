@@ -39,11 +39,11 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
           </Badge>
         </div>
         <CardContent className="flex flex-col gap-3 p-4">
-          <div className="flex items-center gap-2">
+          <div className="flex-col items-center gap-2">
             <img
               src={project.collegeLogoUrl}
               alt={`${data.collegeName} logo`}
-              className="h-8 w-8 rounded-full border bg-muted object-cover"
+              className="w-48"
               loading="lazy"
             />
             <span className="text-xs font-medium text-muted-foreground">
