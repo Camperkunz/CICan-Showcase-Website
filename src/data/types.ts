@@ -38,7 +38,6 @@ export interface Project {
   collegeLogoUrl: string;
   previewImageUrl: string;
   externalUrl?: string;
-  reportUrl?: string;
   en: ProjectLocale;
   fr: ProjectLocale;
 }

@@ -1,7 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import {
-  ArrowLeft, MapPin, User, Sparkles, ExternalLink, Download,
+  ArrowLeft, MapPin, User, Sparkles, ExternalLink,
   TreesIcon, Users, Salad, Leaf, Zap, Sun, GraduationCap,
   Trash2, Recycle, Award, Sprout, Heart, Building, Thermometer,
   Bug, Flower, Bird, BarChart3, Droplet, Monitor, Database, DollarSign,
@@ -87,15 +87,6 @@ const ProjectDetail = () => {
                 </span>
               </div>
 
-              {/* Download PDF button */}
-              {project.reportUrl && (
-                <Button asChild className="mt-4 gap-2">
-                  <a href={project.reportUrl} target="_blank" rel="noopener noreferrer" download>
-                    <Download className="h-4 w-4" aria-hidden="true" />
-                    {t("detail.downloadReport")}
-                  </a>
-                </Button>
-              )}
             </div>
           </div>
         </header>

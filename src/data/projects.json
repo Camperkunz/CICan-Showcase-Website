@@ -6,7 +6,6 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
     "externalUrl": "https://camosun.ca",
-    "reportUrl": "/reports/campus-food-forest.pdf",
     "en": {
       "collegeName": "Camosun College",
       "title": "Campus Food Forest Initiative",
@@ -55,7 +54,6 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=400&fit=crop",
     "externalUrl": "https://mohawkcollege.ca",
-    "reportUrl": "/reports/solar-micro-grid.pdf",
     "en": {
       "collegeName": "Mohawk College",
       "title": "Student-Led Solar Micro-Grid",
@@ -103,7 +101,7 @@
     "province": "QC",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
-    "reportUrl": "/reports/zero-waste-campus.pdf",
+    
     "en": {
       "collegeName": "Dawson College",
       "title": "Zero-Waste Campus Challenge",
@@ -152,7 +150,6 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
     "externalUrl": "https://rrc.ca",
-    "reportUrl": "/reports/indigenous-land-stewardship.pdf",
     "en": {
       "collegeName": "Red River College Polytechnic",
       "title": "Indigenous Land Stewardship Program",
@@ -201,7 +198,6 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
     "externalUrl": "https://nait.ca",
-    "reportUrl": "/reports/green-building-retrofit.pdf",
     "en": {
       "collegeName": "NAIT",
       "title": "Heritage Building Green Retrofit",
@@ -249,7 +245,7 @@
     "province": "NS",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&h=400&fit=crop",
-    "reportUrl": "/reports/campus-biodiversity-audit.pdf",
+    
     "en": {
       "collegeName": "NSCC Kingstec Campus",
       "title": "Campus Biodiversity Audit & Pollinator Corridor",
@@ -298,7 +294,6 @@
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
     "externalUrl": "https://saskpolytech.ca",
-    "reportUrl": "/reports/sustainable-land-management.pdf",
     "en": {
       "collegeName": "Saskatchewan Polytechnic",
       "title": "Sustainable Prairie Land Management",
@@ -346,7 +341,7 @@
     "province": "NB",
     "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
     "previewImageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&h=400&fit=crop",
-    "reportUrl": "/reports/waste-to-energy-innovation.pdf",
+    
     "en": {
       "collegeName": "NBCC Moncton",
       "title": "Campus Environmental Management System",
