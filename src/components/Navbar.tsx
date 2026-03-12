@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Globe } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { branding } from "@/config/branding";
+import { branding } from "@/data/branding";
 
 const Navbar = () => {
   const { t, i18n } = useTranslation();

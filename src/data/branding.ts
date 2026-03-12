@@ -10,9 +10,9 @@ export const branding = {
 
   logos: {
     /** CICan logo displayed in the navbar and footer */
-    cican: "/logos/cican-logo.webp",
+    cican: "/logos/logo-cican.webp",
     /** Partner / company logo */
-    partner: "/logos/partner-logo.webp",
+    partner: "/logos/logo-spend.svg",
   },
 
   /** Navigation-bar labels (i18n keys) */

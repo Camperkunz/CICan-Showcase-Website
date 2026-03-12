@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { ArrowDown, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { branding } from "@/config/branding";
+import { branding } from "@/data/branding";
 
 const Hero = () => {
   const { t } = useTranslation();
