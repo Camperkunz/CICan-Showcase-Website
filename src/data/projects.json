@@ -3,11 +3,11 @@
     "id": "campus-food-forest",
     "theme": "food",
     "province": "BC",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "/logos/logo-algonquin.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
     "externalUrl": "https://camosun.ca",
     "en": {
-      "collegeName": "Camosun College",
+      "collegeName": "Algonquin College",
       "title": "Campus Food Forest Initiative",
       "address": "3100 Foul Bay Rd, Victoria, BC V8P 5J2",
       "projectLead": "Dr. Sarah Mitchell",
@@ -199,10 +199,10 @@
     "id": "zero-waste-campus",
     "theme": "waste",
     "province": "QC",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "/logos/logo-boreal.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
     "en": {
-      "collegeName": "Dawson College",
+      "collegeName": "Collège Boréal",
       "title": "Zero-Waste Campus Challenge",
       "address": "3040 Sherbrooke St W, Montréal, QC H3Z 1A4",
       "projectLead": "Marie-Claire Bouchard",
@@ -296,7 +296,7 @@
     "id": "indigenous-land-stewardship",
     "theme": "indigenous",
     "province": "MB",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "/logos/logo-lacite.png",
     "previewImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
     "externalUrl": "https://rrc.ca",
     "en": {
@@ -394,7 +394,7 @@
     "id": "green-building-retrofit",
     "theme": "greenBuildings",
     "province": "AB",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "./logos/logo-conestoga.png",
     "previewImageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
     "externalUrl": "https://nait.ca",
     "en": {
@@ -492,7 +492,7 @@
     "id": "campus-biodiversity-audit",
     "theme": "biodiversity",
     "province": "NS",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "./logos/logo-barret.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&h=400&fit=crop",
     "en": {
       "collegeName": "NSCC Kingstec Campus",
@@ -589,7 +589,7 @@
     "id": "sustainable-land-management",
     "theme": "landManagement",
     "province": "SK",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "./logos/logo-lambton.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
     "externalUrl": "https://saskpolytech.ca",
     "en": {
@@ -687,7 +687,7 @@
     "id": "waste-to-energy-innovation",
     "theme": "management",
     "province": "NB",
-    "collegeLogoUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=100&h=100&fit=crop",
+    "collegeLogoUrl": "./logos/logo-ucn.svg",
     "previewImageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&h=400&fit=crop",
     "en": {
       "collegeName": "NBCC Moncton",

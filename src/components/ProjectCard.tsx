@@ -43,12 +43,12 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
             <img
               src={project.collegeLogoUrl}
               alt={`${data.collegeName} logo`}
-              className="w-48"
+              className="w-auto h-8"
               loading="lazy"
             />
-            <span className="text-xs font-medium text-muted-foreground">
+            {/* <span className="text-xs font-medium text-muted-foreground">
               {data.collegeName}
-            </span>
+            </span> */}
           </div>
           <h3 className="text-sm font-bold leading-snug text-foreground line-clamp-2 sm:text-base">
             {data.title}
