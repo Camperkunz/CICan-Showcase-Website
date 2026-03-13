@@ -1,783 +1,722 @@
 [
   {
-    "id": "campus-food-forest",
-    "theme": "food",
-    "province": "BC",
-    "collegeLogoUrl": "/logos/logo-algonquin.svg",
-    "previewImageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=400&fit=crop",
-    "externalUrl": "https://camosun.ca",
-    "en": {
-      "collegeName": "Algonquin College",
-      "title": "Campus Food Forest Initiative",
-      "address": "3100 Foul Bay Rd, Victoria, BC V8P 5J2",
-      "projectLead": "Dr. Sarah Mitchell",
-      "previewDescription": "Transforming underutilized campus land into a productive food forest, providing fresh produce to the cafeteria while serving as a living laboratory.",
-      "description": "Transforming underutilized campus land into a productive food forest that provides fresh produce to the college cafeteria while serving as a living laboratory for horticulture students.",
-      "highlights": [
-        {
-          "icon": "trees",
-          "label": "Trees Planted",
-          "value": "120+"
-        },
-        {
-          "icon": "users",
-          "label": "Students Involved",
-          "value": "85"
-        },
-        {
-          "icon": "salad",
-          "label": "Produce Harvested",
-          "value": "450 kg"
-        },
-        {
-          "icon": "leaf",
-          "label": "CO₂ Offset",
-          "value": "2.4 tonnes"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
-          "caption": "Students planting fruit trees on campus grounds"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=800&h=600&fit=crop",
-          "caption": "The food forest after six months of growth"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=600&fit=crop",
-          "caption": "Harvesting vegetables from the garden beds"
-        }
-      ],
-      "futureOutlook": "The food forest will expand to include a pollinator garden and Indigenous medicinal plants section, developed in partnership with local First Nations communities. Plans include integrating the space into culinary arts programming."
-    },
-    "fr": {
-      "collegeName": "Collège Camosun",
-      "title": "Initiative de forêt nourricière du campus",
-      "address": "3100 Foul Bay Rd, Victoria, C.-B. V8P 5J2",
-      "projectLead": "Dre Sarah Mitchell",
-      "previewDescription": "Transformer des terrains sous-utilisés en une forêt nourricière productive, fournissant des produits frais à la cafétéria tout en servant de laboratoire vivant.",
-      "description": "Transformer des terrains sous-utilisés du campus en une forêt nourricière productive qui fournit des produits frais à la cafétéria du collège tout en servant de laboratoire vivant pour les étudiants en horticulture.",
-      "highlights": [
-        {
-          "icon": "trees",
-          "label": "Arbres plantés",
-          "value": "120+"
-        },
-        {
-          "icon": "users",
-          "label": "Étudiants impliqués",
-          "value": "85"
-        },
-        {
-          "icon": "salad",
-          "label": "Produits récoltés",
-          "value": "450 kg"
-        },
-        {
-          "icon": "leaf",
-          "label": "CO₂ compensé",
-          "value": "2,4 tonnes"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
-          "caption": "Étudiants plantant des arbres fruitiers sur le campus"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=800&h=600&fit=crop",
-          "caption": "La forêt nourricière après six mois de croissance"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&h=600&fit=crop",
-          "caption": "Récolte de légumes des plates-bandes"
-        }
-      ],
-      "futureOutlook": "La forêt nourricière s'agrandira pour inclure un jardin de pollinisateurs et une section de plantes médicinales autochtones, développée en partenariat avec les communautés des Premières Nations locales."
-    }
-  },
-  {
-    "id": "solar-micro-grid",
-    "theme": "energy",
+    "id": "miyawaki-mini-forest-la-cite",
+    "theme": "environment",
     "province": "ON",
-    "collegeLogoUrl": "/logos/logo-britishColumbia.svg",
-    "previewImageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=400&fit=crop",
-    "externalUrl": "https://mohawkcollege.ca",
-    "en": {
-      "collegeName": "British Columbia Institute of Technology",
-      "title": "Student-Led Solar Micro-Grid",
-      "address": "135 Fennell Ave W, Hamilton, ON L9C 0E5",
-      "projectLead": "James Whitfield",
-      "previewDescription": "Engineering students designed and installed a solar micro-grid powering the campus greenhouse, creating a replicable model for other institutions.",
-      "description": "Engineering students designed and installed a solar micro-grid powering the campus greenhouse, reducing energy costs and creating a replicable model for other institutions.",
-      "highlights": [
-        {
-          "icon": "zap",
-          "label": "Energy Generated",
-          "value": "12 MWh/yr"
-        },
-        {
-          "icon": "dollar",
-          "label": "Annual Savings",
-          "value": "$3,200"
-        },
-        {
-          "icon": "sun",
-          "label": "Solar Panels",
-          "value": "24"
-        },
-        {
-          "icon": "graduationCap",
-          "label": "Capstone Projects",
-          "value": "6"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop",
-          "caption": "Solar panel array installed on the greenhouse roof"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&h=600&fit=crop",
-          "caption": "Students monitoring the micro-grid control system"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop",
-          "caption": "The powered greenhouse growing year-round produce"
-        }
-      ],
-      "futureOutlook": "Phase 2 will add battery storage and extend the micro-grid to power additional campus buildings. The project model is being shared with 5 partner colleges across Ontario."
-    },
-    "fr": {
-      "collegeName": "Collège Mohawk",
-      "title": "Micro-réseau solaire dirigé par les étudiants",
-      "address": "135 Fennell Ave W, Hamilton, ON L9C 0E5",
-      "projectLead": "James Whitfield",
-      "previewDescription": "Des étudiants en génie ont conçu et installé un micro-réseau solaire alimentant la serre du campus, créant un modèle reproductible.",
-      "description": "Des étudiants en génie ont conçu et installé un micro-réseau solaire alimentant la serre du campus, réduisant les coûts énergétiques et créant un modèle reproductible pour d'autres établissements.",
-      "highlights": [
-        {
-          "icon": "zap",
-          "label": "Énergie produite",
-          "value": "12 MWh/an"
-        },
-        {
-          "icon": "dollar",
-          "label": "Économies annuelles",
-          "value": "3 200 $"
-        },
-        {
-          "icon": "sun",
-          "label": "Panneaux solaires",
-          "value": "24"
-        },
-        {
-          "icon": "graduationCap",
-          "label": "Projets de fin d'études",
-          "value": "6"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop",
-          "caption": "Panneaux solaires installés sur le toit de la serre"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&h=600&fit=crop",
-          "caption": "Étudiants surveillant le système de contrôle"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop",
-          "caption": "La serre alimentée cultivant des produits toute l'année"
-        }
-      ],
-      "futureOutlook": "La phase 2 ajoutera du stockage par batteries et étendra le micro-réseau à d'autres bâtiments du campus. Le modèle est partagé avec 5 collèges partenaires en Ontario."
-    }
-  },
-  {
-    "id": "zero-waste-campus",
-    "theme": "waste",
-    "province": "ON",
-    "collegeLogoUrl": "/logos/logo-boreal.svg",
-    "previewImageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop",
-    "en": {
-      "collegeName": "Collège Boréal",
-      "title": "Innovative Fertilization and Respect for Traditions: Cultivation of Indigenous Medicinal Plants",
-      "address": "Collège Boréal, Sudbury, ON",
-      "projectLead": "Olivia Baudet",
-      "previewDescription": "A comprehensive waste audit and reduction program that engaged the entire campus community, resulting in a 40% reduction in landfill waste.",
-      "description": "A comprehensive waste audit and reduction program that engaged the entire campus community in rethinking consumption habits, resulting in a 40% reduction in landfill waste.",
-      "highlights": [
-        {
-          "icon": "trash",
-          "label": "Waste Diverted",
-          "value": "40%"
-        },
-        {
-          "icon": "recycle",
-          "label": "New Bins Installed",
-          "value": "150"
-        },
-        {
-          "icon": "users",
-          "label": "Participants",
-          "value": "2,300"
-        },
-        {
-          "icon": "award",
-          "label": "Recognition",
-          "value": "Provincial Award"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop",
-          "caption": "New sorting stations installed across campus"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=800&h=600&fit=crop",
-          "caption": "Student volunteers leading waste audit workshops"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&h=600&fit=crop",
-          "caption": "The campus compost system in action"
-        }
-      ],
-      "futureOutlook": "Dawson College aims to achieve zero-waste certification by 2027. Plans include partnering with local businesses for circular economy initiatives and expanding the composting program to nearby community centres."
-    },
-    "fr": {
-      "collegeName": "Collège Dawson",
-      "title": "Défi campus zéro déchet",
-      "address": "3040 Sherbrooke St W, Montréal, QC H3Z 1A4",
-      "projectLead": "Marie-Claire Bouchard",
-      "previewDescription": "Un programme complet d'audit et de réduction des déchets qui a mobilisé toute la communauté du campus, réduisant de 40 % les déchets envoyés à l'enfouissement.",
-      "description": "Un programme complet d'audit et de réduction des déchets qui a mobilisé toute la communauté du campus pour repenser les habitudes de consommation, réduisant de 40 % les déchets envoyés à l'enfouissement.",
-      "highlights": [
-        {
-          "icon": "trash",
-          "label": "Déchets détournés",
-          "value": "40 %"
-        },
-        {
-          "icon": "recycle",
-          "label": "Nouvelles poubelles",
-          "value": "150"
-        },
-        {
-          "icon": "users",
-          "label": "Participants",
-          "value": "2 300"
-        },
-        {
-          "icon": "award",
-          "label": "Reconnaissance",
-          "value": "Prix provincial"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=600&fit=crop",
-          "caption": "Nouvelles stations de tri installées sur le campus"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=800&h=600&fit=crop",
-          "caption": "Bénévoles étudiants animant des ateliers d'audit"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&h=600&fit=crop",
-          "caption": "Le système de compostage du campus en action"
-        }
-      ],
-      "futureOutlook": "Le Collège Dawson vise la certification zéro déchet d'ici 2027. Les plans incluent des partenariats avec des entreprises locales pour des initiatives d'économie circulaire."
-    }
-  },
-  {
-    "id": "indigenous-land-stewardship",
-    "theme": "indigenous",
-    "province": "ON",
-    "collegeLogoUrl": "/logos/logo-lacite.png",
-    "previewImageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&h=400&fit=crop",
-    "externalUrl": "https://rrc.ca",
+    "collegeLogoUrl": "/logos/placeholder-la-cite.svg",
+    "previewImageUrl": "https://placeholder.com/preview-miyawaki.jpg",
+    "externalUrl": "https://www.collegelacite.ca",
     "en": {
       "collegeName": "Collège La Cité",
       "title": "Creation of an Urban Mini-Forest (Miyawaki Method)",
-      "address": "Collège La Cité, Ottawa, ON",
+      "address": "801 Aviation Pkwy, Ottawa, ON K1K 4R3",
       "projectLead": "Ms. Lan Chi Nguyen Weekes",
-      "previewDescription": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland, guided by Elders and knowledge keepers.",
-      "description": "Integrating Indigenous ecological knowledge with modern environmental science to restore a degraded wetland adjacent to campus, guided by Elders and community knowledge keepers.",
+      "previewDescription": "A 200 m² dense micro-forest created on campus using the Miyawaki method to accelerate growth and biodiversity.",
+      "description": "A 200 m² dense micro-forest was created on campus using the Miyawaki method, a rapid reforestation technique that involves planting native trees and shrubs very close together to mimic natural forest ecosystems. This method accelerates growth, improves biodiversity, and drastically increases carbon sequestration.",
       "highlights": [
         {
-          "icon": "sprout",
-          "label": "Native Species Restored",
-          "value": "35"
+          "icon": "trees",
+          "label": "Native Trees & Shrubs",
+          "value": "600+"
         },
         {
-          "icon": "users",
-          "label": "Knowledge Keepers",
-          "value": "8"
+          "icon": "maximize",
+          "label": "Area Transformed",
+          "value": "200 m²"
         },
         {
-          "icon": "mapPin",
-          "label": "Area Restored",
-          "value": "2.5 hectares"
+          "icon": "zap",
+          "label": "Faster Growth",
+          "value": "3-10×"
         },
         {
-          "icon": "heart",
-          "label": "Community Events",
-          "value": "12"
+          "icon": "thermometer-snowflake",
+          "label": "Local Cooling",
+          "value": "-1.3°C"
         }
       ],
       "photos": [
         {
-          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop",
-          "caption": "The restored wetland area with native plantings"
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Planting native species using the Miyawaki technique"
         },
         {
-          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop",
-          "caption": "Elder-led teaching circle on land stewardship"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop",
-          "caption": "Students learning traditional ecological practices"
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "The micro-forest site during the initial growth phase"
         }
       ],
-      "futureOutlook": "The program will establish a permanent Indigenous Learning Garden and develop curriculum modules that integrate Two-Eyed Seeing approaches into environmental technology programs across Manitoba."
+      "futureOutlook": "The team aims to scale the forest, expand ecological monitoring, and leverage additional funding to maximize environmental and educational outcomes, building on the proven impact on biodiversity and GHG reduction."
     },
     "fr": {
-      "collegeName": "Polytechnique Red River College",
-      "title": "Programme d'intendance autochtone des terres",
-      "address": "2055 Notre Dame Ave, Winnipeg, MB R3H 0J9",
-      "projectLead": "Aînée Margaret Chicken",
-      "previewDescription": "Intégrer les connaissances écologiques autochtones à la science environnementale moderne pour restaurer une zone humide, guidée par des Aînés et gardiens du savoir.",
-      "description": "Intégrer les connaissances écologiques autochtones à la science environnementale moderne pour restaurer une zone humide dégradée adjacente au campus, guidée par des Aînés et des gardiens du savoir.",
+      "collegeName": "Collège La Cité",
+      "title": "Création d'une mini-forêt urbaine (méthode Miyawaki)",
+      "address": "801 Aviation Pkwy, Ottawa, ON K1K 4R3",
+      "projectLead": "Mme Lan Chi Nguyen Weekes",
+      "previewDescription": "Une micro-forêt dense de 200 m² créée sur le campus selon la méthode Miyawaki pour accélérer la croissance et la biodiversité.",
+      "description": "Une micro-forêt dense de 200 m² a été créée sur le campus en utilisant la méthode Miyawaki, une technique de reforestation rapide qui consiste à planter des arbres et arbustes indigènes très serrés pour imiter les écosystèmes forestiers naturels. Cette méthode accélère la croissance, améliore la biodiversité et augmente considérablement la séquestration du carbone.",
       "highlights": [
         {
-          "icon": "sprout",
-          "label": "Espèces indigènes restaurées",
-          "value": "35"
+          "icon": "trees",
+          "label": "Arbres et arbustes indigènes",
+          "value": "600+"
         },
         {
-          "icon": "users",
-          "label": "Gardiens du savoir",
-          "value": "8"
+          "icon": "maximize",
+          "label": "Surface transformée",
+          "value": "200 m²"
         },
         {
-          "icon": "mapPin",
-          "label": "Superficie restaurée",
-          "value": "2,5 hectares"
+          "icon": "zap",
+          "label": "Croissance plus rapide",
+          "value": "3 à 10×"
         },
         {
-          "icon": "heart",
-          "label": "Événements communautaires",
-          "value": "12"
+          "icon": "thermometer-snowflake",
+          "label": "Refroidissement local",
+          "value": "-1,3°C"
         }
       ],
       "photos": [
         {
-          "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=600&fit=crop",
-          "caption": "La zone humide restaurée avec des plantations indigènes"
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Plantation d'espèces indigènes selon la technique Miyawaki"
         },
         {
-          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop",
-          "caption": "Cercle d'enseignement dirigé par des Aînés"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop",
-          "caption": "Étudiants apprenant les pratiques écologiques traditionnelles"
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Le site de la micro-forêt pendant la phase initiale de croissance"
         }
       ],
-      "futureOutlook": "Le programme établira un jardin d'apprentissage autochtone permanent et développera des modules de programme intégrant les approches à double perspective dans les programmes de technologie environnementale."
+      "futureOutlook": "L'équipe vise à agrandir la forêt, à étendre le suivi écologique et à mobiliser des fonds supplémentaires pour maximiser les retombées environnementales et éducatives, en s'appuyant sur l'impact prouvé sur la biodiversité et la réduction des GES."
     }
   },
   {
-    "id": "green-building-retrofit",
-    "theme": "greenBuildings",
-    "province": "AB",
-    "collegeLogoUrl": "./logos/logo-conestoga.png",
-    "previewImageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-    "externalUrl": "https://nait.ca",
-    "en": {
-      "collegeName": "NAIT",
-      "title": "Heritage Building Green Retrofit",
-      "address": "11762 106 St NW, Edmonton, AB T5G 2R1",
-      "projectLead": "Prof. Kevin Tran",
-      "previewDescription": "Architecture students collaborated to retrofit a 1960s campus building with green technologies, including smart HVAC and a living wall system.",
-      "description": "Architecture and building science students collaborated to retrofit a 1960s campus building with green technologies, including smart HVAC controls, improved insulation, and a living wall system.",
-      "highlights": [
-        {
-          "icon": "building",
-          "label": "Energy Reduction",
-          "value": "35%"
-        },
-        {
-          "icon": "thermometer",
-          "label": "Heating Savings",
-          "value": "$8,500/yr"
-        },
-        {
-          "icon": "leaf",
-          "label": "Living Wall Area",
-          "value": "40 m²"
-        },
-        {
-          "icon": "graduationCap",
-          "label": "Students Trained",
-          "value": "42"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
-          "caption": "The retrofitted building exterior with new insulation"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
-          "caption": "Interior living wall providing natural air filtration"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
-          "caption": "Students installing smart HVAC control systems"
-        }
-      ],
-      "futureOutlook": "The retrofit model is being documented as an open-source guide for other institutions with aging building stock. NAIT plans to apply the same approach to three additional buildings by 2028."
-    },
-    "fr": {
-      "collegeName": "NAIT",
-      "title": "Rénovation verte d'un bâtiment patrimonial",
-      "address": "11762 106 St NW, Edmonton, AB T5G 2R1",
-      "projectLead": "Prof. Kevin Tran",
-      "previewDescription": "Des étudiants en architecture ont collaboré pour rénover un bâtiment des années 1960 avec des technologies vertes, incluant des contrôles CVC intelligents et un mur végétal.",
-      "description": "Des étudiants en architecture et en sciences du bâtiment ont collaboré pour rénover un bâtiment du campus des années 1960 avec des technologies vertes, incluant des contrôles CVC intelligents et un mur végétal.",
-      "highlights": [
-        {
-          "icon": "building",
-          "label": "Réduction énergétique",
-          "value": "35 %"
-        },
-        {
-          "icon": "thermometer",
-          "label": "Économies de chauffage",
-          "value": "8 500 $/an"
-        },
-        {
-          "icon": "leaf",
-          "label": "Surface du mur végétal",
-          "value": "40 m²"
-        },
-        {
-          "icon": "graduationCap",
-          "label": "Étudiants formés",
-          "value": "42"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
-          "caption": "L'extérieur du bâtiment rénové avec nouvelle isolation"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
-          "caption": "Mur végétal intérieur pour la filtration naturelle de l'air"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
-          "caption": "Étudiants installant des systèmes CVC intelligents"
-        }
-      ],
-      "futureOutlook": "Le modèle de rénovation est documenté comme guide en libre accès pour d'autres établissements. Le NAIT prévoit appliquer la même approche à trois bâtiments supplémentaires d'ici 2028."
-    }
-  },
-  {
-    "id": "campus-biodiversity-audit",
-    "theme": "indigenous",
+    "id": "field-to-fork-durham",
+    "theme": "food",
     "province": "ON",
-    "collegeLogoUrl": "/logos/logo-barret.svg",
-    "previewImageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&h=400&fit=crop",
+    "collegeLogoUrl": "/logos/placeholder-durham.svg",
+    "previewImageUrl": "https://placeholder.com/preview-durham-food.jpg",
+    "externalUrl": "https://durhamcollege.ca",
     "en": {
       "collegeName": "Durham College",
-      "title": "Field-to-fork climate action: Strengthening Circular Food Systems through Indigenous Collaboration",
-      "address": "Durham College, Oshawa, ON",
+      "title": "Field-to-Fork Climate Action: Circular Food Systems & Indigenous Collaboration",
+      "address": "2000 Simcoe St N, Oshawa, ON L1G 0C5",
       "projectLead": "Kelly O’Brien",
-      "previewDescription": "Environmental science students conducted the first comprehensive biodiversity audit and designed a pollinator corridor connecting campus green spaces.",
-      "description": "Environmental science students conducted the first comprehensive biodiversity audit of the campus and surrounding areas, then designed and planted a pollinator corridor connecting campus green spaces.",
+      "previewDescription": "Strengthening circular food systems through Indigenous collaboration, education, and hands-on GHG-reduction strategies.",
+      "description": "This project advances Durham College’s Field‑to‑Fork‑to‑Field campus model by embedding climate-conscious food systems learning across the curriculum and community engagement. In partnership with the Barrett Centre of Innovation in Sustainable Urban Agriculture, students gain experience in GHG‑reduction through culinary programming and applied research. Indigenous knowledge is integrated through an Indigenous Healing Garden, while community workshops model sustainable food preparation and waste reduction.",
       "highlights": [
         {
-          "icon": "bug",
-          "label": "Species Catalogued",
-          "value": "210"
+          "icon": "recycle",
+          "label": "Food Waste Diverted",
+          "value": "6.335 t"
         },
         {
-          "icon": "flower",
-          "label": "Pollinator Plants",
-          "value": "1,800"
+          "icon": "refrigerator",
+          "label": "Recaptured By-products",
+          "value": "2,000+ kg"
         },
         {
-          "icon": "mapPin",
-          "label": "Corridor Length",
-          "value": "1.2 km"
-        },
-        {
-          "icon": "bird",
-          "label": "Bird Species Found",
-          "value": "47"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=600&fit=crop",
-          "caption": "Wildflower meadow section of the pollinator corridor"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=600&fit=crop",
-          "caption": "Students conducting biodiversity field surveys"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1462275646964-a0e3c11f18a6?w=800&h=600&fit=crop",
-          "caption": "Native bee species documented during the audit"
-        }
-      ],
-      "futureOutlook": "The biodiversity data will be published as an open-access dataset. The pollinator corridor will be expanded to connect with the adjacent community park, creating a continuous green corridor through Kentville."
-    },
-    "fr": {
-      "collegeName": "NSCC Campus Kingstec",
-      "title": "Audit de biodiversité et corridor de pollinisateurs",
-      "address": "236 Belcher St, Kentville, N.-É. B4N 0A6",
-      "projectLead": "Dre Anna Leblanc",
-      "previewDescription": "Des étudiants en sciences de l'environnement ont réalisé le premier audit complet de biodiversité et conçu un corridor de pollinisateurs reliant les espaces verts.",
-      "description": "Des étudiants en sciences de l'environnement ont réalisé le premier audit complet de biodiversité du campus et des environs, puis conçu et planté un corridor de pollinisateurs reliant les espaces verts.",
-      "highlights": [
-        {
-          "icon": "bug",
-          "label": "Espèces cataloguées",
-          "value": "210"
-        },
-        {
-          "icon": "flower",
-          "label": "Plantes pour pollinisateurs",
-          "value": "1 800"
-        },
-        {
-          "icon": "mapPin",
-          "label": "Longueur du corridor",
-          "value": "1,2 km"
-        },
-        {
-          "icon": "bird",
-          "label": "Espèces d'oiseaux",
-          "value": "47"
-        }
-      ],
-      "photos": [
-        {
-          "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=600&fit=crop",
-          "caption": "Section de prairie fleurie du corridor de pollinisateurs"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=600&fit=crop",
-          "caption": "Étudiants menant des enquêtes de terrain"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1462275646964-a0e3c11f18a6?w=800&h=600&fit=crop",
-          "caption": "Espèces d'abeilles indigènes documentées"
-        }
-      ],
-      "futureOutlook": "Les données de biodiversité seront publiées en libre accès. Le corridor de pollinisateurs sera étendu pour se connecter au parc communautaire adjacent, créant un corridor vert continu."
-    }
-  },
-  {
-    "id": "sustainable-land-management",
-    "theme": "landManagement",
-    "province": "SK",
-    "collegeLogoUrl": "./logos/logo-lambton.svg",
-    "previewImageUrl": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&h=400&fit=crop",
-    "externalUrl": "https://saskpolytech.ca",
-    "en": {
-      "collegeName": "Saskatchewan Polytechnic",
-      "title": "Sustainable Prairie Land Management",
-      "address": "1130 Idylwyld Dr N, Saskatoon, SK S7L 4K2",
-      "projectLead": "Mark Olsen",
-      "previewDescription": "A collaborative project restoring native prairie grasslands while developing drone-based monitoring tools for soil health and vegetation assessment.",
-      "description": "A collaborative project restoring native prairie grasslands on campus while developing drone-based monitoring tools for soil health and vegetation assessment across agricultural landscapes.",
-      "highlights": [
-        {
-          "icon": "mapPin",
-          "label": "Prairie Restored",
-          "value": "5 hectares"
+          "icon": "hand-heart",
+          "label": "Fresh Produce Donated",
+          "value": "3,996 kg"
         },
         {
           "icon": "sprout",
-          "label": "Native Grasses",
-          "value": "22 species"
-        },
-        {
-          "icon": "monitor",
-          "label": "Drone Flights",
-          "value": "48"
-        },
-        {
-          "icon": "database",
-          "label": "Data Points",
-          "value": "15,000+"
+          "label": "Waste Reduction",
+          "value": "30%"
         }
       ],
       "photos": [
         {
-          "url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&h=600&fit=crop",
-          "caption": "Restored native prairie grassland on campus"
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Students working in the culinary lab with recaptured by-products"
         },
         {
-          "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=600&fit=crop",
-          "caption": "Drone survey of vegetation patterns"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=600&fit=crop",
-          "caption": "Soil health analysis in the field lab"
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Ceremonial launch of the Indigenous Healing Garden"
         }
       ],
-      "futureOutlook": "The drone monitoring toolkit will be made available to regional farmers and conservation groups. Plans include establishing a Prairie Restoration Centre of Excellence on campus."
+      "futureOutlook": "In collaboration with Indigenous partners, an Indigenous Agroecology Garden and raised-bed planters for medicinal plants will be installed. Guided by Indigenous knowledge systems, this space will support curriculum integration and experiential learning across the campus community."
     },
     "fr": {
-      "collegeName": "Polytechnique de la Saskatchewan",
-      "title": "Gestion durable des terres des Prairies",
-      "address": "1130 Idylwyld Dr N, Saskatoon, SK S7L 4K2",
-      "projectLead": "Mark Olsen",
-      "previewDescription": "Un projet collaboratif restaurant les prairies indigènes tout en développant des outils de surveillance par drone pour la santé des sols.",
-      "description": "Un projet collaboratif restaurant les prairies indigènes sur le campus tout en développant des outils de surveillance par drone pour la santé des sols et l'évaluation de la végétation.",
+      "collegeName": "Durham College",
+      "title": "Action climatique de la ferme à la table : systèmes alimentaires circulaires et collaboration autochtone",
+      "address": "2000 Simcoe St N, Oshawa, ON L1G 0C5",
+      "projectLead": "Kelly O’Brien",
+      "previewDescription": "Renforcement des systèmes alimentaires circulaires grâce à la collaboration autochtone, à l'éducation et à des stratégies concrètes de réduction des GES.",
+      "description": "Ce projet fait progresser le modèle « de la ferme à la table » du Durham College en intégrant l'apprentissage des systèmes alimentaires respectueux du climat dans les programmes d'études et l'engagement communautaire. En partenariat avec le Barrett Centre of Innovation in Sustainable Urban Agriculture, les étudiants acquièrent une expérience en réduction des GES via des programmes culinaires. Les savoirs autochtones sont intégrés par la création d'un jardin de guérison, tandis que des ateliers modélisent la préparation durable des aliments et la réduction des déchets.",
       "highlights": [
         {
-          "icon": "mapPin",
-          "label": "Prairie restaurée",
-          "value": "5 hectares"
+          "icon": "recycle",
+          "label": "Déchets alimentaires détournés",
+          "value": "6,335 t"
+        },
+        {
+          "icon": "refrigerator",
+          "label": "Sous-produits récupérés",
+          "value": "2 000+ kg"
+        },
+        {
+          "icon": "hand-heart",
+          "label": "Produits frais donnés",
+          "value": "3 996 kg"
         },
         {
           "icon": "sprout",
-          "label": "Graminées indigènes",
-          "value": "22 espèces"
-        },
-        {
-          "icon": "monitor",
-          "label": "Vols de drones",
-          "value": "48"
-        },
-        {
-          "icon": "database",
-          "label": "Points de données",
-          "value": "15 000+"
+          "label": "Réduction des déchets",
+          "value": "30 %"
         }
       ],
       "photos": [
         {
-          "url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&h=600&fit=crop",
-          "caption": "Prairie indigène restaurée sur le campus"
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Étudiants travaillant en laboratoire culinaire avec des sous-produits récupérés"
         },
         {
-          "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=600&fit=crop",
-          "caption": "Survol par drone des patterns de végétation"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&h=600&fit=crop",
-          "caption": "Analyse de la santé des sols au laboratoire de terrain"
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Lancement cérémoniel du jardin de guérison autochtone"
         }
       ],
-      "futureOutlook": "La boîte à outils de surveillance par drone sera mise à la disposition des agriculteurs régionaux et des groupes de conservation. Des plans incluent l'établissement d'un Centre d'excellence en restauration des prairies."
+      "futureOutlook": "En collaboration avec des partenaires autochtones, un jardin d'agroécologie autochtone et des bacs de plantation pour plantes médicinales seront installés. Guidé par les systèmes de connaissances autochtones, cet espace soutiendra l'intégration des programmes d'études et l'apprentissage expérientiel."
     }
   },
   {
-    "id": "waste-to-energy-innovation",
-    "theme": "management",
-    "province": "NB",
-    "collegeLogoUrl": "./logos/logo-ucn.svg",
-    "previewImageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=600&h=400&fit=crop",
+    "id": "indigenous-medicinal-plants-boreal",
+    "theme": "environment",
+    "province": "ON",
+    "collegeLogoUrl": "/logos/placeholder-boreal.svg",
+    "previewImageUrl": "https://placeholder.com/preview-boreal-plants.jpg",
+    "externalUrl": "https://www.collegeboreal.ca",
     "en": {
-      "collegeName": "NBCC Moncton",
-      "title": "Campus Environmental Management System",
-      "address": "1234 Mountain Rd, Moncton, NB E1C 8H9",
-      "projectLead": "Prof. Diane Cormier",
-      "previewDescription": "Developing an integrated environmental management system with energy tracking dashboards, waste metrics, and real-time student-facing displays.",
-      "description": "Developing an integrated environmental management system for campus operations, including energy tracking dashboards, waste metrics, and water usage monitoring with real-time student-facing displays.",
+      "collegeName": "Collège Boréal",
+      "title": "Innovative Fertilization and Respect for Traditions: Cultivation of Indigenous Medicinal Plants",
+      "address": "21 Lasalle Blvd, Sudbury, ON P3A 6B1",
+      "projectLead": "Olivia Baudet",
+      "previewDescription": "Reducing campus carbon footprint by dehydrating food waste to create substrate for Indigenous medicinal plants.",
+      "description": "This project aims to reduce the campus carbon footprint by diverting food waste from landfills using an industrial dehydrator. The resulting dry substrate is tested for its effectiveness in growing Indigenous medicinal plants, a process managed in partnership with the First Nations, Métis, and Inuit Education Centre. The initiative also includes community workshops on waste sorting and the environmental impact of food waste.",
       "highlights": [
         {
-          "icon": "barChart",
-          "label": "Metrics Tracked",
-          "value": "24"
+          "icon": "recycle",
+          "label": "Waste Diverted",
+          "value": "450 kg"
         },
         {
-          "icon": "droplet",
-          "label": "Water Saved",
-          "value": "180,000 L"
+          "icon": "cloud-rain",
+          "label": "CO₂ Emissions Prevented",
+          "value": "440 kg"
         },
         {
-          "icon": "monitor",
-          "label": "Live Dashboards",
-          "value": "6"
+          "icon": "users",
+          "label": "Event Attendees",
+          "value": "100"
         },
         {
-          "icon": "award",
-          "label": "Best Practice Guide",
-          "value": "Published"
+          "icon": "trash-2",
+          "label": "Waste Removed from Nature",
+          "value": "53 lb"
         }
       ],
       "photos": [
         {
-          "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&h=600&fit=crop",
-          "caption": "Real-time energy dashboard in the campus lobby"
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Industrial dehydrator processing campus food waste"
         },
         {
-          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
-          "caption": "Students analyzing environmental data trends"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=600&fit=crop",
-          "caption": "Water monitoring sensors installed across campus"
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Students and community members during the environmental awareness day"
         }
       ],
-      "futureOutlook": "NBCC plans to expand the system to all campuses province-wide and develop an open-source version for other Canadian colleges. The best practice guide has already been downloaded by 30+ institutions."
+      "futureOutlook": "Collège Boréal plans to continue collecting food waste to reduce landfill contributions. The team intends to keep organizing awareness activities and experimenting with various applications for the substrate produced by the food dehydrator in different horticultural contexts."
     },
     "fr": {
-      "collegeName": "CCNB Moncton",
-      "title": "Système de gestion environnementale du campus",
-      "address": "1234 Mountain Rd, Moncton, N.-B. E1C 8H9",
-      "projectLead": "Prof. Diane Cormier",
-      "previewDescription": "Développement d'un système intégré de gestion environnementale avec tableaux de bord de suivi énergétique, métriques de déchets et affichage en temps réel.",
-      "description": "Développement d'un système intégré de gestion environnementale pour les opérations du campus, incluant des tableaux de bord de suivi énergétique, des métriques de déchets et un suivi de la consommation d'eau.",
+      "collegeName": "Collège Boréal",
+      "title": "Fertilisation innovante et respect des traditions : Culture de plantes médicinales autochtones",
+      "address": "21 Lasalle Blvd, Sudbury, ON P3A 6B1",
+      "projectLead": "Olivia Baudet",
+      "previewDescription": "Réduction de l'empreinte carbone du campus par la déshydratation des déchets alimentaires pour créer un substrat pour les plantes médicinales autochtones.",
+      "description": "Ce projet vise à réduire l'empreinte carbone du campus en détournant les déchets alimentaires des décharges grâce à un déshydrateur industriel. Le substrat sec résultant est testé pour son efficacité dans la culture de plantes médicinales autochtones, un processus géré en partenariat avec le Centre d'éducation pour les Premières Nations, les Métis et les Inuits. L'initiative comprend également des ateliers communautaires sur le tri des déchets et l'impact environnemental du gaspillage alimentaire.",
       "highlights": [
         {
-          "icon": "barChart",
-          "label": "Métriques suivies",
-          "value": "24"
+          "icon": "recycle",
+          "label": "Déchets détournés",
+          "value": "450 kg"
         },
         {
-          "icon": "droplet",
-          "label": "Eau économisée",
-          "value": "180 000 L"
+          "icon": "cloud-rain",
+          "label": "Émissions de CO₂ évitées",
+          "value": "440 kg"
         },
         {
-          "icon": "monitor",
-          "label": "Tableaux de bord",
-          "value": "6"
+          "icon": "users",
+          "label": "Participants aux événements",
+          "value": "100"
         },
         {
-          "icon": "award",
-          "label": "Guide de bonnes pratiques",
-          "value": "Publié"
+          "icon": "trash-2",
+          "label": "Déchets retirés de la nature",
+          "value": "53 lb"
         }
       ],
       "photos": [
         {
-          "url": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&h=600&fit=crop",
-          "caption": "Tableau de bord énergétique en temps réel dans le hall"
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Déshydrateur industriel traitant les déchets alimentaires du campus"
         },
         {
-          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
-          "caption": "Étudiants analysant les tendances des données"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=600&fit=crop",
-          "caption": "Capteurs de suivi d'eau installés sur le campus"
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Étudiants et membres de la communauté lors de la journée de sensibilisation à l'environnement"
         }
       ],
-      "futureOutlook": "Le CCNB prévoit d'étendre le système à tous les campus de la province et de développer une version en libre accès pour d'autres collèges canadiens."
+      "futureOutlook": "Le Collège Boréal prévoit de poursuivre la collecte des déchets alimentaires afin de réduire les quantités envoyées à la décharge. L'équipe a également l'intention de continuer à organiser des activités de sensibilisation et d'expérimenter différentes façons d'utiliser le substrat produit par le déshydrateur."
+    }
+  },
+  {
+    "id": "shut-the-sash-lambton",
+    "theme": "energy",
+    "province": "ON",
+    "collegeLogoUrl": "/logos/placeholder-lambton.svg",
+    "previewImageUrl": "https://placeholder.com/preview-lambton-energy.jpg",
+    "externalUrl": "https://lambtoncollege.ca",
+    "en": {
+      "collegeName": "Lambton College",
+      "title": "Shut the Sash Lambton",
+      "address": "1457 London Rd, Sarnia, ON N7S 6K4",
+      "projectLead": "Carlos Diaz",
+      "previewDescription": "A pilot initiative reducing laboratory energy use and GHG emissions by encouraging lab users to close fume hood sashes.",
+      "description": "Shut the Sash Lambton is a pilot sustainability initiative designed to reduce laboratory energy use and GHG emissions while reinforcing safe laboratory practices. The project couples sash-position sensors on selected research fume hoods with a targeted awareness campaign. Because fume hoods are energy-intensive, closing them when not in use significantly reduces ventilation energy demand without impacting research productivity.",
+      "highlights": [
+        {
+          "icon": "zap",
+          "label": "Energy Demand Reduction",
+          "value": "20–40%"
+        },
+        {
+          "icon": "users",
+          "label": "Community Members Engaged",
+          "value": "77+"
+        },
+        {
+          "icon": "shield-check",
+          "label": "Safety Normalization",
+          "value": "Improved"
+        },
+        {
+          "icon": "trending-down",
+          "label": "Infrastructure Cost",
+          "value": "Low-cost"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Fume hood with sash-position sensor installed"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Educational decals and campaign materials in the research lab"
+        }
+      ],
+      "futureOutlook": "The project will continue as a pilot with new air handling units and ongoing data collection. Next steps include completing a performance analysis report and using the results to scale the program to additional laboratories across the campus."
+    },
+    "fr": {
+      "collegeName": "Lambton College",
+      "title": "Fermez la hotte Lambton (Shut the Sash)",
+      "address": "1457 London Rd, Sarnia, ON N7S 6K4",
+      "projectLead": "Carlos Diaz",
+      "previewDescription": "Une initiative pilote réduisant la consommation d'énergie et les émissions de GES en encourageant la fermeture des hottes de laboratoire.",
+      "description": "Shut the Sash Lambton est une initiative pilote de durabilité conçue pour réduire la consommation d'énergie et les émissions de GES tout en renforçant les pratiques de sécurité. Le projet associe des capteurs de position sur les hottes de recherche à une campagne de sensibilisation. Les hottes étant énergivores, leur fermeture lorsqu'elles ne sont pas utilisées réduit considérablement la demande énergétique de ventilation sans affecter la productivité de la recherche.",
+      "highlights": [
+        {
+          "icon": "zap",
+          "label": "Réduction de la demande d'énergie",
+          "value": "20–40 %"
+        },
+        {
+          "icon": "users",
+          "label": "Membres de la communauté engagés",
+          "value": "77+"
+        },
+        {
+          "icon": "shield-check",
+          "label": "Normalisation de la sécurité",
+          "value": "Améliorée"
+        },
+        {
+          "icon": "trending-down",
+          "label": "Coût de l'infrastructure",
+          "value": "Faible coût"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Hotte de laboratoire avec capteur de position installé"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Autocollants éducatifs et matériel de campagne dans le laboratoire"
+        }
+      ],
+      "futureOutlook": "Le projet se poursuivra en tant que projet pilote avec de nouvelles unités de traitement d'air. Les prochaines étapes incluent l'analyse des données de performance et l'utilisation des résultats pour étendre le programme à d'autres laboratoires du campus."
+    }
+  },
+  {
+    "id": "cause-a-scene-algonquin",
+    "theme": "environment",
+    "province": "ON",
+    "collegeLogoUrl": "/logos/placeholder-algonquin.svg",
+    "previewImageUrl": "https://placeholder.com/preview-algonquin-murals.jpg",
+    "externalUrl": "https://www.algonquincollege.com",
+    "en": {
+      "collegeName": "Algonquin College",
+      "title": "Cause a Scene",
+      "address": "1385 Woodroffe Ave, Ottawa, ON K2G 1V8",
+      "projectLead": "Matthew Jerabek",
+      "previewDescription": "A public-facing climate awareness experience transforming campus spaces through art, interactive technology, and Indigenous dialogue.",
+      "description": "Cause a Scene transformed the DARE District into a climate awareness experience through art and technology. Launched with a multigenerational dialogue featuring Indigenous Knowledge Keepers and students, the initiative invited reflection on land responsibilities. Illustration and Concept Art learners created nine large-scale murals and interactive activations, supported by the Social Innovation Lab, Makerspace, and student media teams.",
+      "highlights": [
+        {
+          "icon": "palette",
+          "label": "Student Artists Engaged",
+          "value": "55"
+        },
+        {
+          "icon": "layout",
+          "label": "Murals Installed",
+          "value": "9"
+        },
+        {
+          "icon": "users",
+          "label": "Student Reach",
+          "value": "2,141"
+        },
+        {
+          "icon": "eye",
+          "label": "Prospective Student Views",
+          "value": "~730"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Multigenerational climate dialogue at the DARE District launch"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Student-created large-scale murals on display in the campus corridor"
+        }
+      ],
+      "futureOutlook": "The mural initiative will continue within the Illustration and Concept Art program. A second cohort of students has already been introduced to the project model and technology, ensuring ongoing experiential learning and future climate-focused art activations."
+    },
+    "fr": {
+      "collegeName": "Collège Algonquin",
+      "title": "Cause a Scene (Faire sensation)",
+      "address": "1385 Woodroffe Ave, Ottawa, ON K2G 1V8",
+      "projectLead": "Matthew Jerabek",
+      "previewDescription": "Une expérience de sensibilisation au climat transformant les espaces du campus par l'art, la technologie interactive et le dialogue autochtone.",
+      "description": "Cause a Scene a transformé le quartier DARE en une expérience de sensibilisation au climat par l'art et la technologie. Lancée par un dialogue multigénérationnel avec des gardiens du savoir autochtone, l'initiative a invité à réfléchir aux responsabilités envers la terre. Des étudiants en illustration et en art conceptuel ont créé neuf murales à grande échelle et des activations interactives, avec le soutien du Laboratoire d'innovation sociale et du Makerspace.",
+      "highlights": [
+        {
+          "icon": "palette",
+          "label": "Étudiants artistes engagés",
+          "value": "55"
+        },
+        {
+          "icon": "layout",
+          "label": "Murales installées",
+          "value": "9"
+        },
+        {
+          "icon": "users",
+          "label": "Étudiants joints",
+          "value": "2 141"
+        },
+        {
+          "icon": "eye",
+          "label": "Vues par futurs étudiants",
+          "value": "~730"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Dialogue climatique multigénérationnel lors du lancement au quartier DARE"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Murales à grande échelle créées par les étudiants exposées dans le corridor du campus"
+        }
+      ],
+      "futureOutlook": "L'initiative des murales se poursuivra dans le cadre du programme d'illustration et d'art conceptuel. Une deuxième cohorte d'étudiants a déjà été initiée au modèle de projet, assurant un apprentissage expérientiel continu et de futures activations artistiques liées au climat."
+    }
+  },
+  {
+    "id": "energy-awareness-bcit",
+    "theme": "energy",
+    "province": "BC",
+    "collegeLogoUrl": "/logos/placeholder-bcit.svg",
+    "previewImageUrl": "https://placeholder.com/preview-bcit-energy.jpg",
+    "externalUrl": "https://www.bcit.ca",
+    "en": {
+      "collegeName": "British Columbia Institute of Technology",
+      "title": "Energy Awareness Week and Sweater Day",
+      "address": "3700 Willingdon Ave, Burnaby, BC V5G 3H2",
+      "projectLead": "Henry Leung, Stella Zhang, Green Team members",
+      "previewDescription": "An institute-wide campaign to reduce energy use and GHG emissions through behaviour change, interactive events, and Indigenous perspectives.",
+      "description": "The BCIT Energy Awareness Campaign was an institute-wide initiative designed to engage the campus community in reducing energy consumption. Through pop-up events, digital communications, and interactive quizzes, the campaign connected everyday actions with broader sustainability goals. A key feature was the integration of Indigenous perspectives on environmental stewardship, shared through educational media to deepen the community's respect for natural resources.",
+      "highlights": [
+        {
+          "icon": "map-pin",
+          "label": "Campuses Activated",
+          "value": "5"
+        },
+        {
+          "icon": "users",
+          "label": "People Reached",
+          "value": "1,000+"
+        },
+        {
+          "icon": "file-check",
+          "label": "Energy Saving Pledges",
+          "value": "329"
+        },
+        {
+          "icon": "earth",
+          "label": "Indigenous Integration",
+          "value": "Core Value"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Students participating in energy conservation quizzes at a campus pop-up event"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Indigenous staff member sharing stewardship insights in an educational video"
+        }
+      ],
+      "futureOutlook": "BCIT is committed to continuing its efforts to raise energy-saving awareness. With the full support and active involvement of Green Team members, the institute will sustain these engagement activities to further embed sustainability into campus culture."
+    },
+    "fr": {
+      "collegeName": "British Columbia Institute of Technology",
+      "title": "Semaine de sensibilisation à l'énergie et Journée du chandail",
+      "address": "3700 Willingdon Ave, Burnaby, BC V5G 3H2",
+      "projectLead": "Henry Leung, Stella Zhang, membres de la Green Team",
+      "previewDescription": "Une campagne à l'échelle de l'institut pour réduire la consommation d'énergie et les émissions de GES par le changement de comportement et le dialogue autochtone.",
+      "description": "La campagne de sensibilisation à l'énergie du BCIT était une initiative visant à mobiliser la communauté du campus pour réduire la consommation d'énergie. Grâce à des événements éphémères, des communications numériques et des quiz interactifs, la campagne a lié les actions quotidiennes aux objectifs de durabilité. Un élément clé a été l'intégration des perspectives autochtones sur l'intendance environnementale, partagées via des médias éducatifs pour approfondir le respect des ressources naturelles.",
+      "highlights": [
+        {
+          "icon": "map-pin",
+          "label": "Campus activés",
+          "value": "5"
+        },
+        {
+          "icon": "users",
+          "label": "Personnes jointes",
+          "value": "1 000+"
+        },
+        {
+          "icon": "file-check",
+          "label": "Engagements d'économie",
+          "value": "329"
+        },
+        {
+          "icon": "earth",
+          "label": "Intégration autochtone",
+          "value": "Valeur clé"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Étudiants participant à des quiz sur la conservation de l'énergie lors d'un événement sur le campus"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Un membre du personnel autochtone partageant des réflexions sur l'intendance dans une vidéo éducative"
+        }
+      ],
+      "futureOutlook": "Le BCIT s'engage à poursuivre ses efforts de sensibilisation aux économies d'énergie. Avec le soutien total et la participation active des membres de la Green Team, l'institut maintiendra ces activités pour ancrer davantage la durabilité dans la culture du campus."
+    }
+  },
+  {
+    "id": "nutrient-journey-ucn",
+    "theme": "food",
+    "province": "MB",
+    "collegeLogoUrl": "/logos/placeholder-ucn.svg",
+    "previewImageUrl": "https://placeholder.com/preview-ucn-composting.jpg",
+    "externalUrl": "https://www.ucn.ca",
+    "en": {
+      "collegeName": "University College of the North",
+      "title": "The Nutrient Journey: From Culinary Arts to Greenhouse and Back",
+      "address": "436 7th St, The Pas, MB R9A 1M4",
+      "projectLead": "Tara Manych and Vanessa Rosenkranz",
+      "previewDescription": "A novel vermicomposting program at UCN The Pas campus, combining organic waste reduction with Indigenous art and intergenerational knowledge transfer.",
+      "description": "An innovative composting program was established at the UCN The Pas campus, featuring vermicomposting colonies in a passive solar greenhouse. To celebrate the project, a renowned Winnipeg artist and local students created a mural highlighting our shared stewardship of soil, water, and wildlife. The initiative fosters collaboration between researchers and Indigenous knowledge keepers to develop sustainable soil production methods.",
+      "highlights": [
+        {
+          "icon": "recycle",
+          "label": "Organic Waste Redirected",
+          "value": "75 L"
+        },
+        {
+          "icon": "users-2",
+          "label": "Stakeholder Groups",
+          "value": "7"
+        },
+        {
+          "icon": "palette",
+          "label": "Community Art Mural",
+          "value": "1"
+        },
+        {
+          "icon": "sprout",
+          "label": "New Campus Program",
+          "value": "First-time"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Vermicompost colonies established in the passive solar greenhouse"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Mural artwork created by local students and a professional artist"
+        }
+      ],
+      "futureOutlook": "Following the March 2026 Art Reveal, UCN will integrate the composting program into campus courses and measure its environmental impact. Future plans include scaling this model to other northern campuses and local food networks."
+    },
+    "fr": {
+      "collegeName": "University College of the North",
+      "title": "Le parcours des nutriments : des arts culinaires à la serre, и обратно",
+      "address": "436 7th St, The Pas, MB R9A 1M4",
+      "projectLead": "Tara Manych et Vanessa Rosenkranz",
+      "previewDescription": "Un nouveau programme de vermicompostage au campus UCN de The Pas, alliant réduction des déchets organiques, art autochtone et transfert de connaissances.",
+      "description": "Un programme de compostage innovant a été mis en place au campus UCN de The Pas, avec des colonies de vermicompostage installées dans une serre solaire passive. Pour célébrer le projet, un artiste renommé de Winnipeg et des étudiants locaux ont créé une murale soulignant notre responsabilité commune envers le sol, l'eau et la faune. L'initiative favorise la collaboration entre chercheurs et gardiens du savoir autochtone pour développer des méthodes durables de production de sol.",
+      "highlights": [
+        {
+          "icon": "recycle",
+          "label": "Déchets organiques détournés",
+          "value": "75 L"
+        },
+        {
+          "icon": "users-2",
+          "label": "Groupes de parties prenantes",
+          "value": "7"
+        },
+        {
+          "icon": "palette",
+          "label": "Murale artistique communautaire",
+          "value": "1"
+        },
+        {
+          "icon": "sprout",
+          "label": "Nouveau programme",
+          "value": "Premier"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Colonies de vermicompostage établies dans la serre solaire passive"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Murale créée par des étudiants locaux et un artiste professionnel"
+        }
+      ],
+      "futureOutlook": "Après le dévoilement artistique de mars 2026, l'UCN intégrera le programme de compostage dans les cours du campus et mesurera son impact environnemental. Les plans futurs incluent l'extension de ce modèle à d'autres campus du Nord et aux réseaux alimentaires locaux."
+    }
+  },
+  {
+    "id": "micro-forest-conestoga",
+    "theme": "environment",
+    "province": "ON",
+    "collegeLogoUrl": "/logos/placeholder-conestoga.svg",
+    "previewImageUrl": "https://placeholder.com/preview-conestoga-forest.jpg",
+    "externalUrl": "https://www.conestogac.on.ca",
+    "en": {
+      "collegeName": "Conestoga College",
+      "title": "Planting for the Future: A Campus Micro-Forest Initiative",
+      "address": "299 Doon Valley Dr, Kitchener, ON N2P 2G5",
+      "projectLead": "Laura Matheson",
+      "previewDescription": "A campus rewilding initiative that engaged the community to plant over 100 native species, guided by Indigenous ecological knowledge.",
+      "description": "On October 28, 2025, Conestoga College launched a Micro-Forest initiative as part of its campus rewilding efforts. Engaging 40 community members, the project resulted in the planting of 100+ native shrubs and trees. The plan was developed in consultation with Indigenous leadership to ensure species selection reflected local land-based knowledge. This forest will sequester carbon and serve as a living classroom for ecological literacy.",
+      "highlights": [
+        {
+          "icon": "trees",
+          "label": "Native Species Planted",
+          "value": "100+"
+        },
+        {
+          "icon": "users",
+          "label": "Community Volunteers",
+          "value": "40"
+        },
+        {
+          "icon": "cloud-sun",
+          "label": "Annual Carbon Sequestration",
+          "value": "200–250 kg"
+        },
+        {
+          "icon": "home",
+          "label": "Household Energy Equivalent",
+          "value": "1 unit"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Students and faculty planting native shrubs during the collaborative event"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "The newly established micro-forest site at the Kitchener campus"
+        }
+      ],
+      "futureOutlook": "Conestoga is developing a long-term maintenance and watering plan to ensure the forest's success. The next phase involves exploring the creation of a second adjacent micro-forest to double the environmental impact and further expand campus biodiversity."
+    },
+    "fr": {
+      "collegeName": "Collège Conestoga",
+      "title": "Planter pour l'avenir : Initiative de micro-forêt sur le campus",
+      "address": "299 Doon Valley Dr, Kitchener, ON N2P 2G5",
+      "projectLead": "Laura Matheson",
+      "previewDescription": "Une initiative de réensauvagement du campus qui a mobilisé la communauté pour planter plus de 100 espèces indigènes, guidée par le savoir écologique autochtone.",
+      "description": "Le 28 octobre 2025, le Collège Conestoga a lancé une initiative de micro-forêt dans le cadre de ses efforts de réensauvagement. Mobilisant 40 membres de la communauté, le projet a permis de planter plus de 100 arbres et arbustes indigènes. Le plan a été élaboré en consultation avec des leaders autochtones pour s'assurer que le choix des espèces reflète les connaissances locales de la terre. Cette forêt séquestrera le carbone et servira de salle de classe vivante.",
+      "highlights": [
+        {
+          "icon": "trees",
+          "label": "Espèces indigènes plantées",
+          "value": "100+"
+        },
+        {
+          "icon": "users",
+          "label": "Bénévoles communautaires",
+          "value": "40"
+        },
+        {
+          "icon": "cloud-sun",
+          "label": "Carbone séquestré annuellement",
+          "value": "200–250 kg"
+        },
+        {
+          "icon": "home",
+          "label": "Équivalent énergétique domestique",
+          "value": "1 foyer"
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://placeholder.com/photo-1.jpg",
+          "caption": "Étudiants et professeurs plantant des arbustes indigènes lors de l'événement"
+        },
+        {
+          "url": "https://placeholder.com/photo-2.jpg",
+          "caption": "Le site de la micro-forêt nouvellement établi au campus de Kitchener"
+        }
+      ],
+      "futureOutlook": "Conestoga élabore un plan d'entretien et d'arrosage à long terme pour assurer le succès de la forêt. La phase suivante prévoit l'exploration d'une deuxième micro-forêt adjacente afin de doubler l'impact environnemental et d'accroître la biodiversité."
     }
   }
 ]
