@@ -35,7 +35,7 @@ const Hero = () => {
               {t("hero.description")}
             </p>
             <div className="flex flex-wrap gap-3">
-              <Button size="lg" onClick={scrollToProjects} className="gap-2">
+              <Button size="lg" variant="default" onClick={scrollToProjects} className="gap-2">
                 {t("hero.cta")}
                 <ArrowDown className="h-4 w-4" aria-hidden="true" />
               </Button>

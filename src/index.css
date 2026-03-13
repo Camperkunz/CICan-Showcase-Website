@@ -15,7 +15,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 240 10% 12%;
 
-    --primary: 270 42% 30%;
+    --primary: 244 31% 52%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 260 15% 95%;
@@ -124,7 +124,12 @@
     font-family: 'Inter', sans-serif;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: 'Plus Jakarta Sans', sans-serif;
   }
 }
