@@ -101,18 +101,18 @@
       "title": "Field-to-Fork Climate Action: Circular Food Systems & Indigenous Collaboration",
       "address": "2000 Simcoe St N, Oshawa, ON L1G 0C5",
       "projectLead": "Kelly O’Brien",
-      "previewDescription": "Strengthening circular food systems through Indigenous collaboration, education, and hands-on GHG-reduction strategies.",
-      "description": "This project advances Durham College’s Field‑to‑Fork‑to‑Field campus model by embedding climate-conscious food systems learning across the curriculum and community engagement. In partnership with the Barrett Centre of Innovation in Sustainable Urban Agriculture, students gain experience in GHG‑reduction through culinary programming and applied research. Indigenous knowledge is integrated through an Indigenous Healing Garden, while community workshops model sustainable food preparation and waste reduction.",
+      "previewDescription": "Strengthening circular food systems through Indigenous collaboration, centered on Reconciliation and hands-on GHG-reduction strategies.",
+      "description": "This project supports the integration of Indigenous perspectives within Durham College’s Field-to-Fork-to-Field campus model, reflecting an ongoing responsibility toward Reconciliation. In partnership with the Barrett Centre and Miinikaan, students engage in GHG-reduction through culinary programming and the creation of an Indigenous Healing Garden. The initiative invites the community to learn through relationships with the land, modeling sustainable food preparation and waste reduction.",
       "highlights": [
+        {
+          "icon": "users",
+          "label": "Workshop Participants",
+          "value": "3,604"
+        },
         {
           "icon": "recycle",
           "label": "Food Waste Diverted",
           "value": "6.335 t"
-        },
-        {
-          "icon": "refrigerator",
-          "label": "Recaptured By-products",
-          "value": "2,000+ kg"
         },
         {
           "icon": "hand-heart",
@@ -120,40 +120,40 @@
           "value": "3,996 kg"
         },
         {
-          "icon": "sprout",
-          "label": "Waste Reduction",
-          "value": "30%"
+          "icon": "refrigerator",
+          "label": "Recaptured By-products",
+          "value": "2,000+ kg"
         }
       ],
       "photos": [
         {
           "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Students working in the culinary lab with recaptured by-products"
+          "caption": "Ground blessing ceremony led by Elder Dorothy Taylor"
         },
         {
           "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Ceremonial launch of the Indigenous Healing Garden"
+          "caption": "Students working on the Indigenous Healing Garden design with Miinikaan"
         }
       ],
-      "futureOutlook": "In collaboration with Indigenous partners, an Indigenous Agroecology Garden and raised-bed planters for medicinal plants will be installed. Guided by Indigenous knowledge systems, this space will support curriculum integration and experiential learning across the campus community."
+      "futureOutlook": "In collaboration with the First Peoples Indigenous Centre and Miinikaan, an Indigenous Agroecology Garden and medicinal raised-bed planters will be installed. Guided by Indigenous knowledge systems, this space will support curriculum integration and experiential learning across the campus community."
     },
     "fr": {
       "collegeName": "Durham College",
       "title": "Action climatique de la ferme à la table : systèmes alimentaires circulaires et collaboration autochtone",
       "address": "2000 Simcoe St N, Oshawa, ON L1G 0C5",
       "projectLead": "Kelly O’Brien",
-      "previewDescription": "Renforcement des systèmes alimentaires circulaires grâce à la collaboration autochtone, à l'éducation et à des stratégies concrètes de réduction des GES.",
-      "description": "Ce projet fait progresser le modèle « de la ferme à la table » du Durham College en intégrant l'apprentissage des systèmes alimentaires respectueux du climat dans les programmes d'études et l'engagement communautaire. En partenariat avec le Barrett Centre of Innovation in Sustainable Urban Agriculture, les étudiants acquièrent une expérience en réduction des GES via des programmes culinaires. Les savoirs autochtones sont intégrés par la création d'un jardin de guérison, tandis que des ateliers modélisent la préparation durable des aliments et la réduction des déchets.",
+      "previewDescription": "Renforcement des systèmes alimentaires circulaires grâce à la collaboration autochtone, axé sur la réconciliation et les stratégies de réduction des GES.",
+      "description": "Ce projet soutient l'intégration des perspectives autochtones dans le modèle « de la ferme à la table » du Durham College, reflétant une responsabilité continue envers la réconciliation. En partenariat avec le Barrett Centre et Miinikaan, les étudiants participent à la réduction des GES via des programmes culinaires et la création d'un jardin de guérison autochtone. L'initiative invite la communauté à apprendre par la relation avec la terre, modélisant la préparation durable des aliments et la réduction des déchets.",
       "highlights": [
+        {
+          "icon": "users",
+          "label": "Participants aux ateliers",
+          "value": "3 604"
+        },
         {
           "icon": "recycle",
           "label": "Déchets alimentaires détournés",
           "value": "6,335 t"
-        },
-        {
-          "icon": "refrigerator",
-          "label": "Sous-produits récupérés",
-          "value": "2 000+ kg"
         },
         {
           "icon": "hand-heart",
@@ -161,22 +161,22 @@
           "value": "3 996 kg"
         },
         {
-          "icon": "sprout",
-          "label": "Réduction des déchets",
-          "value": "30 %"
+          "icon": "refrigerator",
+          "label": "Sous-produits récupérés",
+          "value": "2 000+ kg"
         }
       ],
       "photos": [
         {
           "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Étudiants travaillant en laboratoire culinaire avec des sous-produits récupérés"
+          "caption": "Cérémonie de bénédiction du sol dirigée par l'Aînée Dorothy Taylor"
         },
         {
           "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Lancement cérémoniel du jardin de guérison autochtone"
+          "caption": "Étudiants travaillant sur la conception du jardin de guérison avec Miinikaan"
         }
       ],
-      "futureOutlook": "En collaboration avec des partenaires autochtones, un jardin d'agroécologie autochtone et des bacs de plantation pour plantes médicinales seront installés. Guidé par les systèmes de connaissances autochtones, cet espace soutiendra l'intégration des programmes d'études et l'apprentissage expérientiel."
+      "futureOutlook": "En collaboration avec le First Peoples Indigenous Centre et Miinikaan, un jardin d'agroécologie autochtone et des bacs de plantes médicinales seront installés. Guidé par les systèmes de connaissances autochtones, cet espace soutiendra l'intégration des programmes d'études et l'apprentissage expérientiel."
     }
   },
   {
