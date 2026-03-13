@@ -36,6 +36,12 @@ const ProjectDetail = () => {
 
   const project = projects.find((p) => p.id === id);
 
+  const moreProjects = useMemo(() => {
+    const others = projects.filter((p) => p.id !== id);
+    const shuffled = [...others].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, 3);
+  }, [id]);
+
   if (!project) {
     return (
       <div className="flex min-h-screen flex-col">
@@ -50,12 +56,6 @@ const ProjectDetail = () => {
 
   const data = project[lang] ?? project.en;
   const ThemeIcon = THEME_ICON_MAP[project.theme];
-
-  const moreProjects = useMemo(() => {
-    const others = projects.filter((p) => p.id !== id);
-    const shuffled = [...others].sort(() => Math.random() - 0.5);
-    return shuffled.slice(0, 3);
-  }, [id]);
 
   return (
     <div className="flex min-h-screen flex-col">
