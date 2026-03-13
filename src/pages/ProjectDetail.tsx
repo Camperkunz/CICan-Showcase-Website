@@ -1,3 +1,4 @@
+import { useMemo } from "react";
 import { useParams, Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import {
@@ -8,6 +9,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import ProjectCard from "@/components/ProjectCard";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -33,6 +35,12 @@ const ProjectDetail = () => {
   const lang = i18n.language as "en" | "fr";
 
   const project = projects.find((p) => p.id === id);
+
+  const moreProjects = useMemo(() => {
+    const others = projects.filter((p) => p.id !== id);
+    const shuffled = [...others].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, 3);
+  }, [id]);
 
   if (!project) {
     return (
@@ -201,7 +209,19 @@ const ProjectDetail = () => {
         </div>
       </main>
 
-      <Footer />
+        {/* More Projects */}
+        <section className="bg-muted/50 py-12">
+          <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
+            <h2 className="mb-8 text-2xl font-extrabold tracking-tight text-foreground">
+              {t("detail.moreProjects")}
+            </h2>
+            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {moreProjects.map((p) => (
+                <ProjectCard key={p.id} project={p} />
+              ))}
+            </div>
+          </div>
+        </section>
     </div>
   );
 };

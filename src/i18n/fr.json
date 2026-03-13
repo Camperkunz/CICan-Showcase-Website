@@ -46,7 +46,8 @@
     "province": "Province",
     "college": "Collège",
     "visitWebsite": "Visiter le site du projet",
-    "downloadReport": "Télécharger le rapport PDF"
+    "downloadReport": "Télécharger le rapport PDF",
+    "moreProjects": "Explorer d'autres projets"
   },
   "about": {
     "heroTitle": "À propos de l'initiative",
