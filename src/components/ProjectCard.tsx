@@ -43,20 +43,20 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
             <img
               src={project.collegeLogoUrl}
               alt={`${data.collegeName} logo`}
-              className="w-auto h-8"
+              className="w-auto h-10 lg:h-8"
               loading="lazy"
             />
-            {/* <span className="text-xs font-medium text-muted-foreground">
+            <span className="text-xs font-medium text-muted-foreground">
               {data.collegeName}
-            </span> */}
+            </span>
           </div>
-          <h3 className="text-sm font-bold leading-snug text-foreground line-clamp-2 sm:text-base">
+          <h3 className="text-xl md:text-lg lg:text-md font-extrabold leading-snug text-foreground line-clamp-2 sm:text-base">
             {data.title}
           </h3>
-          <p className="text-xs leading-relaxed text-muted-foreground line-clamp-2">
+          <p className="text-md md:text-md lg:text-sm leading-relaxed text-muted-foreground line-clamp-2">
             {data.previewDescription}
           </p>
-          <span className="mt-auto inline-flex items-center gap-1 text-xs font-semibold text-primary transition-colors group-hover:text-primary/80">
+          <span className="text-md md:text-md lg:text-sm mt-auto inline-flex items-center gap-1font-semibold text-primary transition-colors group-hover:text-primary/80">
             {t("card.readReport")}
             <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
           </span>

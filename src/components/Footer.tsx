@@ -13,16 +13,15 @@ const Footer = () => {
           <div className="flex items-center gap-6">
             <img
               src={branding.logos.cican}
-              alt="CICan"
+              alt="CICan logo"
               className="h-14 w-auto object-contain brightness-0 invert"
             />
             <img
               src={branding.logos.partner}
-              alt="Partner"
+              alt="Slide logo"
               className="h-12 w-auto object-contain brightness-0 invert"
             />
           </div>
-
           {/* Navigation links from branding config */}
           <nav aria-label="Footer navigation">
             <ul className="flex items-center gap-6">
@@ -30,7 +29,7 @@ const Footer = () => {
                 <li key={link.to}>
                   <Link
                     to={link.to}
-                    className="text-sm text-[hsl(var(--footer-muted))] transition-colors hover:text-[hsl(var(--footer-foreground))]"
+                    className="text-md md:text-lg lg:text-sm text-[hsl(var(--footer-foreground))] transition-colors hover:text-[hsl(var(--footer-muted))]"
                   >
                     {t(link.labelKey)}
                   </Link>

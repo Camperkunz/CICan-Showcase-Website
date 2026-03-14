@@ -154,7 +154,7 @@ const ProjectDetail = () => {
                   <img
                     src={project.collegeLogoUrl}
                     alt={`${data.collegeName} logo`}
-                    className="h-full"
+                    className="h-14 md:h-16 lg:h-10"
                   />
                   <div>
                     <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
@@ -209,19 +209,19 @@ const ProjectDetail = () => {
         </div>
       </main>
 
-        {/* More Projects */}
-        <section className="bg-muted/50 py-12">
-          <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
-            <h2 className="mb-8 text-2xl font-extrabold tracking-tight text-foreground">
-              {t("detail.moreProjects")}
-            </h2>
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {moreProjects.map((p) => (
-                <ProjectCard key={p.id} project={p} />
-              ))}
-            </div>
+      {/* More Projects */}
+      <section className="bg-muted/50 py-12">
+        <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
+          <h2 className="mb-8 text-2xl font-extrabold tracking-tight text-foreground">
+            {t("detail.moreProjects")}
+          </h2>
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {moreProjects.map((p) => (
+              <ProjectCard key={p.id} project={p} />
+            ))}
           </div>
-        </section>
+        </div>
+      </section>
 
       <Footer />
     </div>
