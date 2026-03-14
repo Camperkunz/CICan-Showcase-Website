@@ -3,7 +3,7 @@
     "id": "miyawaki-mini-forest-la-cite",
     "theme": "environment",
     "province": "ON",
-    "collegeLogoUrl": "/logos/placeholder-la-cite.svg",
+    "collegeLogoUrl": "/logos/logo-lacite.png",
     "previewImageUrl": "https://placeholder.com/preview-miyawaki.jpg",
     "externalUrl": "https://www.collegelacite.ca",
     "en": {
@@ -93,7 +93,7 @@
     "id": "field-to-fork-durham",
     "theme": "food",
     "province": "ON",
-    "collegeLogoUrl": "/logos/placeholder-durham.svg",
+    "collegeLogoUrl": "/logos/logo-durham.svg",
     "previewImageUrl": "https://placeholder.com/preview-durham-food.jpg",
     "externalUrl": "https://durhamcollege.ca",
     "en": {
@@ -183,7 +183,7 @@
     "id": "indigenous-medicinal-plants-boreal",
     "theme": "environment",
     "province": "ON",
-    "collegeLogoUrl": "/logos/placeholder-boreal.svg",
+    "collegeLogoUrl": "/logos/logo-boreal.svg",
     "previewImageUrl": "https://placeholder.com/preview-boreal-plants.jpg",
     "externalUrl": "https://www.collegeboreal.ca",
     "en": {
@@ -273,7 +273,7 @@
     "id": "shut-the-sash-lambton",
     "theme": "energy",
     "province": "ON",
-    "collegeLogoUrl": "/logos/placeholder-lambton.svg",
+    "collegeLogoUrl": "/logos/logo-lambton.svg",
     "previewImageUrl": "https://placeholder.com/preview-lambton-energy.jpg",
     "externalUrl": "https://lambtoncollege.ca",
     "en": {
@@ -363,7 +363,7 @@
     "id": "cause-a-scene-algonquin",
     "theme": "environment",
     "province": "ON",
-    "collegeLogoUrl": "/logos/placeholder-algonquin.svg",
+    "collegeLogoUrl": "/logos/logo-algonquin.svg",
     "previewImageUrl": "https://placeholder.com/preview-algonquin-murals.jpg",
     "externalUrl": "https://www.algonquincollege.com",
     "en": {
@@ -453,7 +453,7 @@
     "id": "energy-awareness-bcit",
     "theme": "energy",
     "province": "BC",
-    "collegeLogoUrl": "/logos/placeholder-bcit.svg",
+    "collegeLogoUrl": "/logos/logo-bcit.svg",
     "previewImageUrl": "https://placeholder.com/preview-bcit-energy.jpg",
     "externalUrl": "https://www.bcit.ca",
     "en": {
@@ -543,7 +543,7 @@
     "id": "nutrient-journey-ucn",
     "theme": "food",
     "province": "MB",
-    "collegeLogoUrl": "/logos/placeholder-ucn.svg",
+    "collegeLogoUrl": "/logos/logo-ucn.svg",
     "previewImageUrl": "https://placeholder.com/preview-ucn-composting.jpg",
     "externalUrl": "https://www.ucn.ca",
     "en": {
@@ -633,7 +633,7 @@
     "id": "micro-forest-conestoga",
     "theme": "environment",
     "province": "ON",
-    "collegeLogoUrl": "/logos/placeholder-conestoga.svg",
+    "collegeLogoUrl": "/logos/logo-conestoga.png",
     "previewImageUrl": "https://placeholder.com/preview-conestoga-forest.jpg",
     "externalUrl": "https://www.conestogac.on.ca",
     "en": {
