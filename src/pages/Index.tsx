@@ -30,7 +30,7 @@ const Index = () => {
 
   const filtered = useMemo(() => {
     let result = projects.filter((p) => {
-      if (theme !== "all" && p.theme !== theme) return false;
+      if (theme !== "all" && !getThemes(p).includes(theme as any)) return false;
       if (province !== "all" && p.province !== province) return false;
       if (search.trim()) {
         const name = (p[lang] ?? p.en).collegeName.toLowerCase();

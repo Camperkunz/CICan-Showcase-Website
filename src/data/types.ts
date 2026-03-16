@@ -30,7 +30,7 @@ export interface ProjectLocale {
 
 export interface Project {
   id: string;
-  theme: ThemeKey;
+  theme: ThemeKey | ThemeKey[];
   province: string;
   collegeLogoUrl: string;
   previewImageUrl: string;
@@ -38,3 +38,7 @@ export interface Project {
   en: ProjectLocale;
   fr: ProjectLocale;
 }
+
+/** Normalize theme field to always return an array */
+export const getThemes = (project: Project): ThemeKey[] =>
+  Array.isArray(project.theme) ? project.theme : [project.theme];

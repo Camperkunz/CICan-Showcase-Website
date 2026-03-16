@@ -12,11 +12,12 @@ import {
 } from "@/components/ui/select";
 import projectsData from "@/data/projects.json";
 import type { Project, ThemeKey } from "@/data/types";
+import { getThemes } from "@/data/types";
 
 const projects = projectsData as Project[];
 
 // Auto-generate unique themes and provinces from the dataset
-const THEMES: ThemeKey[] = [...new Set(projects.map((p) => p.theme))].sort();
+const THEMES: ThemeKey[] = [...new Set(projects.flatMap((p) => getThemes(p)))].sort();
 const PROVINCES: string[] = [...new Set(projects.map((p) => p.province))].sort();
 
 export type SortOrder = "az" | "za";
