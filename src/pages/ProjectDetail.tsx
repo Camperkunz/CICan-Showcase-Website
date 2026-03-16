@@ -14,7 +14,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { getThemeClasses } from "@/lib/themeColors";
-import { THEME_ICON_MAP } from "@/lib/themeIcons";
+import { ThemeIcon } from "@/lib/themeIcons";
 import projectsData from "@/data/projects.json";
 import type { Project } from "@/data/types";
 
