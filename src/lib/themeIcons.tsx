@@ -3,8 +3,8 @@ import type { ThemeKey } from "@/data/types";
 export const THEME_ICON_MAP: Record<ThemeKey, string> = {
   food: "/themes-icons/food.png",
   indigenous: "/themes-icons/indigenous.png",
-  greenBuildings: "/themes-icons/greenBuildings-landManagement.png",
-  wasteManagement: "/themes-icons/land-managment.png",
+  greenBuildings: "/themes-icons/greenBuildings-landManagment.png",
+  wasteManagment: "/themes-icons/waste-managment.png",
 };
 
 interface ThemeIconProps {

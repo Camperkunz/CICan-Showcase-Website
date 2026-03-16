@@ -1,9 +1,8 @@
 export type ThemeKey =
   | "food"
-  | "management"
   | "indigenous"
   | "greenBuildings"
-  | "landManagement";
+  | "wasteManagment";
 
 export interface ProjectHighlight {
   icon: string;

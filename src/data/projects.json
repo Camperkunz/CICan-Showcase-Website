@@ -271,7 +271,7 @@
   },
   {
     "id": "shut-the-sash-lambton",
-    "theme": "wasteManagement",
+    "theme": "wasteManagment",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-lambton.svg",
     "previewImageUrl": "/projects/lambton/preview-lambton.png",
@@ -451,7 +451,7 @@
   },
   {
     "id": "energy-awareness-bcit",
-    "theme": "wasteManagement",
+    "theme": "wasteManagment",
     "province": "BC",
     "collegeLogoUrl": "/logos/logo-bcit.svg",
     "previewImageUrl": "/projects/bcit/preview-bcit.png",
