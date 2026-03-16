@@ -10,6 +10,7 @@ import ProjectCard from "@/components/ProjectCard";
 import Footer from "@/components/Footer";
 import projectsData from "@/data/projects.json";
 import type { Project } from "@/data/types";
+import { getThemes } from "@/data/types";
 
 const projects = projectsData as Project[];
 
@@ -29,7 +30,7 @@ const Index = () => {
 
   const filtered = useMemo(() => {
     let result = projects.filter((p) => {
-      if (theme !== "all" && p.theme !== theme) return false;
+      if (theme !== "all" && !getThemes(p).includes(theme as any)) return false;
       if (province !== "all" && p.province !== province) return false;
       if (search.trim()) {
         const name = (p[lang] ?? p.en).collegeName.toLowerCase();
