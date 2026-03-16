@@ -2,6 +2,7 @@ import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
 import type { Project } from "@/data/types";
+import { getThemes } from "@/data/types";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { getThemeClasses } from "@/lib/themeColors";
@@ -15,7 +16,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
   const { t, i18n } = useTranslation();
   const lang = i18n.language as "en" | "fr";
   const data = project[lang] ?? project.en;
-  
+  const themes = getThemes(project);
 
   return (
     <Link
@@ -31,12 +32,17 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
             className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
             loading="lazy"
           />
-          <Badge
-            className={`absolute left-3 top-3 ${getThemeClasses(project.theme)} border-0 text-xs font-semibold gap-1`}
-          >
-            <ThemeIcon theme={project.theme} className="h-3 w-3" />
-            {t(`themes.${project.theme}`)}
-          </Badge>
+          <div className="absolute left-3 top-3 flex flex-wrap gap-1.5">
+            {themes.map((th) => (
+              <Badge
+                key={th}
+                className={`${getThemeClasses(th)} border-0 text-xs font-semibold gap-1`}
+              >
+                <ThemeIcon theme={th} className="h-3 w-3" />
+                {t(`themes.${th}`)}
+              </Badge>
+            ))}
+          </div>
         </div>
         <CardContent className="flex flex-col gap-3 p-4">
           <div className="flex-col items-center gap-2">
@@ -56,7 +62,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
           <p className="text-md md:text-md lg:text-sm leading-relaxed text-muted-foreground line-clamp-2">
             {data.previewDescription}
           </p>
-          <span className="text-md md:text-md lg:text-sm mt-auto inline-flex items-center gap-1font-semibold text-primary transition-colors group-hover:text-primary/80">
+          <span className="text-md md:text-md lg:text-sm mt-auto inline-flex items-center gap-1 font-semibold text-primary transition-colors group-hover:text-primary/80">
             {t("card.readReport")}
             <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" aria-hidden="true" />
           </span>

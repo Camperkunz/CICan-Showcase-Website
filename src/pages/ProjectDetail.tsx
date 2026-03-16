@@ -17,6 +17,7 @@ import { getThemeClasses } from "@/lib/themeColors";
 import { ThemeIcon } from "@/lib/themeIcons";
 import projectsData from "@/data/projects.json";
 import type { Project } from "@/data/types";
+import { getThemes } from "@/data/types";
 
 const projects = projectsData as Project[];
 
@@ -76,10 +77,14 @@ const ProjectDetail = () => {
         <header className="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
           <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
             <div className="flex-1">
-              <Badge className={`mb-3 ${getThemeClasses(project.theme)} border-0 text-xs font-semibold gap-1`}>
-                <ThemeIcon theme={project.theme} className="h-3 w-3" />
-                {t(`themes.${project.theme}`)}
-              </Badge>
+              <div className="mb-3 flex flex-wrap gap-1.5">
+                {getThemes(project).map((th) => (
+                  <Badge key={th} className={`${getThemeClasses(th)} border-0 text-xs font-semibold gap-1`}>
+                    <ThemeIcon theme={th} className="h-3 w-3" />
+                    {t(`themes.${th}`)}
+                  </Badge>
+                ))}
+              </div>
               <h1 className="mb-2 text-2xl font-extrabold tracking-tight text-foreground sm:text-3xl lg:text-4xl">
                 {data.title}
               </h1>
