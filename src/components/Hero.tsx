@@ -12,7 +12,7 @@ const Hero = () => {
 
   return (
     <section
-      className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-accent/30 py-16 py-20 lg:py-20 "
+      className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-accent/30 py-12 md:py-16 lg:py-20"
       aria-labelledby="hero-heading"
     >
       {/* Decorative elements */}
@@ -22,7 +22,7 @@ const Hero = () => {
       </div>
 
       <div className="container relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
-        <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
+        <div className="grid items-center gap-8 md:grid-cols-2 md:gap-10 lg:gap-16">
           {/* Left — Text */}
           <div>
             <h1
@@ -53,7 +53,7 @@ const Hero = () => {
             <img
               src="/hero-cican-hand.png"
               alt={t("hero.imageAlt")}
-              className="w-full object-cover lg:aspect-auto"
+              className="w-full rounded-lg object-cover md:max-h-[400px] lg:max-h-none"
               loading="eager"
             />
           </div>
