@@ -77,7 +77,7 @@ const ProjectDetail = () => {
           <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
             <div className="flex-1">
               <Badge className={`mb-3 ${getThemeClasses(project.theme)} border-0 text-xs font-semibold gap-1`}>
-                {ThemeIcon && <ThemeIcon className="h-3 w-3" aria-hidden="true" />}
+                <ThemeIcon theme={project.theme} className="h-3 w-3" />
                 {t(`themes.${project.theme}`)}
               </Badge>
               <h1 className="mb-2 text-2xl font-extrabold tracking-tight text-foreground sm:text-3xl lg:text-4xl">
