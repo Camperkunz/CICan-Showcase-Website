@@ -55,7 +55,7 @@ const ProjectDetail = () => {
   }
 
   const data = project[lang] ?? project.en;
-  const ThemeIcon = THEME_ICON_MAP[project.theme];
+  
 
   return (
     <div className="flex min-h-screen flex-col">
