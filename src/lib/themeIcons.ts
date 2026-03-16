@@ -9,7 +9,4 @@ export const THEME_ICON_MAP: Record<ThemeKey, React.ElementType> = {
   indigenous: Feather,
   greenBuildings: Building,
   landManagement: Mountain,
-  energy: Zap,
-  biodiversity: TreesIcon,
-  waste: Trash2,
 };

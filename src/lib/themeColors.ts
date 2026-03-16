@@ -6,9 +6,6 @@ const THEME_COLORS: Record<ThemeKey, string> = {
   indigenous: "bg-[hsl(var(--theme-indigenous))] text-white",
   greenBuildings: "bg-[hsl(var(--theme-green-buildings))] text-white",
   landManagement: "bg-[hsl(var(--theme-land-management))] text-white",
-  energy: "bg-[hsl(var(--theme-energy))] text-foreground",
-  biodiversity: "bg-[hsl(var(--theme-biodiversity))] text-white",
-  waste: "bg-[hsl(var(--theme-waste))] text-white",
 };
 
 export const getThemeClasses = (theme: ThemeKey) =>
