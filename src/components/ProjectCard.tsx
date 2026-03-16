@@ -38,7 +38,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
                 key={th}
                 className={`${getThemeClasses(th)} border-0 text-xs font-semibold gap-1`}
               >
-                <ThemeIcon theme={th} className="h-3 w-3" />
+                <ThemeIcon theme={th} className="h-7 w-7" />
                 {t(`themes.${th}`)}
               </Badge>
             ))}
