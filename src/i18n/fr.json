@@ -30,7 +30,10 @@
     "searchPlaceholder": "Rechercher par nom de collège...",
     "resultsCount": "{{count}} projet(s) trouvé(s)",
     "noResults": "Aucun projet ne correspond à vos filtres.",
-    "clearFilters": "Effacer les filtres"
+    "clearFilters": "Effacer les filtres",
+    "sortLabel": "Tri",
+    "sortAZ": "A → Z",
+    "sortZA": "Z → A"
   },
   "card": {
     "viewProject": "Voir le projet",
