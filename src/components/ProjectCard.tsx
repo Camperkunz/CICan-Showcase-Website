@@ -5,7 +5,7 @@ import type { Project } from "@/data/types";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { getThemeClasses } from "@/lib/themeColors";
-import { THEME_ICON_MAP } from "@/lib/themeIcons";
+import { ThemeIcon } from "@/lib/themeIcons";
 
 interface ProjectCardProps {
   project: Project;
@@ -15,7 +15,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
   const { t, i18n } = useTranslation();
   const lang = i18n.language as "en" | "fr";
   const data = project[lang] ?? project.en;
-  const ThemeIcon = THEME_ICON_MAP[project.theme];
+  
 
   return (
     <Link
@@ -34,7 +34,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
           <Badge
             className={`absolute left-3 top-3 ${getThemeClasses(project.theme)} border-0 text-xs font-semibold gap-1`}
           >
-            {ThemeIcon && <ThemeIcon className="h-3 w-3" aria-hidden="true" />}
+            <ThemeIcon theme={project.theme} className="h-3 w-3" />
             {t(`themes.${project.theme}`)}
           </Badge>
         </div>
