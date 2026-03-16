@@ -10,6 +10,7 @@ import ProjectCard from "@/components/ProjectCard";
 import Footer from "@/components/Footer";
 import projectsData from "@/data/projects.json";
 import type { Project } from "@/data/types";
+import { getThemes } from "@/data/types";
 
 const projects = projectsData as Project[];
 
