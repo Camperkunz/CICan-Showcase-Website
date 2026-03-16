@@ -17,7 +17,7 @@ const THEMES: ThemeKey[] = [
 ];
 
 const PROVINCES = [
-  "AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "QC", "SK", "YT",
+  "BC", "MB", "ON",
 ];
 
 interface FilterBarProps {

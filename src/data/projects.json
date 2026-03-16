@@ -1,10 +1,10 @@
 [
   {
     "id": "miyawaki-mini-forest-la-cite",
-    "theme": "environment",
+    "theme": "landManagement",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-lacite.png",
-    "previewImageUrl": "https://placeholder.com/preview-miyawaki.jpg",
+    "previewImageUrl": "/projects/la-cite/preview-lacite.png",
     "externalUrl": "https://www.collegelacite.ca",
     "en": {
       "collegeName": "Collège La Cité",
@@ -91,10 +91,10 @@
   },
   {
     "id": "field-to-fork-durham",
-    "theme": "food",
+    "theme": "greenBuildings",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-durham.svg",
-    "previewImageUrl": "https://placeholder.com/preview-durham-food.jpg",
+    "previewImageUrl": "/projects/durham/preview-durham.jpg",
     "externalUrl": "https://durhamcollege.ca",
     "en": {
       "collegeName": "Durham College",
@@ -181,11 +181,11 @@
   },
   {
     "id": "indigenous-medicinal-plants-boreal",
-    "theme": "environment",
+    "theme": "indigenous",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-boreal.svg",
-    "previewImageUrl": "https://placeholder.com/preview-boreal-plants.jpg",
-    "externalUrl": "https://www.collegeboreal.ca",
+    "previewImageUrl": "/projects/boreal/preview-boreal.png",
+    "externalUrl": " https://collegeboreal.ca/a-propos/recherche-et-innovation-boreal/",
     "en": {
       "collegeName": "Collège Boréal",
       "title": "Innovative Fertilization and Respect for Traditions: Cultivation of Indigenous Medicinal Plants",
@@ -271,10 +271,10 @@
   },
   {
     "id": "shut-the-sash-lambton",
-    "theme": "energy",
+    "theme": "management",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-lambton.svg",
-    "previewImageUrl": "https://placeholder.com/preview-lambton-energy.jpg",
+    "previewImageUrl": "/projects/lambton/preview-lambton.png",
     "externalUrl": "https://lambtoncollege.ca",
     "en": {
       "collegeName": "Lambton College",
@@ -361,10 +361,10 @@
   },
   {
     "id": "cause-a-scene-algonquin",
-    "theme": "environment",
+    "theme": "indigenous",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-algonquin.svg",
-    "previewImageUrl": "https://placeholder.com/preview-algonquin-murals.jpg",
+    "previewImageUrl": "/projects/algonquin/preview-algonquin.jpg",
     "externalUrl": "https://www.algonquincollege.com",
     "en": {
       "collegeName": "Algonquin College",
@@ -451,10 +451,10 @@
   },
   {
     "id": "energy-awareness-bcit",
-    "theme": "energy",
+    "theme": "management",
     "province": "BC",
     "collegeLogoUrl": "/logos/logo-bcit.svg",
-    "previewImageUrl": "https://placeholder.com/preview-bcit-energy.jpg",
+    "previewImageUrl": "/projects/bcit/preview-bcit.png",
     "externalUrl": "https://www.bcit.ca",
     "en": {
       "collegeName": "British Columbia Institute of Technology",
@@ -544,7 +544,7 @@
     "theme": "food",
     "province": "MB",
     "collegeLogoUrl": "/logos/logo-ucn.svg",
-    "previewImageUrl": "https://placeholder.com/preview-ucn-composting.jpg",
+    "previewImageUrl": "/projects/ucn/preview-ucn.jpg",
     "externalUrl": "https://www.ucn.ca",
     "en": {
       "collegeName": "University College of the North",
@@ -631,10 +631,10 @@
   },
   {
     "id": "micro-forest-conestoga",
-    "theme": "environment",
+    "theme": "landManagement",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-conestoga.png",
-    "previewImageUrl": "https://placeholder.com/preview-conestoga-forest.jpg",
+    "previewImageUrl": "/projects/conestoga/preview-conestoga.jpg",
     "externalUrl": "https://www.conestogac.on.ca",
     "en": {
       "collegeName": "Conestoga College",

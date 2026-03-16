@@ -12,7 +12,7 @@ const Hero = () => {
 
   return (
     <section
-      className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-accent/30 py-16 sm:py-24"
+      className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-accent/30 py-16 py-20 lg:py-20 "
       aria-labelledby="hero-heading"
     >
       {/* Decorative elements */}
@@ -51,9 +51,9 @@ const Hero = () => {
           {/* Right — Image */}
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=800&h=600&fit=crop"
+              src="/hero-cican-hand.png"
               alt={t("hero.imageAlt")}
-              className="w-full rounded-2xl object-cover shadow-lg lg:aspect-[4/3]"
+              className="w-full object-cover lg:aspect-auto"
               loading="eager"
             />
           </div>
