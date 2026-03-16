@@ -37,8 +37,6 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
             <ThemeIcon theme={project.theme} className="h-3 w-3" />
             {t(`themes.${project.theme}`)}
           </Badge>
-            {t(`themes.${project.theme}`)}
-          </Badge>
         </div>
         <CardContent className="flex flex-col gap-3 p-4">
           <div className="flex-col items-center gap-2">
