@@ -65,7 +65,7 @@ const ProjectDetail = () => {
         {/* Back */}
         <div className="mx-auto max-w-5xl px-4 pt-6 sm:px-6 lg:px-8">
           <Button variant="ghost" size="sm" asChild className="gap-1.5 text-muted-foreground hover:text-foreground">
-            <Link to="/">
+            <Link to="/?scrollTo=project-grid">
               <ArrowLeft className="h-4 w-4" aria-hidden="true" />
               {t("detail.back")}
             </Link>
