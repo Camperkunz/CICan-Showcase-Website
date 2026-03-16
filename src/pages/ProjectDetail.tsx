@@ -17,6 +17,7 @@ import { getThemeClasses } from "@/lib/themeColors";
 import { ThemeIcon } from "@/lib/themeIcons";
 import projectsData from "@/data/projects.json";
 import type { Project } from "@/data/types";
+import { getThemes } from "@/data/types";
 
 const projects = projectsData as Project[];
 
