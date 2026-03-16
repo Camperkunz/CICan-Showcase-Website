@@ -1,5 +1,5 @@
 import {
-  Salad, Settings, Feather, Building, Mountain, Zap, TreesIcon, Trash2,
+  Salad, Settings, Feather, Building, Mountain,
 } from "lucide-react";
 import type { ThemeKey } from "@/data/types";
 
