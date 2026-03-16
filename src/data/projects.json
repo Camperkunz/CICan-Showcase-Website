@@ -1,7 +1,7 @@
 [
   {
     "id": "miyawaki-mini-forest-la-cite",
-    "theme": "landManagement",
+    "theme": "greenBuildings",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-lacite.png",
     "previewImageUrl": "/projects/la-cite/preview-lacite.png",
@@ -271,7 +271,7 @@
   },
   {
     "id": "shut-the-sash-lambton",
-    "theme": "management",
+    "theme": "wasteManagement",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-lambton.svg",
     "previewImageUrl": "/projects/lambton/preview-lambton.png",
@@ -451,7 +451,7 @@
   },
   {
     "id": "energy-awareness-bcit",
-    "theme": "management",
+    "theme": "wasteManagement",
     "province": "BC",
     "collegeLogoUrl": "/logos/logo-bcit.svg",
     "previewImageUrl": "/projects/bcit/preview-bcit.png",
@@ -631,7 +631,7 @@
   },
   {
     "id": "micro-forest-conestoga",
-    "theme": "landManagement",
+    "theme": "greenBuildings",
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-conestoga.png",
     "previewImageUrl": "/projects/conestoga/preview-conestoga.jpg",
