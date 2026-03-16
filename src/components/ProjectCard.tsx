@@ -15,7 +15,7 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
   const { t, i18n } = useTranslation();
   const lang = i18n.language as "en" | "fr";
   const data = project[lang] ?? project.en;
-  const ThemeIcon = THEME_ICON_MAP[project.theme];
+  
 
   return (
     <Link
