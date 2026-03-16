@@ -4,6 +4,7 @@
     "subtitle": "Micro-Grants",
     "lang": "FR",
     "home": "Home",
+    "projects": "Projects",
     "about": "About"
   },
   "hero": {
@@ -30,7 +31,10 @@
     "searchPlaceholder": "Search by college name...",
     "resultsCount": "{{count}} project(s) found",
     "noResults": "No projects match your filters.",
-    "clearFilters": "Clear Filters"
+    "clearFilters": "Clear Filters",
+    "sortLabel": "Sort",
+    "sortAZ": "A → Z",
+    "sortZA": "Z → A"
   },
   "card": {
     "viewProject": "View Project",

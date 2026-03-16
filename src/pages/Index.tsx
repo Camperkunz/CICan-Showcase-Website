@@ -5,6 +5,7 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Storytelling from "@/components/Storytelling";
 import FilterBar from "@/components/FilterBar";
+import type { SortOrder } from "@/components/FilterBar";
 import ProjectCard from "@/components/ProjectCard";
 import Footer from "@/components/Footer";
 import projectsData from "@/data/projects.json";
@@ -24,9 +25,10 @@ const Index = () => {
   const [theme, setTheme] = useState("all");
   const [province, setProvince] = useState("all");
   const [search, setSearch] = useState("");
+  const [sort, setSort] = useState<SortOrder>("az");
 
   const filtered = useMemo(() => {
-    return projects.filter((p) => {
+    let result = projects.filter((p) => {
       if (theme !== "all" && p.theme !== theme) return false;
       if (province !== "all" && p.province !== province) return false;
       if (search.trim()) {
@@ -35,7 +37,15 @@ const Index = () => {
       }
       return true;
     });
-  }, [theme, province, search, lang]);
+
+    result.sort((a, b) => {
+      const nameA = (a[lang] ?? a.en).collegeName.toLowerCase();
+      const nameB = (b[lang] ?? b.en).collegeName.toLowerCase();
+      return sort === "az" ? nameA.localeCompare(nameB) : nameB.localeCompare(nameA);
+    });
+
+    return result;
+  }, [theme, province, search, sort, lang]);
 
   return (
     <div className="flex min-h-screen flex-col">
@@ -46,9 +56,11 @@ const Index = () => {
         theme={theme}
         province={province}
         search={search}
+        sort={sort}
         onThemeChange={setTheme}
         onProvinceChange={setProvince}
         onSearchChange={setSearch}
+        onSortChange={setSort}
         resultCount={filtered.length}
       />
 
