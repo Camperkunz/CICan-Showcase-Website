@@ -99,7 +99,10 @@
   },
   {
     "id": "field-to-fork-durham",
-    "theme": "greenBuildings",
+    "theme": [
+      "indigenous",
+      "greenBuildings"
+    ],
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-durham.svg",
     "previewImageUrl": "/projects/durham/preview-durham.jpg",
@@ -197,7 +200,10 @@
   },
   {
     "id": "indigenous-medicinal-plants-boreal",
-    "theme": "indigenous",
+    "theme": [
+      "indigenous",
+      "food"
+    ],
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-boreal.svg",
     "previewImageUrl": "/projects/boreal/preview-boreal.png",
@@ -216,7 +222,7 @@
           "value": "450 kg"
         },
         {
-          "icon": "cloud-rain",
+          "icon": "cloudRain",
           "label": "CO₂ Emissions Prevented",
           "value": "440 kg"
         },
@@ -226,19 +232,23 @@
           "value": "100"
         },
         {
-          "icon": "trash-2",
+          "icon": "trash",
           "label": "Waste Removed from Nature",
           "value": "53 lb"
         }
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Industrial dehydrator processing campus food waste"
+          "url": "/projects/boreal/composter.jpg",
+          "caption": "The Eco-Growth organic waste dehydrator on campus. This system processes food scraps into nutrient-rich biomass, significantly reducing waste volume."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Students and community members during the environmental awareness day"
+          "url": "/projects/boreal/food-waste.jpg",
+          "caption": "A look inside the dehydrator, where fruit and vegetable scraps are broken down. This circular process prevents organic waste from entering landfills and creates a natural fertilizer."
+        },
+        {
+          "url": "/projects/boreal/ecowatt.png",
+          "caption": "A technical presentation of the EcoWatt system, which monitors the energy efficiency of the composting process. This data helps optimize the campus's sustainable waste management."
         }
       ],
       "futureOutlook": "Collège Boréal plans to continue collecting food waste to reduce landfill contributions. The team intends to keep organizing awareness activities and experimenting with various applications for the substrate produced by the food dehydrator in different horticultural contexts."
@@ -257,7 +267,7 @@
           "value": "450 kg"
         },
         {
-          "icon": "cloud-rain",
+          "icon": "cloudRain",
           "label": "Émissions de CO₂ évitées",
           "value": "440 kg"
         },
@@ -267,19 +277,23 @@
           "value": "100"
         },
         {
-          "icon": "trash-2",
+          "icon": "trash",
           "label": "Déchets retirés de la nature",
           "value": "53 lb"
         }
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Déshydrateur industriel traitant les déchets alimentaires du campus"
+          "url": "/projects/boreal/composter.jpg",
+          "caption": "Le déshydrateur de déchets organiques Eco-Growth sur le campus. Ce système transforme les restes alimentaires en biomasse riche en nutriments, réduisant ainsi le volume de déchets."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Étudiants et membres de la communauté lors de la journée de sensibilisation à l'environnement"
+          "url": "/projects/boreal/food-waste.jpg",
+          "caption": "Un aperçu de l'intérieur du déshydrateur, où les restes de fruits et légumes sont décomposés. Ce processus circulaire évite que les déchets organiques ne finissent dans les décharges."
+        },
+        {
+          "url": "/projects/boreal/ecowatt.png",
+          "caption": "Une présentation technique du système EcoWatt, qui surveille l'efficacité énergétique du processus de compostage. Ces données aident à optimiser la gestion durable des déchets du collège."
         }
       ],
       "futureOutlook": "Le Collège Boréal prévoit de poursuivre la collecte des déchets alimentaires afin de réduire les quantités envoyées à la décharge. L'équipe a également l'intention de continuer à organiser des activités de sensibilisation et d'expérimenter différentes façons d'utiliser le substrat produit par le déshydrateur."
@@ -316,19 +330,23 @@
           "value": "Improved"
         },
         {
-          "icon": "trending-down",
+          "icon": "trendingDown",
           "label": "Infrastructure Cost",
           "value": "Low-cost"
         }
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Fume hood with sash-position sensor installed"
+          "url": "/projects/lambton/infographics.jpg",
+          "caption": "Educational posters and stickers highlight the safety and environmental benefits of closing laboratory fume hoods. This initiative balances lab safety with the college’s long-term sustainability goals."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Educational decals and campaign materials in the research lab"
+          "url": "/projects/lambton/team.jpg",
+          "caption": "Members of the Lambton College Sustainability Committee and research team gather after their 'Shut the Sash' presentation. The group is working to validate cost and energy savings across campus laboratories."
+        },
+        {
+          "url": "/projects/lambton/preview-lambton.png",
+          "caption": "A researcher works at a fume hood equipped with 'Shut the Sash' instructional signage. Keeping the sash closed when not in use is a key safety measure that also prevents significant energy waste."
         }
       ],
       "futureOutlook": "The project will continue as a pilot with new air handling units and ongoing data collection. Next steps include completing a performance analysis report and using the results to scale the program to additional laboratories across the campus."
@@ -357,19 +375,23 @@
           "value": "Améliorée"
         },
         {
-          "icon": "trending-down",
+          "icon": "trendingDown",
           "label": "Coût de l'infrastructure",
           "value": "Faible coût"
         }
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Hotte de laboratoire avec capteur de position installé"
+          "url": "/projects/lambton/infographics.jpg",
+          "caption": "Des affiches et des autocollants éducatifs soulignent les avantages sécuritaires et environnementaux de la fermeture des hottes de laboratoire. Cette initiative concilie la sécurité en laboratoire avec les objectifs de durabilité du collège."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Autocollants éducatifs et matériel de campagne dans le laboratoire"
+          "url": "/projects/lambton/team.jpg",
+          "caption": "Les membres du comité de durabilité et l'équipe de recherche du Collège Lambton se réunissent après leur présentation « Shut the Sash ». Le groupe travaille à valider les économies de coûts et d'énergie dans les laboratoires du campus."
+        },
+        {
+          "url": "/projects/lambton/preview-lambton.png",
+          "caption": "Un chercheur travaille sous une hotte de laboratoire équipée d'une signalisation « Shut the Sash ». Garder le sas fermé lorsqu'il n'est pas utilisé est une mesure de sécurité clé qui évite également un gaspillage d'énergie important."
         }
       ],
       "futureOutlook": "Le projet se poursuivra en tant que projet pilote avec de nouvelles unités de traitement d'air. Les prochaines étapes incluent l'analyse des données de performance et l'utilisation des résultats pour étendre le programme à d'autres laboratoires du campus."
@@ -413,12 +435,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Multigenerational climate dialogue at the DARE District launch"
+          "url": "/projects/algonquin/mural.jpg",
+          "caption": "The completed \"See What You Don't See\" mural features a QR code that triggers an interactive AR experience. This installation encourages viewers to engage with environmental themes through their mobile devices."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Student-created large-scale murals on display in the campus corridor"
+          "url": "/projects/algonquin/artist.JPG",
+          "caption": "Close-up of a student meticulously applying physical paint to the glass surface, ensuring the base for the AR interaction is perfect. The \"I Cause A Scene\" initiative showcases the technical skills of Interactive Media Design students."
+        },
+        {
+          "url": "/projects/algonquin/drawing-vr.jpg",
+          "caption": "A student uses a VR headset to design immersive digital layers over a physical mural. This project at Algonquin College explores the intersection of traditional illustration and augmented reality (AR) technology."
         }
       ],
       "futureOutlook": "The mural initiative will continue within the Illustration and Concept Art program. A second cohort of students has already been introduced to the project model and technology, ensuring ongoing experiential learning and future climate-focused art activations."
@@ -454,12 +480,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Dialogue climatique multigénérationnel lors du lancement au quartier DARE"
+          "url": "/projects/algonquin/mural.jpg",
+          "caption": "La murale terminée « See What You Don't See » comporte un code QR qui déclenche une expérience interactive de RA. Cette installation encourage les spectateurs à s'engager sur des thèmes environnementaux via leurs appareils mobiles."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Murales à grande échelle créées par les étudiants exposées dans le corridor du campus"
+          "url": "/projects/algonquin/artist.JPG",
+          "caption": "Gros plan d'une étudiante appliquant méticuleusement de la peinture sur la surface vitrée, assurant une base parfaite pour l'interaction en RA. L'initiative « I Cause A Scene » met en valeur les compétences techniques des étudiants en design de médias interactifs."
+        },
+        {
+          "url": "/projects/algonquin/drawing-vr.jpg",
+          "caption": "Une étudiante utilise un casque de RV pour concevoir des couches numériques immersives sur une murale physique. Ce projet à l'Algonquin College explore l'intersection entre l'illustration traditionnelle et la technologie de réalité augmentée (RA)."
         }
       ],
       "futureOutlook": "L'initiative des murales se poursuivra dans le cadre du programme d'illustration et d'art conceptuel. Une deuxième cohorte d'étudiants a déjà été initiée au modèle de projet, assurant un apprentissage expérientiel continu et de futures activations artistiques liées au climat."

@@ -6,7 +6,7 @@ import {
   TreesIcon, Users, Salad, Leaf, Zap, Sun, GraduationCap,
   Trash2, Recycle, Award, Sprout, Heart, Building, Thermometer,
   Bug, Flower, Bird, BarChart3, Droplet, Monitor, Database, DollarSign,
-  Maximize, ThermometerSnowflake, HandHeart, Refrigerator
+  Maximize, ThermometerSnowflake, HandHeart, Refrigerator, CloudRain, TrendingDown, Palette, Eye, Layout
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -28,7 +28,7 @@ const ICON_MAP: Record<string, React.ElementType> = {
   recycle: Recycle, award: Award, sprout: Sprout, heart: Heart, mapPin: MapPin,
   building: Building, thermometer: Thermometer, bug: Bug, flower: Flower,
   bird: Bird, barChart: BarChart3, droplet: Droplet, monitor: Monitor,
-  database: Database, maximize: Maximize, thermometerSnowflake: ThermometerSnowflake, handHeart: HandHeart, refrigerator: Refrigerator,
+  database: Database, maximize: Maximize, thermometerSnowflake: ThermometerSnowflake, handHeart: HandHeart, refrigerator: Refrigerator, cloudRain: CloudRain, trendingDown: TrendingDown, palette: Palette, eye: Eye, layout: Layout
 };
 
 const ProjectDetail = () => {
