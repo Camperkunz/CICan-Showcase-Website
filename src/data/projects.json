@@ -5,7 +5,7 @@
     "province": "ON",
     "collegeLogoUrl": "/logos/logo-lacite.png",
     "previewImageUrl": "/projects/la-cite/preview-lacite.png",
-    "externalUrl": "https://www.collegelacite.ca",
+    "externalUrl": "https://www.collegelacite.ca/",
     "en": {
       "collegeName": "Collège La Cité",
       "title": "Creation of an Urban Mini-Forest (Miyawaki Method)",
@@ -26,23 +26,27 @@
         },
         {
           "icon": "zap",
-          "label": "Faster Growth",
-          "value": "3-10×"
+          "label": "More Effective",
+          "value": "30×"
         },
         {
-          "icon": "thermometer-snowflake",
+          "icon": "thermometerSnowflake",
           "label": "Local Cooling",
           "value": "-1.3°C"
         }
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Planting native species using the Miyawaki technique"
+          "url": "/projects/la-cite/tiny-forest.png",
+          "caption": "Informational signs explain the 'Tiny Forest' concept and its ecological benefits to the public. These markers highlight the college's commitment to urban sustainability and education."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "The micro-forest site during the initial growth phase"
+          "url": "/projects/la-cite/forest-planting.png",
+          "caption": "Students from Collège La Cité work together to plant native species using the Miyawaki method. This hands-on experience transforms an urban space into a dense, biodiverse ecosystem."
+        },
+        {
+          "url": "/projects/la-cite/planting-group.png",
+          "caption": "A proud group of volunteers and students celebrate the completion of the planting phase. Community collaboration is the heart of this green initiative at La Cité."
         }
       ],
       "futureOutlook": "The team aims to scale the forest, expand ecological monitoring, and leverage additional funding to maximize environmental and educational outcomes, building on the proven impact on biodiversity and GHG reduction."
@@ -67,23 +71,27 @@
         },
         {
           "icon": "zap",
-          "label": "Croissance plus rapide",
-          "value": "3 à 10×"
+          "label": "Plus efficace",
+          "value": "30×"
         },
         {
-          "icon": "thermometer-snowflake",
+          "icon": "thermometerSnowflake",
           "label": "Refroidissement local",
           "value": "-1,3°C"
         }
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Plantation d'espèces indigènes selon la technique Miyawaki"
+          "url": "/projects/la-cite/tiny-forest.png",
+          "caption": "Des panneaux informatifs expliquent au public le concept de « micro-forêt » et ses bienfaits écologiques. Ces repères soulignent l'engagement du collège envers la durabilité urbaine et l'éducation."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Le site de la micro-forêt pendant la phase initiale de croissance"
+          "url": "/projects/la-cite/forest-planting.png",
+          "caption": "Les étudiants du Collège La Cité travaillent ensemble pour planter des espèces indigènes selon la méthode Miyawaki. Cette expérience pratique transforme un espace urbain en un écosystème dense et biodiversifié."
+        },
+        {
+          "url": "/projects/la-cite/planting-group.png",
+          "caption": "Un groupe fier de bénévoles et d'étudiants célèbre la fin de la phase de plantation. La collaboration communautaire est le cœur de cette initiative verte à La Cité."
         }
       ],
       "futureOutlook": "L'équipe vise à agrandir la forêt, à étendre le suivi écologique et à mobiliser des fonds supplémentaires pour maximiser les retombées environnementales et éducatives, en s'appuyant sur l'impact prouvé sur la biodiversité et la réduction des GES."
@@ -115,7 +123,7 @@
           "value": "6.335 t"
         },
         {
-          "icon": "hand-heart",
+          "icon": "handHeart",
           "label": "Fresh Produce Donated",
           "value": "3,996 kg"
         },
@@ -127,12 +135,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Ground blessing ceremony led by Elder Dorothy Taylor"
+          "url": "/projects/durham/ajax-farm.JPG",
+          "caption": "Drone footage of the Ajax urban farm, featuring experimental crop rows and greenhouses. The site serves as a living lab for sustainable agriculture and climate action research."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Students working on the Indigenous Healing Garden design with Miinikaan"
+          "url": "/projects/durham/galen-weston-centre.jpg",
+          "caption": "An aerial view of the CFF's integrated farm and gardens where students grow fresh produce. This urban agriculture hub supports circular food systems by supplying the campus bistro."
+        },
+        {
+          "url": "/projects/durham/girl-harvester.jpg",
+          "caption": "A student harvests fresh cherry tomatoes inside a campus greenhouse. Hands-on training in horticulture ensures a direct connection between sustainable growing practices and food production."
         }
       ],
       "futureOutlook": "In collaboration with the First Peoples Indigenous Centre and Miinikaan, an Indigenous Agroecology Garden and medicinal raised-bed planters will be installed. Guided by Indigenous knowledge systems, this space will support curriculum integration and experiential learning across the campus community."
@@ -156,7 +168,7 @@
           "value": "6,335 t"
         },
         {
-          "icon": "hand-heart",
+          "icon": "handHeart",
           "label": "Produits frais donnés",
           "value": "3 996 kg"
         },
@@ -168,12 +180,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Cérémonie de bénédiction du sol dirigée par l'Aînée Dorothy Taylor"
+          "url": "/projects/durham/ajax-farm.JPG",
+          "caption": "Images par drone de la ferme urbaine d'Ajax, montrant des rangées de cultures expérimentales et des serres. Le site sert de laboratoire vivant pour la recherche sur l'agriculture durable."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Étudiants travaillant sur la conception du jardin de guérison avec Miinikaan"
+          "url": "/projects/durham/galen-weston-centre.jpg",
+          "caption": "Vue aérienne de la ferme intégrée du CFF où les étudiants cultivent des produits frais. Ce pôle d'agriculture urbaine soutient les systèmes alimentaires circulaires en approvisionnant le bistro du campus."
+        },
+        {
+          "url": "/projects/durham/girl-harvester.jpg",
+          "caption": "Une étudiante récolte des tomates cerises fraîches dans une serre du campus. La formation pratique en horticulture assure un lien direct entre la culture durable et la production alimentaire."
         }
       ],
       "futureOutlook": "En collaboration avec le First Peoples Indigenous Centre et Miinikaan, un jardin d'agroécologie autochtone et des bacs de plantes médicinales seront installés. Guidé par les systèmes de connaissances autochtones, cet espace soutiendra l'intégration des programmes d'études et l'apprentissage expérientiel."
@@ -541,7 +557,10 @@
   },
   {
     "id": "nutrient-journey-ucn",
-    "theme": "food",
+    "theme": [
+      "indigenous",
+      "food"
+    ],
     "province": "MB",
     "collegeLogoUrl": "/logos/logo-ucn.svg",
     "previewImageUrl": "/projects/ucn/preview-ucn.jpg",
@@ -560,7 +579,7 @@
           "value": "75 L"
         },
         {
-          "icon": "users-2",
+          "icon": "users",
           "label": "Stakeholder Groups",
           "value": "7"
         },
@@ -577,12 +596,12 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Vermicompost colonies established in the passive solar greenhouse"
+          "url": "/projects/ucn/ucn-campus1.jpg",
+          "caption": "Image description"
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Mural artwork created by local students and a professional artist"
+          "url": "/projects/ucn/plants2.jpg",
+          "caption": "Image description"
         }
       ],
       "futureOutlook": "Following the March 2026 Art Reveal, UCN will integrate the composting program into campus courses and measure its environmental impact. Future plans include scaling this model to other northern campuses and local food networks."
