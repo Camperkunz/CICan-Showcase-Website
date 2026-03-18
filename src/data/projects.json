@@ -497,7 +497,10 @@
   },
   {
     "id": "energy-awareness-bcit",
-    "theme": "wasteManagment",
+    "theme": [
+      "indigenous",
+      "wasteManagment"
+    ],
     "province": "BC",
     "collegeLogoUrl": "/logos/logo-bcit.svg",
     "previewImageUrl": "/projects/bcit/preview-bcit.png",
@@ -511,7 +514,7 @@
       "description": "The BCIT Energy Awareness Campaign was an institute-wide initiative designed to engage the campus community in reducing energy consumption. Through pop-up events, digital communications, and interactive quizzes, the campaign connected everyday actions with broader sustainability goals. A key feature was the integration of Indigenous perspectives on environmental stewardship, shared through educational media to deepen the community's respect for natural resources.",
       "highlights": [
         {
-          "icon": "map-pin",
+          "icon": "mapPin",
           "label": "Campuses Activated",
           "value": "5"
         },
@@ -533,12 +536,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Students participating in energy conservation quizzes at a campus pop-up event"
+          "url": "/projects/bcit/preview-bcit.png",
+          "caption": "Students gather near campaign displays to learn about the impact of their energy habits. The initiative emphasizes respecting the Earth by fostering sustainable practices across the institute."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Indigenous staff member sharing stewardship insights in an educational video"
+          "url": "/projects/bcit/hall1.png",
+          "caption": "A central campaign booth featuring visual displays and educational resources. The setup encouraged students and staff to adopt sustainable habits through interactive learning."
+        },
+        {
+          "url": "/projects/bcit/quiz.jpg",
+          "caption": "Eye-catching posters throughout the corridors provide quick tips on energy conservation and behavioral change. This visual campaign connects everyday actions to BCIT’s broader environmental stewardship."
         }
       ],
       "futureOutlook": "BCIT is committed to continuing its efforts to raise energy-saving awareness. With the full support and active involvement of Green Team members, the institute will sustain these engagement activities to further embed sustainability into campus culture."
@@ -552,7 +559,7 @@
       "description": "La campagne de sensibilisation à l'énergie du BCIT était une initiative visant à mobiliser la communauté du campus pour réduire la consommation d'énergie. Grâce à des événements éphémères, des communications numériques et des quiz interactifs, la campagne a lié les actions quotidiennes aux objectifs de durabilité. Un élément clé a été l'intégration des perspectives autochtones sur l'intendance environnementale, partagées via des médias éducatifs pour approfondir le respect des ressources naturelles.",
       "highlights": [
         {
-          "icon": "map-pin",
+          "icon": "mapPin",
           "label": "Campus activés",
           "value": "5"
         },
@@ -574,12 +581,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Étudiants participant à des quiz sur la conservation de l'énergie lors d'un événement sur le campus"
+          "url": "/projects/bcit/preview-bcit.png",
+          "caption": "Les élèves se rassemblent près des panneaux d'information de la campagne pour s'informer sur l'impact de leurs habitudes de consommation d'énergie. Cette initiative met l'accent sur le respect de l'environnement en encourageant les pratiques durables au sein de l'établissement."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Un membre du personnel autochtone partageant des réflexions sur l'intendance dans une vidéo éducative"
+          "url": "/projects/bcit/hall1.png",
+          "caption": "Un stand de campagne central présentant des affichages visuels et des ressources éducatives. L'installation a encouragé l'adoption d'habitudes durables par l'apprentissage interactif."
+        },
+        {
+          "url": "/projects/bcit/quiz.jpg",
+          "caption": "Des affiches attrayantes disséminées dans les couloirs proposent des conseils pratiques pour économiser l'énergie et adopter de nouveaux comportements. Cette campagne visuelle établit un lien entre les actions quotidiennes et l'engagement environnemental global du BCIT."
         }
       ],
       "futureOutlook": "Le BCIT s'engage à poursuivre ses efforts de sensibilisation aux économies d'énergie. Avec le soutien total et la participation active des membres de la Green Team, l'institut maintiendra ces activités pour ancrer davantage la durabilité dans la culture du campus."
@@ -589,7 +600,7 @@
     "id": "nutrient-journey-ucn",
     "theme": [
       "indigenous",
-      "food"
+      "wasteManagment"
     ],
     "province": "MB",
     "collegeLogoUrl": "/logos/logo-ucn.svg",
@@ -627,11 +638,15 @@
       "photos": [
         {
           "url": "/projects/ucn/ucn-campus1.jpg",
-          "caption": "Image description"
+          "caption": "Aerial view of the UCN The Pas campus, where the new vermicomposting initiative and passive solar greenhouse are located."
         },
         {
           "url": "/projects/ucn/plants2.jpg",
-          "caption": "Image description"
+          "caption": "Native plants thrive in UCN’s passive solar greenhouse, supported by a novel composting program. This space serves as a living laboratory for sustainable cultivation and Indigenous knowledge."
+        },
+        {
+          "url": "/projects/ucn/soil-worms.jpg",
+          "caption": "Close-up of a healthy vermicompost colony established in the greenhouse. These worms process organic waste into nutrient-rich soil, driving the campus's circular food system."
         }
       ],
       "futureOutlook": "Following the March 2026 Art Reveal, UCN will integrate the composting program into campus courses and measure its environmental impact. Future plans include scaling this model to other northern campuses and local food networks."
@@ -650,7 +665,7 @@
           "value": "75 L"
         },
         {
-          "icon": "users-2",
+          "icon": "users",
           "label": "Groupes de parties prenantes",
           "value": "7"
         },
@@ -667,12 +682,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Colonies de vermicompostage établies dans la serre solaire passive"
+          "url": "/projects/ucn/ucn-campus1.jpg",
+          "caption": "Vue aérienne du campus UCN The Pas, où se situent la nouvelle initiative de vermicompostage et la serre solaire passive."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Murale créée par des étudiants locaux et un artiste professionnel"
+          "url": "/projects/ucn/plants2.jpg",
+          "caption": "Des plantes indigènes s'épanouissent dans la serre solaire passive de l'UCN, grâce à un nouveau programme de compostage. Cet espace sert de laboratoire vivant pour la culture durable."
+        },
+        {
+          "url": "/projects/ucn/soil-worms.jpg",
+          "caption": "Gros plan d'une colonie de vermicompostage saine établie dans la serre. Ces vers transforment les déchets organiques en un sol riche en nutriments."
         }
       ],
       "futureOutlook": "Après le dévoilement artistique de mars 2026, l'UCN intégrera le programme de compostage dans les cours du campus et mesurera son impact environnemental. Les plans futurs incluent l'extension de ce modèle à d'autres campus du Nord et aux réseaux alimentaires locaux."
@@ -704,7 +723,7 @@
           "value": "40"
         },
         {
-          "icon": "cloud-sun",
+          "icon": "cloudSun",
           "label": "Annual Carbon Sequestration",
           "value": "200–250 kg"
         },
@@ -716,12 +735,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Students and faculty planting native shrubs during the collaborative event"
+          "url": "/projects/conestoga/planting.jpg",
+          "caption": "Students and faculty participate in the hands-on planting event, applying Indigenous land-based knowledge to the site’s design. This collective effort transformed the campus landscape in just three hours."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "The newly established micro-forest site at the Kitchener campus"
+          "url": "/projects/conestoga/planted-forest.jpg",
+          "caption": "The newly established Micro-Forest on the Conestoga campus, featuring over 100 native trees and shrubs. This rewilding project is designed to increase biodiversity and sequester carbon for decades to come."
+        },
+        {
+          "url": "/projects/conestoga/students.jpg",
+          "caption": "A group of volunteers celebrates the completion of the planting initiative. Their work directly contributes to the college's climate action goals and long-term environmental stewardship."
         }
       ],
       "futureOutlook": "Conestoga is developing a long-term maintenance and watering plan to ensure the forest's success. The next phase involves exploring the creation of a second adjacent micro-forest to double the environmental impact and further expand campus biodiversity."
@@ -745,7 +768,7 @@
           "value": "40"
         },
         {
-          "icon": "cloud-sun",
+          "icon": "cloudSun",
           "label": "Carbone séquestré annuellement",
           "value": "200–250 kg"
         },
@@ -757,12 +780,16 @@
       ],
       "photos": [
         {
-          "url": "https://placeholder.com/photo-1.jpg",
-          "caption": "Étudiants et professeurs plantant des arbustes indigènes lors de l'événement"
+          "url": "/projects/conestoga/planting.jpg",
+          "caption": "Des étudiants et des professeurs participent à la plantation, appliquant les connaissances autochtones à la conception du site. Cet effort collectif a transformé le paysage du campus en seulement trois heures."
         },
         {
-          "url": "https://placeholder.com/photo-2.jpg",
-          "caption": "Le site de la micro-forêt nouvellement établi au campus de Kitchener"
+          "url": "/projects/conestoga/planted-forest.jpg",
+          "caption": "La micro-forêt nouvellement établie sur le campus de Conestoga, comprenant plus de 100 arbres et arbustes indigènes. Ce projet de réensauvagement vise à accroître la biodiversité et à séquestrer le carbone."
+        },
+        {
+          "url": "/projects/conestoga/students.jpg",
+          "caption": "Un groupe de bénévoles célèbre la fin de l'initiative de plantation. Leur travail contribue directement aux objectifs d'action climatique et d'intendance environnementale du collège."
         }
       ],
       "futureOutlook": "Conestoga élabore un plan d'entretien et d'arrosage à long terme pour assurer le succès de la forêt. La phase suivante prévoit l'exploration d'une deuxième micro-forêt adjacente afin de doubler l'impact environnemental et d'accroître la biodiversité."
