@@ -40,7 +40,7 @@ const Hero = () => {
                 <ArrowDown className="h-4 w-4" aria-hidden="true" />
               </Button>
               <Button size="lg" variant="outline" asChild className="gap-2">
-                <a href={branding.reportUrl} target="_blank" rel="noopener noreferrer" download>
+                <a href={branding.reportUrl} target="_blank" rel="noopener noreferrer">
                   <Download className="h-4 w-4" aria-hidden="true" />
                   {t("hero.downloadReport")}
                 </a>
