@@ -1,6 +1,7 @@
 import { useTranslation } from "react-i18next";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { branding } from "@/data/branding";
 
 const PARTNER_PLACEHOLDERS = Array.from({ length: 8 }, (_, i) => ({
   id: i + 1,
@@ -39,38 +40,22 @@ const About = () => {
             >
               {t("about.missionTitle")}
             </h2>
-            <div className="max-w-3xl space-y-5 text-base leading-relaxed text-muted-foreground">
+            <div className="max-w-3xl space-y-5 text-base leading-relaxed text-muted-foreground pb-4">
               <p>{t("about.missionP1")}</p>
               <p>{t("about.missionP2")}</p>
               <p>{t("about.missionP3")}</p>
+              <p>{t("about.missionP4")}</p>
+              <p>{t("about.missionP5")}</p>
+              <p>{t("about.missionP6")}</p>
             </div>
-          </div>
-        </section>
-
-        {/* Partners Section */}
-        <section className="border-t bg-muted/30 py-16 sm:py-24" aria-labelledby="partners-heading">
-          <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-12">
-              <h2
-                id="partners-heading"
-                className="text-2xl font-extrabold tracking-tight text-foreground sm:text-3xl"
-              >
-                {t("about.partnersTitle")}
-              </h2>
-              <p className="mt-3 text-base text-muted-foreground">
-                {t("about.partnersSubtitle")}
-              </p>
-            </div>
-            <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-4">
-              {PARTNER_PLACEHOLDERS.map((partner) => (
-                <div
-                  key={partner.id}
-                  className="flex h-24 items-center justify-center rounded-lg border bg-card text-sm font-medium text-muted-foreground"
-                >
-                  {partner.name}
-                </div>
-              ))}
-            </div>
+            <a
+              href={branding.contact.website}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline font-medium transition-colors duration-200"
+            >
+              Learn more about CICan
+            </a>
           </div>
         </section>
       </main>
