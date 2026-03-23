@@ -33,7 +33,7 @@ export const branding = {
   },
 
   /** Single global report PDF */
-  reportUrl: "/reports/impact-climate-report.pdf",
+  reportUrl: "/public/report-vol4.pdf",
 
   /** Footer navigation (i18n keys) */
   footerLinks: [
